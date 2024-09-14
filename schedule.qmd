@@ -1,0 +1,65 @@
+---
+title: "Schedule"
+---
+
+# Workshop Schedule
+
+Welcome to the EPA101 Workshop Schedule page. This schedule outlines the key dates, workshops, and deliverables for the course. Some workshops are focused on collaborative learning and do not have associated deliverables, while others coincide with important assignment due dates. Use this schedule to manage your time effectively and ensure you're prepared for each class.
+
+Please note that not all workshops have deliverables due. Workshops without deliverables are designed to help you develop your project through collaborative discussions and activities. Make sure to attend each workshop prepared to engage with the material and your peers.
+
+```{r build-table, echo=FALSE, message=FALSE}
+# Load necessary library
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+
+# Create a data frame with the schedule information
+schedule <- data.frame(
+  Date = c(
+    "Sept. 16",
+    "Sept. 18",
+    "Sept. 25",
+    "Oct. 9",
+    "Oct. 21",
+    "Oct. 28",
+    "Nov. 13",
+    "Dec. 2",
+    "Dec. 16"
+  ),
+  Activity = c(
+    "Workshop #1:<br>Define the problem and assemble some evidence",
+    "Draft #1 due:<br>Sector Analysis & Problem Definition assignment",
+    "Workshop #2:<br>Construct the alternatives",
+    "Workshop #3:<br>Select the criteria",
+    "Draft #2 due:<br>Revisions of Draft #1 + Policy Alternatives & Evaluation Criteria",
+    "Workshop #4:<br>Project the outcomes",
+    "Workshop #5:<br>Confront the trade-offs",
+    "Draft #3 due & Final Presentations:<br>Stop, focus, narrow, deepen and decide; Tell your story",
+    "Final Policy Analysis Paper (PAP) due"
+  ),
+  Deliverable = c(
+    "No",
+    "Yes",
+    "No",
+    "No",
+    "Yes",
+    "No",
+    "No",
+    "Yes",
+    "Yes"
+  ),
+  stringsAsFactors = FALSE
+)
+
+# Use kableExtra to create a formatted table
+schedule |> 
+  kbl(escape = FALSE, align = "llc", caption = "EPA PCA Workshop Schedule") |>
+  kable_styling(position = "center") |> 
+  column_spec(1, width = "10%") |> 
+  column_spec(2, width = "80%") |> 
+  column_spec(3, width = "10%")  
+```
+
+
+Good luck, and we look forward to your participation throughout the course!

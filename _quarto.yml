@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs  
+  render:
+    - "*.qmd"
+    - "resource/*.qmd"
+    - "workshop/*.qmd"  
+    
+execute:
+  freeze: auto
+  
+website:
+  title: "EPA PCE: Workshops"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: workshop/index.qmd
+        text: Workshops
+      - href: resource/index.qmd
+        text: Resources
+
+  sidebar:
+    - title: "Workshops"
+      contents:
+        - section: "Workshops"
+          contents:
+            - workshop/index.qmd
+            - workshop/w01.qmd
+
+format:
+  html:
+    author: EPA Teaching Team
+    date-format: "DD MMMM YYYY"
+
+    theme:
+      light: 
+        - journal
+        - css/custom.scss
+    css: 
+      - css/custom_style.css
+

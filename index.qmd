@@ -1,0 +1,62 @@
+---
+title: "EPA PCE: Workshops"
+author: "Teaching Team"
+---
+
+# Welcome
+
+Welcome to the EPA PCA Policy Analysis Final Group Project Mini Website! This project is an opportunity for you to apply the policy analysis skills you have developed throughout the course. You will work in groups to analyze a policy problem, consider alternative solutions, evaluate them against specific criteria, and make a recommendation to a client.
+
+Below is a table outlining the components of the Final Group Project and what you need to do for each part.
+
+```{r, echo=FALSE, message = FALSE}
+# Load necessary libraries
+library(kableExtra)
+library(knitr)
+library(tidyverse)
+library(glue)
+
+# Create a data frame with the table content
+component <- c(
+  "a) Problem Statement",
+  "b) Alternatives",
+  "c) Criteria",
+  "d) Project the Outcomes",
+  "e) Confront the Tradeoffs",
+  "f) Uncertainty",
+  "g) Recommendation",
+  "h) Client"
+)
+
+description <- c(
+  "i) A clear, concise problem statement<br><br>ii) Discussion of evidence and reasoning supporting the problem statement you have chosen<br><br>- Formulate a clear and concise statement of the policy problem you are addressing.<br>- Provide evidence and reasoning supporting it.",
+  
+  "- Identify 3-4 distinct policy alternatives, each of which plausibly addresses the stated problem.<br><br>- Develop 3-4 viable policy alternatives that could potentially solve the problem you've identified.",
+  
+  "i) At least 3 distinct criteria to compare the policy alternatives<br><br>ii) Discussion of how to measure or evaluate each criterion<br><br>iii) How the criteria relate to broader objectives and values<br><br>- Establish evaluation criteria and explain their relevance.",
+  
+  "i) Describe projected outcomes for each alternative on each criterion<br><br>ii) An analysis matrix (alternatives vs. criteria)<br><br>iii) Explain how you arrived at each projection<br><br>iv) Discuss key stakeholders and their potential responses",
+  
+  "i) Describe tradeoffs between alternatives given your criteria and projected outcomes<br><br>ii) Explain the reasoning used to resolve those tradeoffs to reach your recommendation",
+  
+  "i) Describe important sources of uncertainty and assumptions made<br><br>ii) Discuss how changes in assumptions could affect your recommended alternative",
+  
+  "- Recommend one of the alternatives evaluated and clearly state that recommendation in the memo’s first paragraph.<br><br>- Make a clear and concise recommendation based on your analysis.",
+  
+  "- Identify a client: an organization, agency, or public official with an interest in the policy problem.<br><br>*Note: It is not necessary to communicate or interact with the client for EPA101.*"
+)
+
+# Create the data frame
+table_data <- data.frame(Component = component, Description = description, stringsAsFactors = FALSE) |> 
+  mutate(
+    Component = glue('<strong>{Component}</strong>')
+  )
+
+# Create the table using kableExtra
+table_data |> 
+  kbl(align = "l", escape = FALSE, col.names = c("Component", "Description")) |> 
+  kable_styling(full_width = TRUE, position = "center") |>
+  column_spec(1, width = "30%") |>
+  column_spec(2, width = "70%")
+```
+

@@ -1,0 +1,21 @@
+{
+  "hash": "dfee2c505534d788312cfcfdca8c3708",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Schedule\"\nauthor: \"Teaching Team\"\n---\n\n\n\n\n\n\n# Workshop Schedule\n\nWelcome to the EPA101 Workshop Schedule page. This schedule outlines the key dates, workshops, and deliverables for the course. Some workshops are focused on collaborative learning and do not have associated deliverables, while others coincide with important assignment due dates. Use this schedule to manage your time effectively and ensure you're prepared for each class.\n\nPlease note that not all workshops have deliverables due. Workshops without deliverables are designed to help you develop your project through collaborative discussions and activities. Make sure to attend each workshop prepared to engage with the material and your peers.\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n`````{=html}\n<table class=\"table\" style=\"margin-left: auto; margin-right: auto;\">\n<caption>EPA PCA Workshop Schedule</caption>\n <thead>\n  <tr>\n   <th style=\"text-align:left;\"> Date </th>\n   <th style=\"text-align:left;\"> Activity </th>\n   <th style=\"text-align:center;\"> Deliverable </th>\n  </tr>\n </thead>\n<tbody>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Sept. 16 </td>\n   <td style=\"text-align:left;width: 80%; \"> Workshop #1:<br>Define the problem and assemble some evidence </td>\n   <td style=\"text-align:center;width: 10%; \"> No </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Sept. 18 </td>\n   <td style=\"text-align:left;width: 80%; \"> Draft #1 due:<br>Sector Analysis &amp; Problem Definition assignment </td>\n   <td style=\"text-align:center;width: 10%; \"> Yes </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Sept. 25 </td>\n   <td style=\"text-align:left;width: 80%; \"> Workshop #2:<br>Construct the alternatives </td>\n   <td style=\"text-align:center;width: 10%; \"> No </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Oct. 9 </td>\n   <td style=\"text-align:left;width: 80%; \"> Workshop #3:<br>Select the criteria </td>\n   <td style=\"text-align:center;width: 10%; \"> No </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Oct. 21 </td>\n   <td style=\"text-align:left;width: 80%; \"> Draft #2 due:<br>Revisions of Draft #1 + Policy Alternatives &amp; Evaluation Criteria </td>\n   <td style=\"text-align:center;width: 10%; \"> Yes </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Oct. 28 </td>\n   <td style=\"text-align:left;width: 80%; \"> Workshop #4:<br>Project the outcomes </td>\n   <td style=\"text-align:center;width: 10%; \"> No </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Nov. 13 </td>\n   <td style=\"text-align:left;width: 80%; \"> Workshop #5:<br>Confront the trade-offs </td>\n   <td style=\"text-align:center;width: 10%; \"> No </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Dec. 2 </td>\n   <td style=\"text-align:left;width: 80%; \"> Draft #3 due &amp; Final Presentations:<br>Stop, focus, narrow, deepen and decide; Tell your story </td>\n   <td style=\"text-align:center;width: 10%; \"> Yes </td>\n  </tr>\n  <tr>\n   <td style=\"text-align:left;width: 10%; \"> Dec. 16 </td>\n   <td style=\"text-align:left;width: 80%; \"> Final Policy Analysis Paper (PAP) due </td>\n   <td style=\"text-align:center;width: 10%; \"> Yes </td>\n  </tr>\n</tbody>\n</table>\n\n`````\n:::\n:::\n\n\n\n\n\n\n\nGood luck, and we look forward to your participation throughout the course!",
+    "supporting": [
+      "schedule_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"site_libs/kePrint-0.0.1/kePrint.js\"></script>\n<link href=\"site_libs/lightable-0.0.1/lightable.css\" rel=\"stylesheet\" />\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
