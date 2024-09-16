@@ -10,7 +10,7 @@ html-math-method:
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 author:
   - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
-    email: rrodriguezramirez@g.harvard.edu
+    email: "rrodriguezramirez@g.harvard.edu<br/>https://calendly.com/rrmaximiliano/30min"
     affiliations: "Harvard University"
 date: last-modified
 ---
@@ -19,6 +19,77 @@ date: last-modified
 
 - **Topic:** Sector Analysis and Problem Definition
 - **Objective:** Learn how to define policy problems effectively using Bardach and Patashnik (2020)'s Eightfold Path
+
+## Who am I?
+
+::: {.fragment}
+::: {.v-center}
+[Rony Rodriguez-Ramirez (G2)]{.box-inv-crimson}
+:::
+:::
+
+::: {.fragment}
+::: {.v-center}
+[Ed Policy (Economics of Education) Program]{.box-inv-crimson}
+:::
+:::
+
+::: {.fragment}
+::: {.v-center}
+[Previous exp: The World Bank (DIME; DECRG), IPA]{.box-inv-crimson}
+:::
+:::
+
+::: {.fragment}
+::: {.v-center}
+[Ukraine, Armenia, Rwanda, Liberia, Perú, Nicaragua]{.box-inv-crimson}
+:::
+:::
+
+::: {.fragment}
+::: {.v-center}
+[Like ed policy!]{.box-inv-crimson}
+:::
+:::
+
+## My role
+
+**What should you expect from me?**
+
+::: {.fragment}
+1. My job is to help you feel confident in defining policy problems.
+2. I will guide you through the workshop activities and discussions.
+3. I'm here to answer your questions and provide support.
+:::
+
+**By the end of this workshop:**
+
+::: {.fragment}
+1. You should be prepared to advance in your policy analysis projects.
+2. Have a solid understanding of wht we are going to do before the workshops.
+3. Feel engaged and inspired to apply these concepts.
+:::
+
+## Who are you? and your groups? 
+
+```{r, echo=FALSE}
+library(knitr)
+
+# Create a data frame for the table
+group_data <- data.frame(
+  Group = c(2, 10, 14, 15),
+  Members = c(
+    "Jiayuan Chen, Nancy Gacia Castillo, Ashley Lai, Merlyn Tejada, Yunyue Yuan",
+    "Ibraheem, Isha Savant, Zidi Zhang",
+    "Cathy Chen, Kelly Ho, Alyssa Jones, Anna Kurian, Ryotaro Suzuki",
+    "Budoor Alrahmah, Apoorva S, Sandli Thakur"
+  ),
+  stringsAsFactors = FALSE
+)
+
+# Print the table using kable from knitr
+kable(group_data, col.names = c("Group", "Group Members"))
+```
 
 
 ## Importance of Policy Analysis
@@ -95,6 +166,33 @@ Focus on **Step One: Define the Problem**
   - **Constraints:** Low teacher salaries, challenging work environments, lack of resources
   - **Opportunities:** Implement teacher retention programs, offer incentives, improve working conditions
 
+## Tips for Creating Good Problem Statements
+
+- **Data – How Specific?**
+  - Be precise with data usage
+
+- **Deficit and Excess**
+  - Use phrases like "too many students..."
+
+- **Odds**
+  - Express likelihoods, e.g., "highly likely that..."
+
+- **Quantify**
+  - Include statistics like "3 out of 10..."
+
+## Tips for Creating Good Problem Statements
+
+- **Why This Problem? Why Now?**
+  - Justify the urgency and relevance
+
+- **Latent Opportunities**
+  - Identify what could improve
+
+- **Trends & Location**
+  - Explain urgency through trends and specific locations
+
+- **Iterate & Consider Naysayers**
+  - Be open to feedback and different perspectives
 
 ## Group Exercise 1: Refining Problem Statements
 
@@ -143,7 +241,7 @@ Focus on **Step One: Define the Problem**
   1. Identify key stakeholders
   2. Outline the context and environment
   3. Note constraints and opportunities
-  - **Prepare to share** a brief summary with the larger group
+  - **Prepare to share** a brief summary with the larger group and changes you made
 
 ## Assembling Evidence
 
@@ -225,5 +323,18 @@ Focus on **Step One: Define the Problem**
 - **Action Items:**
   - **Revise your problem statements** based on today's exercise
   - **Prepare for the next workshop**, where we'll delve into assembling evidence
-- **Questions, Feedback, and Exit ticket** 
+- **Questions, Feedback, and Exit ticket**: [https://bit.ly/4dLGile](https://bit.ly/4dLGile)
+
+## Next Steps
+
+- Canvas Assignment - Draft #1: Education Sector Analysis & Problem Definition (Due 9/18 noon) [Complete/Incomplete]
+  - Improve problem statement based on feedback today
+  - No set format/word count for now
+
+- Workshop #2 - 9/25 (Next Wed)
+  - Read Bardach Pg 14 - 49
+  - Assemble 3-4 policy alternatives 
+  - Select at least 3 distinct criteria
+  - Support with evidence
+
 
