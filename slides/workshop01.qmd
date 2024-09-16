@@ -18,13 +18,13 @@ date: last-modified
 ## Welcome to the Workshop
 
 - **Topic:** Sector Analysis and Problem Definition
-- **Objective:** Learn how to define policy problems effectively using Bardach's Eightfold Path
+- **Objective:** Learn how to define policy problems effectively using Bardach and Patashnik (2020)'s Eightfold Path
 
 
 ## Importance of Policy Analysis
 
 > "Policy analysis is a social and political activity [...] it concerns the lives and well-being of large numbers of their fellow citizens."  
-> — *Bardach, 2012*
+> — *Bardach and Patashnik (2020)*
 
 - Goes beyond personal decision-making
 - Involves collaboration with professionals and stakeholders
@@ -39,7 +39,7 @@ date: last-modified
 4. Select the Criteria
 5. Project the Outcomes
 6. Confront the Trade-offs
-7. Decide!
+7. Stop, focus, narrow, deepen and decide
 8. Tell Your Story
 
 :::{.callout-important}
@@ -59,6 +59,22 @@ Focus on **Step One: Define the Problem**
 - **Quantify If Possible**
   - Attach magnitudes to deficits or excesses
   - Use data to support your problem statement
+  - Avoid defining the solution into the problem!
+
+## Which of the following is the strongest problem statement?  
+
+1. There are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.
+1. Many teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates. 
+1. There are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.  
+1. There are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions. 
+
+## Which of the following is the strongest problem statement?  
+
+1. There are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.
+1. Many teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates. 
+1. **There are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.**
+1. There are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions. 
+
 
 ## Situation Analysis in Policy Work
 
@@ -80,16 +96,20 @@ Focus on **Step One: Define the Problem**
   - **Opportunities:** Implement teacher retention programs, offer incentives, improve working conditions
 
 
-## Group Exercise 1: Applying Situation Analysis
+## Group Exercise 1: Refining Problem Statements
 
 - **Activity (20 minutes):**
-  - Return to your original project groups
-  - **Perform a situation analysis** for your policy issue:
-  1. Identify key stakeholders
-  2. Outline the context and environment
-  3. Note constraints and opportunities
-  - **Prepare to share** a brief summary with the larger group
-  
+  - **Form new groups** by mixing members from different project teams
+  - **Exchange problem statements** from your projects
+  - **Review and provide feedback** using Bardach's guidelines:
+  1. Is the problem framed in terms of deficit or excess?
+  2. Does it include an evaluative component?
+  3. Have common pitfalls been avoided?
+- **Discussion Points:**
+  - How can the problem statement be improved?
+  - Are there quantifiable elements that can be added?
+  - What alternative perspectives should be considered?
+
 ## Example: Situation Analysis in Education Policy
 
 ::: {.incremental}
@@ -115,24 +135,20 @@ Focus on **Step One: Define the Problem**
   - Base your problem definition on evidence, not assumptions
 
 
-## Group Exercise 2: Refining Problem Statements
+## Group Exercise 2: Applying Situation Analysis
 
 - **Activity (20 minutes):**
-  - **Form new groups** by mixing members from different project teams
-  - **Exchange problem statements** from your projects
-  - **Review and provide feedback** using Bardach's guidelines:
-  1. Is the problem framed in terms of deficit or excess?
-  2. Does it include an evaluative component?
-  3. Have common pitfalls been avoided?
-- **Discussion Points:**
-  - How can the problem statement be improved?
-  - Are there quantifiable elements that can be added?
-  - What alternative perspectives should be considered?
+  - Return to your original project groups
+  - **Perform a situation analysis** for your policy issue:
+  1. Identify key stakeholders
+  2. Outline the context and environment
+  3. Note constraints and opportunities
+  - **Prepare to share** a brief summary with the larger group
 
 ## Assembling Evidence
 
 > "Think before you collect [...] you can be a much more efficient collector of data if you think about what you need."  
-> — *Bardach, 2012*
+> — *Bardach and Patashnik (2020)*
 
 - **Purpose of Evidence Gathering:**
   - Assess the nature and extent of the problem
@@ -162,7 +178,6 @@ Focus on **Step One: Define the Problem**
   - Provide statistics on enrollment declines or financial aid loss
 - **Avoid Pitfalls:**
   - Do not assume causes without evidence
-  - Avoid embedding solutions into the problem statement
 - **Consider Multiple Perspectives:**
   - Acknowledge different viewpoints on immigration policies
 

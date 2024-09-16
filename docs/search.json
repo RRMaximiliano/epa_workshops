@@ -172,28 +172,42 @@
     "href": "slides/workshop01.html#welcome-to-the-workshop",
     "title": "Workshop 01Define the Problem",
     "section": "Welcome to the Workshop",
-    "text": "Welcome to the Workshop\n\nTopic: Sector Analysis and Problem Definition\nObjective: Learn how to define policy problems effectively using Bardach’s Eightfold Path"
+    "text": "Welcome to the Workshop\n\nTopic: Sector Analysis and Problem Definition\nObjective: Learn how to define policy problems effectively using Bardach and Patashnik (2020)’s Eightfold Path"
   },
   {
     "objectID": "slides/workshop01.html#importance-of-policy-analysis",
     "href": "slides/workshop01.html#importance-of-policy-analysis",
     "title": "Workshop 01Define the Problem",
     "section": "Importance of Policy Analysis",
-    "text": "Importance of Policy Analysis\n\n“Policy analysis is a social and political activity […] it concerns the lives and well-being of large numbers of their fellow citizens.”\n— Bardach, 2012\n\n\nGoes beyond personal decision-making\nInvolves collaboration with professionals and stakeholders\nAffects public welfare and resource allocation"
+    "text": "Importance of Policy Analysis\n\n“Policy analysis is a social and political activity […] it concerns the lives and well-being of large numbers of their fellow citizens.”\n— Bardach and Patashnik (2020)\n\n\nGoes beyond personal decision-making\nInvolves collaboration with professionals and stakeholders\nAffects public welfare and resource allocation"
   },
   {
     "objectID": "slides/workshop01.html#bardachs-eightfold-path",
     "href": "slides/workshop01.html#bardachs-eightfold-path",
     "title": "Workshop 01Define the Problem",
     "section": "Bardach’s Eightfold Path",
-    "text": "Bardach’s Eightfold Path\n\nDefine the Problem\nAssemble Some Evidence\nConstruct the Alternatives\nSelect the Criteria\nProject the Outcomes\nConfront the Trade-offs\nDecide!\nTell Your Story\n\n\n\n\n\n\n\nToday\n\n\nFocus on Step One: Define the Problem"
+    "text": "Bardach’s Eightfold Path\n\nDefine the Problem\nAssemble Some Evidence\nConstruct the Alternatives\nSelect the Criteria\nProject the Outcomes\nConfront the Trade-offs\nStop, focus, narrow, deepen and decide\nTell Your Story\n\n\n\n\n\n\n\nToday\n\n\nFocus on Step One: Define the Problem"
   },
   {
     "objectID": "slides/workshop01.html#defining-the-problem",
     "href": "slides/workshop01.html#defining-the-problem",
     "title": "Workshop 01Define the Problem",
     "section": "Defining the Problem",
-    "text": "Defining the Problem\n\nIdentify actors\nThink in Terms of Deficit and Excess\n\nUse words like too much, too little, too fast, too slow\n\nMake the Definition Evaluative\n\nIdentify why the situation is problematic\nConsider different perspectives and evaluative frameworks\n\nQuantify If Possible\n\nAttach magnitudes to deficits or excesses\nUse data to support your problem statement"
+    "text": "Defining the Problem\n\nIdentify actors\nThink in Terms of Deficit and Excess\n\nUse words like too much, too little, too fast, too slow\n\nMake the Definition Evaluative\n\nIdentify why the situation is problematic\nConsider different perspectives and evaluative frameworks\n\nQuantify If Possible\n\nAttach magnitudes to deficits or excesses\nUse data to support your problem statement\nAvoid defining the solution into the problem!"
+  },
+  {
+    "objectID": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement",
+    "href": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement",
+    "title": "Workshop 01Define the Problem",
+    "section": "Which of the following is the strongest problem statement?",
+    "text": "Which of the following is the strongest problem statement?\n\nThere are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.\nMany teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates.\nThere are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.\n\nThere are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions."
+  },
+  {
+    "objectID": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement-1",
+    "href": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement-1",
+    "title": "Workshop 01Define the Problem",
+    "section": "Which of the following is the strongest problem statement?",
+    "text": "Which of the following is the strongest problem statement?\n\nThere are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.\nMany teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates.\nThere are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.\nThere are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions."
   },
   {
     "objectID": "slides/workshop01.html#situation-analysis-in-policy-work",
@@ -210,11 +224,11 @@
     "text": "Not-real Example: Situation Analysis in Education Policy\n\nCase Study: High Teacher Turnover in Urban Schools in Country X.\n\nProblem Definition: “There is an excessive rate of teacher turnover in urban public schools, leading to decreased educational quality and student performance.”\n\nSituation Analysis:\n\nContext: Urban schools experiencing annual teacher turnover rates exceeding 25%\nStakeholders: Teachers, students, parents, school administrators, education departments\nConstraints: Low teacher salaries, challenging work environments, lack of resources\nOpportunities: Implement teacher retention programs, offer incentives, improve working conditions"
   },
   {
-    "objectID": "slides/workshop01.html#group-exercise-1-applying-situation-analysis",
-    "href": "slides/workshop01.html#group-exercise-1-applying-situation-analysis",
+    "objectID": "slides/workshop01.html#group-exercise-1-refining-problem-statements",
+    "href": "slides/workshop01.html#group-exercise-1-refining-problem-statements",
     "title": "Workshop 01Define the Problem",
-    "section": "Group Exercise 1: Applying Situation Analysis",
-    "text": "Group Exercise 1: Applying Situation Analysis\n\nActivity (20 minutes):\n\nReturn to your original project groups\nPerform a situation analysis for your policy issue:\n\n\nIdentify key stakeholders\nOutline the context and environment\nNote constraints and opportunities\n\n\nPrepare to share a brief summary with the larger group"
+    "section": "Group Exercise 1: Refining Problem Statements",
+    "text": "Group Exercise 1: Refining Problem Statements\n\nActivity (20 minutes):\n\nForm new groups by mixing members from different project teams\nExchange problem statements from your projects\nReview and provide feedback using Bardach’s guidelines:\n\n\nIs the problem framed in terms of deficit or excess?\nDoes it include an evaluative component?\nHave common pitfalls been avoided?\n\nDiscussion Points:\n\nHow can the problem statement be improved?\nAre there quantifiable elements that can be added?\nWhat alternative perspectives should be considered?"
   },
   {
     "objectID": "slides/workshop01.html#example-situation-analysis-in-education-policy",
@@ -231,18 +245,18 @@
     "text": "Common Pitfalls to Avoid\n\nDefining the Solution into the Problem\n\nAvoid implying a specific solution in your problem statement\nExample: Don’t say “There is too little shelter for homeless families”\nInstead, say “Too many families are homeless”\nToo little was use here in this example, why is it different from “think in terms of definit anc excess” from the last slide?\n\nAssuming Causality Without Evidence\n\nDon’t assume causes without proper analysis\nBase your problem definition on evidence, not assumptions"
   },
   {
-    "objectID": "slides/workshop01.html#group-exercise-2-refining-problem-statements",
-    "href": "slides/workshop01.html#group-exercise-2-refining-problem-statements",
+    "objectID": "slides/workshop01.html#group-exercise-2-applying-situation-analysis",
+    "href": "slides/workshop01.html#group-exercise-2-applying-situation-analysis",
     "title": "Workshop 01Define the Problem",
-    "section": "Group Exercise 2: Refining Problem Statements",
-    "text": "Group Exercise 2: Refining Problem Statements\n\nActivity (20 minutes):\n\nForm new groups by mixing members from different project teams\nExchange problem statements from your projects\nReview and provide feedback using Bardach’s guidelines:\n\n\nIs the problem framed in terms of deficit or excess?\nDoes it include an evaluative component?\nHave common pitfalls been avoided?\n\nDiscussion Points:\n\nHow can the problem statement be improved?\nAre there quantifiable elements that can be added?\nWhat alternative perspectives should be considered?"
+    "section": "Group Exercise 2: Applying Situation Analysis",
+    "text": "Group Exercise 2: Applying Situation Analysis\n\nActivity (20 minutes):\n\nReturn to your original project groups\nPerform a situation analysis for your policy issue:\n\n\nIdentify key stakeholders\nOutline the context and environment\nNote constraints and opportunities\n\n\nPrepare to share a brief summary with the larger group"
   },
   {
     "objectID": "slides/workshop01.html#assembling-evidence",
     "href": "slides/workshop01.html#assembling-evidence",
     "title": "Workshop 01Define the Problem",
     "section": "Assembling Evidence",
-    "text": "Assembling Evidence\n\n“Think before you collect […] you can be a much more efficient collector of data if you think about what you need.”\n— Bardach, 2012\n\n\nPurpose of Evidence Gathering:\n\nAssess the nature and extent of the problem\nUnderstand the policy situation and context\n\nIn Education Policy:\n\nUse data on enrollment, demographics, funding, outcomes\nConsider qualitative information from stakeholders"
+    "text": "Assembling Evidence\n\n“Think before you collect […] you can be a much more efficient collector of data if you think about what you need.”\n— Bardach and Patashnik (2020)\n\n\nPurpose of Evidence Gathering:\n\nAssess the nature and extent of the problem\nUnderstand the policy situation and context\n\nIn Education Policy:\n\nUse data on enrollment, demographics, funding, outcomes\nConsider qualitative information from stakeholders"
   },
   {
     "objectID": "slides/workshop01.html#group-exercise-3-planning-evidence-collection",
@@ -256,7 +270,7 @@
     "href": "slides/workshop01.html#project-1-impact-of-floridas-immigration-bill-on-undocumented-students",
     "title": "Workshop 01Define the Problem",
     "section": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students",
-    "text": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students\n\nClarify the Problem Definition:\n\nFrame the problem as a deficit in equitable access to higher education\nUse evaluative language to highlight why this is problematic\n\nQuantify the Impact:\n\nInclude data on the number of students affected\nProvide statistics on enrollment declines or financial aid loss\n\nAvoid Pitfalls:\n\nDo not assume causes without evidence\nAvoid embedding solutions into the problem statement\n\nConsider Multiple Perspectives:\n\nAcknowledge different viewpoints on immigration policies"
+    "text": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students\n\nClarify the Problem Definition:\n\nFrame the problem as a deficit in equitable access to higher education\nUse evaluative language to highlight why this is problematic\n\nQuantify the Impact:\n\nInclude data on the number of students affected\nProvide statistics on enrollment declines or financial aid loss\n\nAvoid Pitfalls:\n\nDo not assume causes without evidence\n\nConsider Multiple Perspectives:\n\nAcknowledge different viewpoints on immigration policies"
   },
   {
     "objectID": "slides/workshop01.html#project-2-blended-financing-for-akanksha-schools-in-india",
