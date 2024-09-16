@@ -3,7 +3,20 @@ title: "Workshop #1: Define the Problem and Assemble Evidence"
 format: html
 ---
 
+```{r slides, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
 Welcome to the first workshop of the EPA Policy Analysis course. In this session, we will focus on defining your policy problem within the field of **education policy** and assembling the necessary evidence to support your analysis.
+
+```{r show-slide-tabs, echo=FALSE, results="asis"}
+slide_buttons("../slides/workshop01")
+```
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="../slides/workshop01.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
 
 ## Objectives
 

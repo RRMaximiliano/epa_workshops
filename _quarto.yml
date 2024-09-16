@@ -5,6 +5,7 @@ project:
     - "*.qmd"
     - "resource/*.qmd"
     - "workshop/*.qmd"  
+    - "slides/*.qmd"
     
 execute:
   freeze: auto

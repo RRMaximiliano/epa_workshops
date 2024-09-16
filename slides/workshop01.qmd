@@ -1,0 +1,214 @@
+---
+title: "<font style='font-size:1em;'>Workshop 01<br/>Define the Problem</font>"
+subtitle: "EPA PCE 2024"
+format: 
+  clean-api-revealjs:
+    self-contained: true
+    highlight-style: breeze
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
+    email: rrodriguezramirez@g.harvard.edu
+    affiliations: "Harvard University"
+date: last-modified
+---
+
+## Welcome to the Workshop
+
+- **Topic:** Sector Analysis and Problem Definition
+- **Objective:** Learn how to define policy problems effectively using Bardach's Eightfold Path
+
+
+## Importance of Policy Analysis
+
+> "Policy analysis is a social and political activity [...] it concerns the lives and well-being of large numbers of their fellow citizens."  
+> — *Bardach, 2012*
+
+- Goes beyond personal decision-making
+- Involves collaboration with professionals and stakeholders
+- Affects public welfare and resource allocation
+
+
+## Bardach's Eightfold Path
+
+1. **Define the Problem**
+2. Assemble Some Evidence
+3. Construct the Alternatives
+4. Select the Criteria
+5. Project the Outcomes
+6. Confront the Trade-offs
+7. Decide!
+8. Tell Your Story
+
+:::{.callout-important}
+## Today
+Focus on **Step One: Define the Problem**
+:::
+
+## Defining the Problem
+
+- **Identify actors**
+
+- **Think in Terms of Deficit and Excess**
+  - Use words like *too much*, *too little*, *too fast*, *too slow*
+- **Make the Definition Evaluative**
+  - Identify why the situation is problematic
+  - Consider different perspectives and evaluative frameworks
+- **Quantify If Possible**
+  - Attach magnitudes to deficits or excesses
+  - Use data to support your problem statement
+
+## Situation Analysis in Policy Work
+
+- **Assess the Particular Features of the Situation**
+  - Understand the context and environment of the policy issue
+  - Identify stakeholders, resources, constraints, and opportunities
+- **Importance in Education Policy**
+  - Education policies are influenced by social, economic, and political factors
+  - Requires understanding of institutional structures and target populations
+
+## Not-real Example: Situation Analysis in Education Policy
+
+- **Case Study:** High Teacher Turnover in Urban Schools in Country X.
+  - **Problem Definition:** "There is an excessive rate of teacher turnover in urban public schools, leading to decreased educational quality and student performance."
+- **Situation Analysis:**
+  - **Context:** Urban schools experiencing annual teacher turnover rates exceeding 25%
+  - **Stakeholders:** Teachers, students, parents, school administrators, education departments
+  - **Constraints:** Low teacher salaries, challenging work environments, lack of resources
+  - **Opportunities:** Implement teacher retention programs, offer incentives, improve working conditions
+
+
+## Group Exercise 1: Applying Situation Analysis
+
+- **Activity (20 minutes):**
+  - Return to your original project groups
+  - **Perform a situation analysis** for your policy issue:
+  1. Identify key stakeholders
+  2. Outline the context and environment
+  3. Note constraints and opportunities
+  - **Prepare to share** a brief summary with the larger group
+  
+## Example: Situation Analysis in Education Policy
+
+::: {.incremental}
+- **Case Study:** Florida's Immigration Bill Impact on Undocumented Students
+  - **Problem Definition:** "There is a significant deficit in equitable access to Florida's public higher education for undocumented students caused by recent restrictive immigration legislation."
+- **Situation Analysis:**
+  - **Context:** New legislation prohibiting funds for identification documents to undocumented immigrants
+  - **Stakeholders:** Undocumented students, universities, state government, community organizations
+  - **Constraints:** Legal barriers, fear of data collection, reduced financial aid options
+  - **Opportunities:** Advocacy for policy change, community support programs
+
+:::
+
+## Common Pitfalls to Avoid
+
+- **Defining the Solution into the Problem**
+  - Avoid implying a specific solution in your problem statement
+  - Example: Don't say "There is too little shelter for homeless families"
+  - Instead, say "Too many families are homeless"
+  - Too little was use here in this example, why is it different from "think in terms of definit anc excess" from the last slide?
+- **Assuming Causality Without Evidence**
+  - Don't assume causes without proper analysis
+  - Base your problem definition on evidence, not assumptions
+
+
+## Group Exercise 2: Refining Problem Statements
+
+- **Activity (20 minutes):**
+  - **Form new groups** by mixing members from different project teams
+  - **Exchange problem statements** from your projects
+  - **Review and provide feedback** using Bardach's guidelines:
+  1. Is the problem framed in terms of deficit or excess?
+  2. Does it include an evaluative component?
+  3. Have common pitfalls been avoided?
+- **Discussion Points:**
+  - How can the problem statement be improved?
+  - Are there quantifiable elements that can be added?
+  - What alternative perspectives should be considered?
+
+## Assembling Evidence
+
+> "Think before you collect [...] you can be a much more efficient collector of data if you think about what you need."  
+> — *Bardach, 2012*
+
+- **Purpose of Evidence Gathering:**
+  - Assess the nature and extent of the problem
+  - Understand the policy situation and context
+- **In Education Policy:**
+  - Use data on enrollment, demographics, funding, outcomes
+  - Consider qualitative information from stakeholders
+
+## Group Exercise 3: Planning Evidence Collection
+
+- **Activity (15 minutes):**
+  - In your project groups, **outline a plan** for assembling evidence:
+  1. What data do you need to quantify your problem?
+  2. Where can you find this information?
+  3. How will you ensure the evidence is relevant and reliable?
+  - **Share one key data source** you plan to use
+  
+# Your Projects
+
+## Project 1: Impact of Florida's Immigration Bill on Undocumented Students
+
+- **Clarify the Problem Definition:**
+  - Frame the problem as a **deficit in equitable access** to higher education
+  - Use evaluative language to highlight why this is problematic
+- **Quantify the Impact:**
+  - Include data on the number of students affected
+  - Provide statistics on enrollment declines or financial aid loss
+- **Avoid Pitfalls:**
+  - Do not assume causes without evidence
+  - Avoid embedding solutions into the problem statement
+- **Consider Multiple Perspectives:**
+  - Acknowledge different viewpoints on immigration policies
+
+## Project 2: Blended Financing for Akanksha Schools in India
+
+- **Define the Deficit Explicitly:**
+  - Clearly state the shortage of blended financing as the core issue
+- **Strengthen the Evaluative Aspect:**
+  - Explain why lack of funding is detrimental to educational equity
+- **Avoid Solution Bias:**
+  - Do not assume private sector alignment is the only solution
+- **Clarify Objectives:**
+  - Specify whether the goal is to propose policy changes or funding strategies
+
+## Project 3: Standardized Testing and Equity in Admissions at Harvard
+
+- **Frame the Problem as an Excess:**
+  - "There is an excess reliance on standardized tests, potentially exacerbating inequalities."
+- **Enhance Evaluative Language:**
+  - Highlight how this affects diversity and fairness in admissions
+- **Avoid Assumptions:**
+  - Base your analysis on evidence, not preconceived notions about testing
+- **Narrow the Scope if Necessary:**
+  - Consider focusing on specific programs or levels (e.g., undergraduate)
+- **Consider Data Availability:**
+  - Ensure you have access to relevant admissions data for analysis
+
+## Project 4: Financial Sustainability for Education-to-Employment Programs
+
+- **Explicitly State the Deficit:**
+  - Identify the lack of financial sustainability and stakeholder engagement
+- **Use Evaluative Language:**
+  - Emphasize how this threatens progress in gender equality and empowerment
+- **Clarify the Problem Statement:**
+  - Be concise and focus on the core issues affecting the program's sustainability
+- **Identify Stakeholders Clearly:**
+  - Include local communities, government entities, and international organizations
+  
+## Wrap-Up and Next Steps
+
+- **Key Takeaways:**
+  - Effective problem definition is crucial for policy analysis
+  - Frame problems in terms of deficit or excess with evaluative language
+  - Avoid common pitfalls like embedding solutions or unfounded assumptions
+- **Action Items:**
+  - **Revise your problem statements** based on today's exercise
+  - **Prepare for the next workshop**, where we'll delve into assembling evidence
+- **Questions, Feedback, and Exit ticket** 
+
