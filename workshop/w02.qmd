@@ -8,11 +8,11 @@ source(here::here("R", "slide-things.R"))
 ```
 
 ```{r show-slide-tabs, echo=FALSE, results="asis"}
-slide_buttons("../slides/workshop01")
+slide_buttons("../slides/workshop02")
 ```
 
 <div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="../slides/workshop01.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+<iframe src="../slides/workshop02.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
 # Introduction
