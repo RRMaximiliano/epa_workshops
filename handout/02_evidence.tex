@@ -1,0 +1,459 @@
+\documentclass{article}
+
+% Encoding and fonts
+\usepackage[utf8]{inputenc}           % Handles UTF-8 encoding
+% \usepackage{lmodern}                % Provides modern fonts
+\usepackage[sc]{mathpazo}             % Use math pazo instead, because it is beautiful 
+
+% Mathematics
+\usepackage{amssymb,amsmath,amsthm}   % AMS symbols, math environments, and theorems
+\usepackage{latexsym}                 % Additional math symbols
+\usepackage{mathrsfs}                 % Support for script math fonts
+\usepackage{dsfont}                   % Double stroke font for indicators (like \mathds{1})
+\usepackage{bbm}
+
+% Graphics and visualization
+\usepackage{float}
+\usepackage[pdftex]{graphicx}         % Include images (PDF, PNG, etc.)
+\usepackage{tikz}                     % TikZ for drawing
+\usetikzlibrary{intersections,calc,patterns,3d}  % TikZ libraries for patterns, calculations, intersections, 3D
+\usepackage{pst-node}                 % PSTricks for creating node connections
+\usepackage{tikz-cd}                  % Commutative diagrams in TikZ
+
+% Listings and code formatting
+\usepackage{listings}                 % Format source code listings
+
+% Formatting and layout
+\usepackage{setspace}                 % Set line spacing
+\usepackage{geometry}                 % Manage page geometry
+\geometry{
+  a4paper,                            % Use A4 paper
+  left=23mm,                          % Set left margin
+  right=23mm,                         % Set right margin
+  top=35mm,                           % Set top margin
+  bottom=35mm                         % Set bottom margin
+}
+% \setlength{\parindent}{0cm}           % Set no paragraph indentation
+\setstretch{1.3}                      % Set overall line spacing
+\usepackage{titling}                  % Adjust title spacing
+\setlength{\droptitle}{-5em}          % Reduce space before the title
+
+% Color
+\usepackage{color}
+\definecolor{webgreen}{rgb}{0,.5,0}
+\definecolor{webbrown}{rgb}{.6,0,0}
+\definecolor{webpurple}{rgb}{0.7,0,0.7}
+
+% Hyperlinks
+\usepackage{hyperref}                 % Create hyperlinks in the document
+\hypersetup{
+  breaklinks = true,  
+  colorlinks=true, 
+  anchorcolor= webbrown, 
+  citecolor= webbrown,
+  filecolor= webbrown, 
+  linkcolor= webbrown, 
+  menucolor= webbrown,
+  urlcolor= webbrown, 
+  citebordercolor= 1 0 0, 
+  menubordercolor=1 0 0, 
+  urlbordercolor=1 0 0, 
+  runbordercolor=1 0 0 }
+\hypersetup{pdfauthor=Rony Rodriguez-Ramirez}
+
+% Theorem styles
+\theoremstyle{definition}
+\newtheorem{example}{Example}         % Define "example" theorem style
+\theoremstyle{plain}
+\newtheorem{defin}{Definition}        % Define "definition" theorem style
+\newtheorem{prop}{Proposition}        % Define "proposition" theorem style
+\newtheorem{axiom}{Axiom}             % Define "axiom" theorem style
+\newtheorem{theorem}{Theorem}         % Define "theorem" theorem style
+\newtheorem{remark}{Remark}           % Define "remark" theorem style
+\newtheorem{cor}{Corollary}           % Define "corollary" theorem style
+\newtheorem{lemma}{Lemma}             % Define "lemma" theorem style
+
+% Bibliography
+\usepackage{natbib}                   % For AER-style citations
+\bibliographystyle{aer}               % AER bibliography style
+
+% Enumerations
+\usepackage{enumitem}                 % More control over enumerations
+
+% Color boxes
+\usepackage[most]{tcolorbox}          % Tcolorbox for custom boxes
+% Redefine tcolorbox settings
+\tcbset{
+    breakable,
+    enhanced,
+    arc=0mm,                          % Rectangular edges
+    outer arc=0mm,                    % No outer arc
+    boxrule=0.3mm                     % Thinner border line
+}
+
+% Adjustments for proof environments
+\usepackage{etoolbox}                 % For command patching
+\AtBeginEnvironment{proof}{\setlength{\parindent}{10pt}}  % Indent proof environments
+
+% Arrays and tables
+\usepackage{array}                    % For improved table handling
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}  % Centering in tabular environments
+
+% Miscellaneous
+\usepackage{cancel}                   % For striking out in math mode
+\usepackage{chngcntr}                 % For changing counters
+\allowdisplaybreaks                   % Allows breaking of multiline equations
+
+% Custom commands
+\newcommand{\cmark}{\ding{51}}        % Checkmark symbol
+\newcommand{\xmark}{\ding{55}}        % Cross symbol
+\newcommand{\paren}[1]{\left ( #1 \right)}
+\newcommand{\set}[2]{\left \{ #1 : #2 \right \}}
+\newcommand{\hsuccsim}{\hspace{3pt} \hat{\succsim} \hspace{3pt}}
+\newcommand{\minpi}{\underline{\pi}}
+\newcommand{\bel}{\underline{P}}
+\newcommand{\plau}{\overline{P}}
+\newcommand{\K}{\mathcal{K}}
+\newcommand{\uH}{\mathcal{H}}
+\newcommand{\M}{\mathcal{M}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\pr}{\mathcal{P}}
+\newcommand{\minmu}{\underline{\mu}}
+\newcommand{\maxmu}{\overline{\mu}}
+\newcommand{\bu}{\text{BU}}
+\newcommand{\bdk}{\textbf{k}}
+\newcommand{\bdp}{\textbf{p}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\B}{\mathbb{B}}
+\newcommand{\I}{\mathds{1}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\bda}{\boldsymbol{\alpha}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\dir}{\text{Dir}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\expo}{\text{Expo}}
+\newcommand{\pois}{\text{Pois}}
+\newcommand{\bin}{\text{Bin}}
+\newcommand{\unif}{\text{Unif}}
+\newcommand{\tbP}{\boldsymbol{\tilde P}}
+\newcommand{\tbE}{\boldsymbol{\tilde E}}
+\newcommand{\gam}{\text{Gamma}}
+\newcommand{\Beta}{\text{Beta}}
+\newcommand{\var}{\text{Var}}
+\newcommand{\cov}{\text{Cov}}
+\newcommand{\pto}{\overset{P}{\to}}
+\newcommand{\dto}{\overset{D}{\to}}
+\newcommand{\asto}{\overset{a.s.}{\to}}
+\newcommand{\ind}{\perp\!\!\!\!\perp}
+\newcommand{\contradiction}{$\Rightarrow\!\Leftarrow$}
+\newcommand{\oneover}[1]{\frac{1}{#1}}
+\newcommand{\spimp}{\hspace{10pt} \implies \hspace{10pt}}
+\newcommand{\spiff}{\hspace{10pt} \iff \hspace{10pt}}
+\newcommand{\dash}{\text{-}}
+\newcommand*\widefbox[1]{\fbox{\hspace{2em}#1\hspace{2em}}}
+\newcommand{\important}[1]{\ul{\textbf{#1}}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcommand{\ceil}[1]{\lceil #1 \rceil}
+\DeclareMathOperator{\Bern}{Bern}
+\DeclareMathOperator{\boldx}{\textbf{X}}
+\DeclareMathOperator{\boldy}{\textbf{Y}}
+\DeclareMathOperator{\boldz}{\textbf{Z}}
+\DeclareMathOperator{\mue}{MU}
+
+% Custom symbols
+\makeatletter
+\DeclareRobustCommand{\varamalg}{\mathbin{\mathpalette\var@malg\perp}}
+\newcommand{\succprec}{\mathrel{\mathpalette\succ@prec{\succ\prec}}}
+\newcommand{\precsucc}{\mathrel{\mathpalette\succ@prec{\prec\succ}}}
+\newcommand{\succ@prec}[2]{\succ@@prec#1#2}
+\newcommand{\succ@@prec}[3]{\vcenter{\m@th\offinterlineskip
+    \sbox\z@{$#1#3$}%
+    \hbox{$#1#2$}\kern-0.4\ht\z@\box\z@}}
+\newcommand\var@malg[2]{\rlap{$\m@th#1#2$}\mkern6mu{#1#2}}
+\makeatother
+
+\title{Policy Analysis Workshop \#2 Handout:\\Steps 2, 3, and 4}
+\author{TF: Rony Rodriguez-Ramirez}
+\date{September 24, 2024}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This handout guides you through Steps 2, 3, and 4 from Eugene Bardach and Eric M. Patashnik's \textit{A Practical Guide for Policy Analysis} (2020). These steps focus on assembling evidence, constructing policy alternatives, and selecting evaluation criteria, specifically within the context of education policy. Use this handout to aid in your project analysis paper.
+\end{abstract}
+
+\section{Introduction}
+
+For this workshop, we're looking at three critical steps of policy analysis as
+outlined by \citet{Bardach2020}: assembling evidence,
+constructing alternatives, and selecting criteria. These steps form the backbone
+of any robust policy analysis, especially within education policy. Our goal is
+to equip you with clear definitions, practical examples, and a comprehensive
+understanding of what to expect as you navigate through each step.
+
+\section{Step 2: Assemble Some Evidence}
+
+In policy analysis, your
+efforts are primarily divided between thinking—often collaboratively—and
+gathering data that can be transformed into evidence. \citet{Bardach2020}
+emphasize that evidence is not merely data; it is information that influences
+the beliefs of key stakeholders about the problem at hand and potential
+solutions. For instance, in education policy, evidence might include student
+performance metrics, teacher qualifications, or funding allocations.
+
+\subsection{Purposes of Assembling Evidence}
+
+Assembling evidence serves multiple purposes:
+
+\begin{enumerate}[label=\arabic*.]
+\item \textbf{Assessing the Problem:} Gain a deep understanding of the nature
+and extent of the educational issue you are addressing. This involves defining
+the problem clearly and comprehensively. Refer to the first handout regarding
+problem definition.
+    
+    \item \textbf{Understanding the Policy Context:} Explore the specific features of the policy environment. In education, this could mean analyzing agency workloads, budget figures, demographic changes, political ideologies of educational leaders, and the competency of middle-level managers.
+    
+\item \textbf{Evaluating Existing Policies:} Examine policies that have been
+implemented in similar educational settings or contexts. Understanding what has
+worked elsewhere can inform your analysis and help you avoid past pitfalls. This
+could be other institutions, counties, states, or countries.
+\end{enumerate}
+
+\subsection{Efficient Data Collection}
+
+Effective data collection is paramount. Bardach and Patashnik advise focusing on
+relevant information, continuously questioning what you need to know and why.
+Avoid the common pitfall of collecting data that doesn't contribute meaningful
+evidence to your analysis. Additionally, weigh the cost of obtaining evidence
+against its potential value in shaping better policy decisions. 
+
+In many cases, conducting individual surveys
+may not be feasible due to constraints such as time, budget, or access to
+respondents. Instead, analysts must employ alternative data collection methods
+to gather the necessary evidence. These could include: 
+
+\begin{itemize}
+  \item \textbf{Secondary Data Analysis:} Utilize existing datasets from governmental agencies, educational institutions, and reputable research organizations. Sources such as the National Center for Education Statistics (NCES) provide comprehensive data on various aspects of education, including student performance, teacher qualifications, and school funding.
+  
+  \item \textbf{Administrative Data:} Access internal records from educational institutions or government departments. This data can offer detailed insights into operational metrics, such as enrollment numbers, graduation rates, and resource allocation.
+  
+  \item \textbf{Literature Reviews:} Conduct thorough reviews of academic journals, policy reports, and case studies to synthesize existing research findings related to your policy issue.
+  
+  \item \textbf{Interviews and Focus Groups:} When quantitative data is limited,
+  qualitative methods like interviews with educators, administrators, and
+  policymakers can provide context and deeper understanding of the issues
+  at hand. However, for this course, we might not conduct these alternatives.
+    
+  \item \textbf{Publicly Available Reports:} Leverage reports from advocacy
+  groups, think tanks, and international organizations that offer data and
+analysis on education trends and policy impacts. Your policy problem might have
+been studied already by any of the institutions above.
+  
+\end{itemize}
+
+
+\subsection{Strategies for Data Collection}
+
+Based on \citet{Bardach2020}, to collect data efficiently:
+
+\begin{itemize}
+    \item \textbf{Start Early:} Begin your data collection process promptly to accommodate the busy schedules of stakeholders.
+    
+    \item \textbf{Review Available Literature:} Utilize online resources, academic journals, and existing research to build a foundation of evidence.
+    
+    \item \textbf{Use Analogies and Best Practices:} Look for successful education policies in other regions or contexts that you can adapt or draw inspiration from.
+\end{itemize}
+
+
+Finally, \citet{Bardach2020} also recommend engaging with potential critics and
+incorporating diverse perspectives ensures a balanced and comprehensive
+analysis. This not only strengthens your credibility but also fosters consensus
+among stakeholders, making your policy recommendations more robust and widely
+accepted. 
+
+\section{Step 3: Construct the Alternatives}
+
+Alternatives are the different policy options or strategies you propose to solve
+or mitigate the identified problem. In education policy, alternatives could
+range from increasing funding for underperforming schools to implementing
+targeted teacher training programs or introducing after-school tutoring
+initiatives. You should always contrast the alternatives and ask, critically,
+whether one option is better than the other. How do we do that?
+
+\subsection{Comprehensive vs. Focused Alternatives}
+
+Begin by generating a comprehensive list of potential alternatives. This will
+allow for creativity and ensures that no viable option is overlooked. As you
+progress in your PAP, narrow down this list by eliminating less feasible or less impactful
+options, focusing on the most promising ones.
+
+\begin{tcolorbox}[colback=gray!5!white, colframe=gray!75!black, title=Example: Reducing Achievement Gaps in Education, breakable]
+  Consider the issue of achievement gaps between different student demographics. Possible alternatives might include:
+  
+  \begin{itemize}
+    \item \textbf{Increase Funding for Underperforming Schools:} Allocate additional resources to schools that are struggling to meet performance metrics. This could involve providing more financial support for classroom materials, extracurricular programs, and infrastructure improvements to create a more conducive learning environment.
+  
+    \item \textbf{Implement Targeted Teacher Training Programs:} Enhance the skills of teachers working in diverse and underserved classrooms. Specialized training can equip educators with strategies to address the unique challenges faced by students from different backgrounds, thereby improving overall student performance.
+  
+    \item \textbf{Introduce After-School Tutoring Programs:} Provide extra academic
+    support to students who are falling behind. These programs can offer
+    personalized assistance in subjects where students are struggling, helping to
+    bridge the gap in achievement levels.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Sources for Generating Alternatives}
+
+When constructing alternatives for education policy, it is essential to draw
+from a diverse range of sources to ensure that your proposed solutions are both
+innovative and grounded in practical experience. One valuable source is the
+proposals put forth by political actors. You can gain
+insights into the current priorities and strategies being considered within the
+education sector if you review existing suggestions from
+education boards, policymakers, and other key stakeholders. 
+This not only helps in identifying viable options but also
+ensures that your alternatives are aligned with the broader policy landscape. 
+
+Another important source is generic strategies, which can be found in resources
+such as the checklist in Appendix A, titled "Things Governments Do." from the
+book.  \citet{Bardach2020} highlight how referring to such comprehensive lists can inspire
+innovative solutions by providing a structured framework for thinking about
+different types of interventions. These checklists often include a wide array of
+potential actions that governments can take, ranging from regulatory changes to
+the implementation of new programs, thereby broadening your perspective and
+fostering creative problem-solving. 
+
+\subsection{Creative Techniques for Constructing Alternatives}
+
+To foster creativity in developing alternatives:
+
+\begin{itemize}
+    \item \textbf{"If Cost Were No Object":} Imagine ideal solutions without budget constraints to explore the full potential of possible interventions.
+    
+    \item \textbf{Analogous Contexts:} Apply successful strategies from other sectors or countries to the education policy landscape.
+    
+    \item \textbf{Challenge Assumptions:} Regularly ask “why not” to explore new possibilities and break free from conventional thinking.
+\end{itemize}
+
+\section{Step 4: Select the Criteria}
+
+Criteria are the standards or benchmarks you use to evaluate the potential
+outcomes of each alternative. They serve as the bridge between the analytical
+aspects (facts and data) and the evaluative aspects (value judgments) of policy
+analysis. There are two main types of criteria:
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Evaluative Criteria:} These are standards used to assess the desirability of outcomes, such as efficiency, equity, and effectiveness.
+    
+    \item \textbf{Practical Criteria:} These involve practical considerations related to policy implementation, including legality, political acceptability, administrative robustness, and policy sustainability.
+\end{enumerate}
+
+\textit{Common Evaluative Criteria}. In education policy analysis, common
+evaluative criteria might include: 
+
+\begin{itemize}
+    \item \textbf{Efficiency:} Maximizing the use of resources to achieve educational goals.
+    
+    \item \textbf{Effectiveness:} The degree to which the policy achieves its intended objectives, such as improving student performance.
+    
+    \item \textbf{Equity:} Ensuring fair distribution of resources and benefits across different student demographics.
+    
+    \item \textbf{Political Acceptability:} The extent to which the policy is supported by stakeholders and policymakers.
+\end{itemize}
+
+\begin{tcolorbox}[colback=gray!5!white, colframe=gray!75!black, title=Example: Criteria for Reducing Achievement Gaps]
+
+When evaluating alternatives to reduce achievement gaps, you might consider:
+
+\begin{itemize}
+    \item \textbf{Primary Criterion:} Effectiveness in significantly reducing achievement gaps.
+    
+    \item \textbf{Secondary Criteria:} Cost-effectiveness, equity in resource distribution, and political feasibility.
+\end{itemize}
+\end{tcolorbox}
+
+\subsection{Selecting and Defining Criteria}
+
+To effectively select and define criteria:
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Primary Criterion:} This should directly address the core problem. For instance, if the problem is reducing achievement gaps, the primary criterion could be the effectiveness of the policy in achieving this goal.
+    
+    \item \textbf{Secondary Criteria:} These are additional factors that influence the desirability of the outcomes. Examples include cost-effectiveness, equity, and political feasibility.
+\end{enumerate}
+
+\subsection{Defining Metrics for Criteria}
+
+Each criterion should have a clear, measurable indicator. For example:
+
+\begin{table}[H]
+\caption{Criterion and Metric examples}
+\centering 
+\begin{tabular}{ll}
+\hline
+\textbf{Criterion} & \textbf{Metric} \\
+\hline
+Efficiency & Cost per student improvement \\
+Effectiveness & Percentage decrease in achievement gaps \\
+Equity & Distribution of resources across demographics \\
+Political Acceptability & Level of stakeholder support \\
+\hline
+\end{tabular}
+\end{table}
+
+A common mistake is confusing alternatives with criteria. Remember, alternatives
+are the actions or policy options you propose, while criteria are the standards
+you use to evaluate these options. Maintaining this distinction ensures clarity
+and rigor in your analysis. 
+
+Not all criteria hold equal importance. You should assign weights to each criterion based
+on their relevance to your policy goals. This involves balancing values
+and prioritizing certain criteria over others to reflect overarching
+philosophical or practical considerations. There are a couple of approaches to
+Weighting based on \citet{Bardach2020}:
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Political Process:} Allow existing governmental and political frameworks to determine the weights of each criterion.
+    
+    \item \textbf{Analyst Imposition:} Adjust the weights based on fairness and the need to address underrepresented interests, ensuring a balanced and democratic evaluation.
+\end{enumerate}
+
+\subsection{Practical Application}
+
+When selecting criteria for your policy analysis, approach
+the process with clarity and intentionality. First and foremost, you should
+group positive and negative criteria separately. This distinction enhances the
+clarity of your evaluation by allowing you to assess the benefits and costs of
+each alternative independently. Here, you can
+more easily compare how each policy option contributes positively or negatively
+to your objectives, thereby facilitating a more structured and transparent
+analysis. 
+
+Another critical aspect is to specify \textit{metrics} for each criterion. For
+instance, if one of your criteria is efficiency, you might specify a metric such
+as "cost per student improvement." This level of specificity allows for a more
+precise comparison between alternatives and helps to quantify the impact of each
+policy option. 
+
+Furthermore, the relevance of your criteria. Each
+criterion should be directly aligned with your policy objectives and the
+practical considerations of the issue at hand. This ensures that your
+analysis remains coherent and that the criteria you choose are meaningful in the
+context of your specific policy problem. For example, if your objective is to
+reduce achievement gaps in education, your criteria should reflect factors that
+directly influence this goal, such as effectiveness in closing gaps,
+cost-effectiveness of interventions, and equity in resource distribution. 
+
+% --------------------------------------------------------------------------------------------------
+% References
+% --------------------------------------------------------------------------------------------------
+\bibliography{references.bib}
+
+\end{document}

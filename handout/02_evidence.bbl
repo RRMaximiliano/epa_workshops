@@ -1,0 +1,9 @@
+\ifx\undefined\bysame
+\newcommand{\bysame}{\leavevmode\hbox to\leftmargin{\hrulefill\,\,}}
+\fi
+\begin{thebibliography}{xx}
+
+\harvarditem[Bardach and Patashnik]{Bardach and Patashnik}{2020}{Bardach2020}
+{\bf Bardach, Eugene and Eric~M. Patashnik}, {\it A practical guide for policy analysis: the eightfold path to more effective problem solving}, sixth edition ed., Washington, D.C: CQ Press, 2020.
+
+\end{thebibliography}
