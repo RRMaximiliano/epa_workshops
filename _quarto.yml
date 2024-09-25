@@ -12,6 +12,8 @@ execute:
   
 website:
   title: "EPA PCE: Workshops"
+  page-navigation: true
+  reader-mode: true  
   navbar:
     right:
       - href: index.qmd
@@ -26,10 +28,16 @@ website:
   sidebar:
     - title: "Workshops"
       contents:
+        - section: "Overview"
+          contents:
+            - href: workshop/index.qmd
+              text: "🏠 Home"
         - section: "Workshops"
           contents:
-            - workshop/index.qmd
-            - workshop/w01.qmd
+          - text: "Workshop 01: Define"
+            href: workshop/w01.qmd
+          - text: "Workshop 02: Alternatives"
+            href: workshop/w02.qmd
 
 format:
   html:

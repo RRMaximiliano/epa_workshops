@@ -1,0 +1,300 @@
+---
+title: "<font style='font-size:1em;'>Workshop 02<br/>Evidence, Alternatives, Criteria </font>"
+subtitle: "EPA PCE 2024"
+format: 
+  clean-api-revealjs:
+    self-contained: true
+    highlight-style: breeze
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
+    email: "rrodriguezramirez@g.harvard.edu<br/>https://calendly.com/rrmaximiliano/30min"
+    affiliations: "Harvard University"
+date: last-modified
+---
+
+## Introduction
+
+**Welcome to the Policy Analysis Workshop!**
+
+Today, we will focus on **Steps 2, 3, and 4** from Bardach and Patashnik’s _A Practical Guide for Policy Analysis_ (2020):
+
+2. **Assemble Some Evidence**
+3. **Construct the Alternatives**
+4. **Select the Criteria**
+
+## Agenda
+
+**Step 2: Assemble Some Evidence**
+
+- Importance of Evidence
+- Purposes of Assembling Evidence
+- Efficient Data Collection
+- Building Credibility and Consensus
+
+## Agenda
+
+**Step 3: Construct the Alternatives**
+
+- Defining Alternatives
+- Generating and Refining Alternatives
+- Creative Techniques
+
+## Agenda
+
+**Step 4: Select the Criteria**
+
+- Understanding Criteria
+- Types of Criteria
+- Selecting and Defining Criteria
+- Weighting Criteria
+
+# Step 2: Assemble Some Evidence
+
+## Importance of Evidence
+
+- **Core Activities in Policy Analysis:**
+  - **Thinking:** Conceptualizing and strategizing.
+  - **Hustling Data:** Gathering meaningful information.
+
+- **Time Constraints:** Real-world policy analysis often faces tight deadlines.
+
+> *"Evidence is information that affects the existing beliefs of important people... about significant features of the problem."*  
+> — Bardach & Patashnik, 2020, p. 36
+
+---
+
+## Purposes of Assembling Evidence
+
+1. **Assess the Problem:**
+   - Understand the nature and extent of the education issue.
+
+2. **Understand the Policy Context:**
+   - Insights into factors like funding, teacher qualifications, demographic changes.
+
+3. **Evaluate Existing Policies:**
+   - Examine what has worked in other education systems or regions.
+
+## Example: Improving Student Performance
+
+- **Problem:** Declining standardized test scores in public schools.
+- **Evidence Needed:**
+  - Current performance metrics.
+  - Teacher-student ratios.
+  - Funding levels.
+  - Socioeconomic factors affecting students.
+
+# Efficient Data Collection
+
+## Strategies
+
+- **Focus on Relevance:** Continuously evaluate the necessity of the data.
+- **Avoid Irrelevant Data:** Prevent collecting information that doesn't inform policy decisions.
+- **Value vs. Cost:** Balance the effort and resources against the potential impact of the evidence.
+
+## Tips for Data Collection
+
+- **Start Early:** Initiate data collection promptly to accommodate stakeholders' schedules.
+- **Review Available Literature:** Utilize online databases and academic journals.
+- **Use Analogies and Best Practices:** Learn from successful education policies in other regions.
+
+## Group Exercise 1: 10 minutes
+
+**Topic:** Assembling Evidence for Education Policy
+
+**Task:**
+
+- **Scenario:** Addressing X or Y problem (in your groups).
+- **In Groups:**
+  1. Identify key pieces of evidence needed (rank the evidence).
+  2. Discuss sources for this evidence.
+  3. Outline strategies to collect this data efficiently.
+
+**Share Your Findings:** Assign a group speaker. Each group will present a 1 min summary.
+
+# Step 3: Construct the Alternatives
+
+## Defining Alternatives
+
+- **Alternatives:** Different policy options or strategies to solve the education issue.
+
+> *"Policy alternatives can range from single actions to combinations of strategies."*  
+> — Bardach & Patashnik, 2020, p. 42
+
+---
+
+## Comprehensive vs. Focused Alternatives
+
+- **Start Comprehensive:**
+  - Generate a wide range of potential solutions.
+- **Narrow Down:**
+  - Eliminate less viable options to focus on the most promising ones.
+
+## Example: Reducing Achievement Gaps
+
+**Possible Alternatives:**
+
+1. **Increase Funding for Underperforming Schools:**
+   - Allocate more resources to schools with low performance metrics.
+
+2. **Implement Targeted Teacher Training Programs:**
+   - Enhance teacher skills in diverse and underserved classrooms.
+
+3. **Introduce After-School Tutoring Programs:**
+   - Provide additional academic support for struggling students.
+
+## Sources for Generating Alternatives
+
+1. **Proposals from Political Actors:**
+   - Review existing policy suggestions from education boards and policymakers.
+
+2. **Generic Strategies:**
+   - Refer to "Things Governments Do" checklist for innovative ideas.
+
+3. **Unconventional Solutions:**
+   - Encourage out-of-the-box thinking, such as technology integration or community partnerships.
+
+## Creative Techniques
+
+- **"If Cost Were No Object":**
+  - Imagine ideal solutions without budget constraints.
+
+- **Analogous Contexts:**
+  - Apply successful strategies from other sectors or countries.
+
+- **Challenge Assumptions:**
+  - Regularly ask “why not” to explore new possibilities.
+
+## Group Exercise 2: 15 minutes
+
+**Topic:** Constructing Alternatives for Education Policy
+
+**Task:**
+
+- **Scenario:** Groups of 5s, split into 2, and then merge with the other group. Groups of 3s will be merged and create one group. Total 3 groups.
+- **In Groups:**
+  1. Brainstorm at least two alternative policies (2-5 minutes).
+  2. Ensure each alternative is distinct and actionable.
+  3. Present your alternatives briefly and discuss feasibility (5 minutes).
+
+**Share Your Findings:** In your new groups, assign a group speaker. Share with the session how you weight the alternatives and whether you think you currently have enough evidence for it.   
+
+# Step 4: Select the Criteria
+
+## Understanding Criteria
+
+- **Criteria:** Standards used to evaluate the potential outcomes of each alternative.
+- **Purpose:** Bridge analytic facts and evaluative judgments.
+
+> *"Criteria are evaluative standards used to judge the goodness of the projected policy outcomes."*  
+> — Bardach & Patashnik, 2020, p. 53
+
+
+## Types of Criteria
+
+1. **Evaluative Criteria:**
+   - Standards to assess desirability (e.g., efficiency, equity).
+
+2. **Practical Criteria:**
+   - Considerations related to implementation (e.g., legality, political acceptability).
+
+## Common Evaluative Criteria
+
+- **Efficiency:** Maximizing resources to achieve goals.
+- **Effectiveness:** Degree to which objectives are met.
+- **Equity:** Fairness in distribution of benefits and burdens.
+- **Political Acceptability:** Support from stakeholders and policymakers.
+
+
+## Example: Criteria for Reducing Achievement Gaps
+
+1. **Primary Criterion:**
+   - **Effectiveness:** Significant reduction in achievement gaps.
+
+2. **Secondary Criteria:**
+   - **Cost-Effectiveness:** Optimal use of budget resources.
+   - **Equity:** Fair distribution of resources among all student demographics.
+   - **Political Feasibility:** Support from key stakeholders.
+
+
+# Selecting and Defining Criteria
+
+## Steps to Define Criteria
+
+1. **Primary Criterion:** Directly addresses the core problem.
+2. **Secondary Criteria:** Additional factors influencing desirability.
+
+### Define Metrics
+
+| **Criterion**   | **Metric**                                 |
+|-----------------|--------------------------------------------|
+| Efficiency      | Cost per student improvement               |
+| Effectiveness   | Percentage decrease in achievement gaps    |
+| Equity          | Distribution of resources across demographics |
+| Political Acceptability | Level of stakeholder support            |
+
+---
+
+## Avoiding Common Mistakes
+
+- **Do Not Confuse Alternatives with Criteria:**
+  - Alternatives are actions; criteria are standards for evaluation.
+
+> *"Alternatives are courses of action, whereas criteria are mental standards for evaluating the results of action."*  
+> — Bardach & Patashnik, 2020, p. 69
+
+
+## Weighting Criteria
+
+- **Relative Importance:** Assign weights based on policy goals.
+- **Balancing Values:** Prioritize criteria based on overarching values.
+
+### Approaches to Weighting
+
+1. **Political Process:**
+   - Let existing frameworks determine weights.
+
+2. **Analyst Imposition:**
+   - Adjust weights to reflect fairness and underrepresented interests.
+
+## Practical Application
+
+- **Group Separately:**
+  - Positive (benefit) criteria vs. Negative (cost) criteria.
+- **Specify Metrics:**
+  - Ensure clarity and measurability.
+- **Focus on Relevance:**
+  - Criteria should align with policy objectives.
+
+## Group Exercise 3: 15 minutes
+
+**Topic:** Selecting Evaluation Criteria
+
+**Task:**
+- **Scenario:** Evaluating alternatives to improve digital literacy in schools.
+- **In Groups:**
+  1. Identify and list potential criteria.
+  2. Define clear metrics for each criterion.
+  3. Assign relative weights to each criterion.
+
+**Share Your Findings:** Each group presents their criteria and metrics.
+
+
+## Conclusion
+
+- **Assembling Evidence:** 
+  - Critical for understanding and framing the problem.
+- **Constructing Alternatives:** 
+  - Generates viable policy options.
+- **Selecting Criteria:** 
+  - Ensures objective and value-driven evaluations.
+
+
+
+
+
+
+
+
