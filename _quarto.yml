@@ -38,6 +38,8 @@ website:
             href: workshop/w01.qmd
           - text: "Workshop 02: Alternatives"
             href: workshop/w02.qmd
+          - text: "Workshop 03: Criteria"
+            href: workshop/w03.qmd
 
 format:
   html:

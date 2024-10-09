@@ -1,0 +1,486 @@
+\documentclass{article}
+
+% Encoding and fonts
+\usepackage[utf8]{inputenc}           % Handles UTF-8 encoding
+% \usepackage{lmodern}                % Provides modern fonts
+\usepackage[sc]{mathpazo}             % Use math pazo instead, because it is beautiful 
+
+% Mathematics
+\usepackage{amssymb,amsmath,amsthm}   % AMS symbols, math environments, and theorems
+\usepackage{latexsym}                 % Additional math symbols
+\usepackage{mathrsfs}                 % Support for script math fonts
+\usepackage{dsfont}                   % Double stroke font for indicators (like \mathds{1})
+\usepackage{bbm}
+
+% Graphics and visualization
+\usepackage{float}
+\usepackage[pdftex]{graphicx}         % Include images (PDF, PNG, etc.)
+\usepackage{tikz}                     % TikZ for drawing
+\usetikzlibrary{intersections,calc,patterns,3d}  % TikZ libraries for patterns, calculations, intersections, 3D
+\usepackage{pst-node}                 % PSTricks for creating node connections
+\usepackage{tikz-cd}                  % Commutative diagrams in TikZ
+
+% Listings and code formatting
+\usepackage{listings}                 % Format source code listings
+
+% Formatting and layout
+\usepackage{setspace}                 % Set line spacing
+\usepackage{geometry}                 % Manage page geometry
+\geometry{
+  a4paper,                            % Use A4 paper
+  left=23mm,                          % Set left margin
+  right=23mm,                         % Set right margin
+  top=35mm,                           % Set top margin
+  bottom=35mm                         % Set bottom margin
+}
+% \setlength{\parindent}{0cm}           % Set no paragraph indentation
+\setstretch{1.3}                      % Set overall line spacing
+\usepackage{titling}                  % Adjust title spacing
+\setlength{\droptitle}{-5em}          % Reduce space before the title
+
+% Color
+\usepackage{color}
+\definecolor{webgreen}{rgb}{0,.5,0}
+\definecolor{webbrown}{rgb}{.6,0,0}
+\definecolor{webpurple}{rgb}{0.7,0,0.7}
+
+% Tables
+\usepackage{booktabs}
+
+% Hyperlinks
+\usepackage{hyperref}                 % Create hyperlinks in the document
+\hypersetup{
+  breaklinks = true,  
+  colorlinks=true, 
+  anchorcolor= webbrown, 
+  citecolor= webbrown,
+  filecolor= webbrown, 
+  linkcolor= webbrown, 
+  menucolor= webbrown,
+  urlcolor= webbrown, 
+  citebordercolor= 1 0 0, 
+  menubordercolor=1 0 0, 
+  urlbordercolor=1 0 0, 
+  runbordercolor=1 0 0 }
+\hypersetup{pdfauthor=Rony Rodriguez-Ramirez}
+
+% Theorem styles
+\theoremstyle{definition}
+\newtheorem{example}{Example}         % Define "example" theorem style
+\theoremstyle{plain}
+\newtheorem{defin}{Definition}        % Define "definition" theorem style
+\newtheorem{prop}{Proposition}        % Define "proposition" theorem style
+\newtheorem{axiom}{Axiom}             % Define "axiom" theorem style
+\newtheorem{theorem}{Theorem}         % Define "theorem" theorem style
+\newtheorem{remark}{Remark}           % Define "remark" theorem style
+\newtheorem{cor}{Corollary}           % Define "corollary" theorem style
+\newtheorem{lemma}{Lemma}             % Define "lemma" theorem style
+
+% Bibliography
+\usepackage{natbib}                   % For AER-style citations
+\bibliographystyle{aer}               % AER bibliography style
+
+% Enumerations
+\usepackage{enumitem}                 % More control over enumerations
+
+% Color boxes
+\usepackage[most]{tcolorbox}          % Tcolorbox for custom boxes
+% Redefine tcolorbox settings
+\tcbset{
+    breakable,
+    enhanced,
+    arc=0mm,                          % Rectangular edges
+    outer arc=0mm,                    % No outer arc
+    boxrule=0.3mm                     % Thinner border line
+}
+
+% Adjustments for proof environments
+\usepackage{etoolbox}                 % For command patching
+\AtBeginEnvironment{proof}{\setlength{\parindent}{10pt}}  % Indent proof environments
+
+% Arrays and tables
+\usepackage{array}                    % For improved table handling
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}  % Centering in tabular environments
+
+% Miscellaneous
+\usepackage{cancel}                   % For striking out in math mode
+\usepackage{chngcntr}                 % For changing counters
+\allowdisplaybreaks                   % Allows breaking of multiline equations
+
+% Custom commands
+\newcommand{\cmark}{\ding{51}}        % Checkmark symbol
+\newcommand{\xmark}{\ding{55}}        % Cross symbol
+\newcommand{\paren}[1]{\left ( #1 \right)}
+\newcommand{\set}[2]{\left \{ #1 : #2 \right \}}
+\newcommand{\hsuccsim}{\hspace{3pt} \hat{\succsim} \hspace{3pt}}
+\newcommand{\minpi}{\underline{\pi}}
+\newcommand{\bel}{\underline{P}}
+\newcommand{\plau}{\overline{P}}
+\newcommand{\K}{\mathcal{K}}
+\newcommand{\uH}{\mathcal{H}}
+\newcommand{\M}{\mathcal{M}}
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\pr}{\mathcal{P}}
+\newcommand{\minmu}{\underline{\mu}}
+\newcommand{\maxmu}{\overline{\mu}}
+\newcommand{\bu}{\text{BU}}
+\newcommand{\bdk}{\textbf{k}}
+\newcommand{\bdp}{\textbf{p}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\B}{\mathbb{B}}
+\newcommand{\I}{\mathds{1}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\bda}{\boldsymbol{\alpha}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\dir}{\text{Dir}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\expo}{\text{Expo}}
+\newcommand{\pois}{\text{Pois}}
+\newcommand{\bin}{\text{Bin}}
+\newcommand{\unif}{\text{Unif}}
+\newcommand{\tbP}{\boldsymbol{\tilde P}}
+\newcommand{\tbE}{\boldsymbol{\tilde E}}
+\newcommand{\gam}{\text{Gamma}}
+\newcommand{\Beta}{\text{Beta}}
+\newcommand{\var}{\text{Var}}
+\newcommand{\cov}{\text{Cov}}
+\newcommand{\pto}{\overset{P}{\to}}
+\newcommand{\dto}{\overset{D}{\to}}
+\newcommand{\asto}{\overset{a.s.}{\to}}
+\newcommand{\ind}{\perp\!\!\!\!\perp}
+\newcommand{\contradiction}{$\Rightarrow\!\Leftarrow$}
+\newcommand{\oneover}[1]{\frac{1}{#1}}
+\newcommand{\spimp}{\hspace{10pt} \implies \hspace{10pt}}
+\newcommand{\spiff}{\hspace{10pt} \iff \hspace{10pt}}
+\newcommand{\dash}{\text{-}}
+\newcommand*\widefbox[1]{\fbox{\hspace{2em}#1\hspace{2em}}}
+\newcommand{\important}[1]{\ul{\textbf{#1}}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcommand{\ceil}[1]{\lceil #1 \rceil}
+\DeclareMathOperator{\Bern}{Bern}
+\DeclareMathOperator{\boldx}{\textbf{X}}
+\DeclareMathOperator{\boldy}{\textbf{Y}}
+\DeclareMathOperator{\boldz}{\textbf{Z}}
+\DeclareMathOperator{\mue}{MU}
+
+% Custom symbols
+\makeatletter
+\DeclareRobustCommand{\varamalg}{\mathbin{\mathpalette\var@malg\perp}}
+\newcommand{\succprec}{\mathrel{\mathpalette\succ@prec{\succ\prec}}}
+\newcommand{\precsucc}{\mathrel{\mathpalette\succ@prec{\prec\succ}}}
+\newcommand{\succ@prec}[2]{\succ@@prec#1#2}
+\newcommand{\succ@@prec}[3]{\vcenter{\m@th\offinterlineskip
+    \sbox\z@{$#1#3$}%
+    \hbox{$#1#2$}\kern-0.4\ht\z@\box\z@}}
+\newcommand\var@malg[2]{\rlap{$\m@th#1#2$}\mkern6mu{#1#2}}
+\makeatother
+
+\title{Policy Analysis Workshop \#3 Handout:\\Step 4 }
+\author{TF: Rony Rodriguez-Ramirez}
+\date{September 24, 2024}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This handout is designed for our workshop with students on the critical step of
+selecting evaluation criteria in education policy analysis, focusing exclusively
+on Step 4 from Eugene Bardach and Eric M. Patashnik's \textit{A Practical Guide
+for Policy Analysis} (2020). This guide will provide detailed explanations,
+practical examples, and exercises to help you apply this step effectively in
+your project analysis paper. 
+\end{abstract}
+
+\section{Introduction}
+
+Welcome to our workshop on education policy analysis. Today, we'll look into a
+critical step of policy analysis as outlined by \citet{Bardach2020}, Evaluation
+Criteria
+
+\section{Step 4: Select the Criteria}
+
+Selecting appropriate criteria is essential for conducting a thorough and
+effective policy analysis. Criteria are the standards or benchmarks you use to
+evaluate the potential outcomes of each policy alternative. They bridge the
+analytical aspects (facts and data) and the evaluative aspects (value judgments)
+of policy analysis. 
+
+\subsection{Understanding Criteria}
+
+Criteria serve as the foundation for evaluating and comparing policy
+alternatives. They help determine which option best addresses the policy problem
+by providing a systematic way to assess the potential impacts. 
+
+\subsection{Types of Criteria}
+
+There are two main types of criteria:
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Evaluative Criteria:} Standards used to assess the desirability of outcomes. These include considerations like effectiveness, efficiency, equity, and security.
+    
+    \item \textbf{Practical Criteria:} Factors related to the implementation of the policy, such as legality, political acceptability, administrative feasibility, and sustainability.
+\end{enumerate} 
+
+
+\subsubsection{Common Evaluative Criteria in Education Policy}
+
+In education policy analysis, common evaluative criteria might include:
+
+\begin{itemize}
+    \item \textbf{Effectiveness:} The degree to which the policy achieves its intended objectives, such as improving student performance or increasing graduation rates.
+    
+    \item \textbf{Efficiency:} Maximizing the use of resources to achieve educational goals, such as cost per student or resource allocation efficiency.
+    
+    \item \textbf{Equity:} Ensuring fair distribution of resources and benefits across different student demographics, addressing disparities among socioeconomic, racial, or geographic groups.
+    
+    \item \textbf{Quality:} Enhancing the overall standard of education, including curriculum relevance and teacher competency.
+\end{itemize}
+
+\subsubsection{Practical Criteria}
+
+Considerations that affect the implementation of policy alternatives:
+
+\begin{itemize}
+    \item \textbf{Political Acceptability:} The extent to which the policy is supported by stakeholders, policymakers, and the public.
+    
+    \item \textbf{Administrative Feasibility:} The capacity of existing institutions to implement the policy effectively.
+    
+    \item \textbf{Legal Constraints:} Compliance with existing laws and regulations.
+    
+    \item \textbf{Social Acceptability:} The degree to which the policy aligns with societal values and norms.
+\end{itemize}
+
+\begin{tcolorbox}[colback=gray!5!white, colframe=gray!75!black, title=Example: Criteria for Reducing Achievement Gaps]
+
+When evaluating alternatives to reduce achievement gaps, you might consider:
+
+\begin{itemize}
+    \item \textbf{Primary Criterion:} Effectiveness in significantly reducing achievement gaps as measured by standardized test scores.
+    
+    \item \textbf{Secondary Criteria:} Cost-effectiveness, equity in resource distribution, political feasibility, and sustainability over time.
+\end{itemize}
+\end{tcolorbox}
+
+\subsection{Selecting and Defining Criteria}
+
+To effectively select and define criteria, follow these steps:
+
+\subsubsection{Identify the Core Objectives}
+
+Understand the fundamental goals of the policy. For instance:
+
+\begin{itemize}
+    \item \textbf{Policy Goal:} Improve literacy rates among elementary students.
+\end{itemize}
+
+\subsubsection{Choose Relevant Criteria}
+
+Select criteria that directly relate to achieving these objectives. Avoid criteria that are irrelevant or peripheral to the policy problem.
+
+\begin{itemize}
+    \item \textbf{Relevant Criteria:} Effectiveness, cost, equity, and sustainability.
+\end{itemize}
+
+\subsubsection{Define Each Criterion Clearly}
+
+Provide precise definitions to avoid ambiguity. For example:
+
+\begin{itemize}
+    \item \textbf{Effectiveness:} Measured by the percentage increase in reading proficiency levels among students.
+    
+    \item \textbf{Cost:} Total expenditure required for implementation, including training and materials.
+\end{itemize}
+
+\subsubsection{Defining Metrics for Criteria}
+
+Each criterion should have a clear, measurable indicator. This allows for objective evaluation of alternatives.
+
+\begin{table}[H]
+\caption{Examples of Criteria and Corresponding Metrics}
+\centering 
+\begin{tabular}{ll}
+\toprule
+\textbf{Criterion} & \textbf{Metric} \\
+\midrule
+Effectiveness & Increase in graduation rates (\%) \\
+Efficiency & Cost per student achieving proficiency \\
+Equity & Reduction in performance gaps between demographic groups \\
+Political Acceptability & Number of endorsements from key stakeholders \\
+Administrative Feasibility & Time required to implement the policy \\
+Sustainability & Duration policy benefits are expected to last \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Avoiding Common Pitfalls}
+
+A common mistake is confusing alternatives with criteria. Remember:
+
+\begin{itemize}
+    \item \textbf{Alternatives} are the different policy options or courses of action you propose.
+    
+    \item \textbf{Criteria} are the standards you use to evaluate these alternatives.
+\end{itemize}
+
+\textbf{Example of Confusion:}
+
+\begin{itemize}
+    \item \textit{Incorrect:} "Our criterion is to implement after-school tutoring programs."
+    
+    \item \textit{Correct:} "Our criterion is effectiveness, measured by improvements in student test scores."
+\end{itemize}
+
+\subsection{Prioritizing Criteria}
+
+Not all criteria hold equal importance. You should assign weights to each criterion based on their relevance to your policy goals. This involves balancing values and prioritizing certain criteria over others.
+
+\subsubsection{Approaches to Weighting Criteria}
+
+Based on \citet{Bardach2020}, there are two main approaches:
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Political Process:} Allow existing governmental and political frameworks to determine the weights of each criterion. This might involve stakeholder consultations or policy mandates.
+    
+    \item \textbf{Analyst's Judgment:} Adjust the weights based on fairness and the need to address underrepresented interests, ensuring a balanced and democratic evaluation.
+\end{enumerate}
+
+\begin{tcolorbox}[colback=yellow!5!white, colframe=yellow!75!black, title=Exercise: Weighting Criteria]
+
+\textbf{Scenario:} You are evaluating policy alternatives to improve access to early childhood education.
+
+\textbf{Task:} Assign weights to the following criteria based on their importance:
+
+\begin{itemize}
+    \item Effectiveness
+    \item Cost
+    \item Equity
+    \item Political Feasibility
+\end{itemize}
+
+\textbf{Discussion:} Consider which criteria are most critical to achieving the policy objectives and justify your weighting choices.
+
+\end{tcolorbox}
+
+\subsection{Practical Application}
+
+When selecting criteria for your policy analysis, approach the process with clarity and intentionality.
+
+\subsubsection{Group Positive and Negative Criteria Separately}
+
+This distinction enhances the clarity of your evaluation by allowing you to assess the benefits and costs of each alternative independently.
+
+\begin{itemize}
+    \item \textbf{Positive Criteria:} Factors that contribute to achieving policy goals (e.g., effectiveness, equity).
+
+    \item \textbf{Negative Criteria:} Factors that might hinder policy implementation or have adverse effects (e.g., high costs, legal barriers).
+\end{itemize}
+
+\subsubsection{Specify Metrics for Each Criterion}
+
+For instance:
+
+\begin{itemize}
+    \item \textbf{Effectiveness:} Measured by the percentage increase in student test scores.
+
+    \item \textbf{Cost:} Total expenditure required for implementation, in dollars.
+
+    \item \textbf{Equity:} Reduction in achievement gaps between high-income and low-income students.
+
+    \item \textbf{Administrative Feasibility:} Number of additional staff required.
+\end{itemize}
+
+\subsubsection{Ensure Relevance of Criteria}
+
+Each criterion should be directly aligned with your policy objectives and the practical considerations of the issue at hand.
+
+\begin{tcolorbox}[colback=gray!5!white, colframe=gray!75!black, title=Example: Applying Criteria to Policy Alternatives]
+
+\textbf{Policy Problem:} Low college enrollment rates among underrepresented minorities.
+
+\textbf{Alternatives:}
+
+\begin{enumerate}[label=\alph*.]
+    \item Implementing mentorship programs in high schools.
+    \item Providing financial aid and scholarships.
+    \item Enhancing college preparatory curricula.
+\end{enumerate}
+
+\textbf{Selected Criteria and Metrics:}
+
+\begin{itemize}
+    \item \textbf{Effectiveness:} Increase in college enrollment rates (\%)
+    
+    \item \textbf{Equity:} Reduction in enrollment disparities between demographic groups
+    
+    \item \textbf{Cost-effectiveness:} Cost per additional enrolled student
+    
+    \item \textbf{Political Feasibility:} Support from education boards and policymakers
+\end{itemize}
+
+\textbf{Application:} Evaluate each alternative against these criteria to determine the most suitable policy option.
+
+\end{tcolorbox}
+
+\subsubsection{Case Study: Implementing a School Nutrition Program}
+
+\textbf{Policy Problem:} High rates of childhood obesity affecting student health and academic performance.
+
+\textbf{Potential Alternatives:}
+
+\begin{enumerate}[label=\alph*.]
+    \item Introducing mandatory nutritional education in the curriculum.
+    \item Implementing healthier school meal programs.
+    \item Promoting physical activity through after-school sports programs.
+\end{enumerate}
+
+\textbf{Criteria and Metrics:}
+
+\begin{itemize}
+    \item \textbf{Effectiveness:} Reduction in average student BMI over two years.
+    \item \textbf{Cost:} Total program costs per student.
+    \item \textbf{Administrative Feasibility:} Availability of resources and staff training requirements.
+    \item \textbf{Social Acceptability:} Parent and student satisfaction surveys.
+\end{itemize}
+
+\textbf{Evaluation:} By applying these criteria, you can assess which alternative is most likely to achieve the desired outcomes while being practical to implement.
+
+\subsection{Tips for Effective Criteria Selection}
+
+\begin{itemize}
+    \item \textbf{Be Specific:} Avoid vague criteria. Define exactly what you mean and how it will be measured.
+
+    \item \textbf{Be Comprehensive:} Consider all relevant aspects that could impact the success of the policy.
+
+    \item \textbf{Be Objective:} Use measurable indicators to reduce bias in evaluation.
+
+    \item \textbf{Be Transparent:} Clearly explain why each criterion was selected and how weights are assigned.
+
+    \item \textbf{Consult Stakeholders:} Engage with those affected by the policy to understand which criteria matter most to them.
+\end{itemize}
+
+\section{Conclusion}
+
+Selecting appropriate criteria is essential for conducting a thorough and effective policy analysis. By carefully defining and weighting your criteria, and by ensuring they are directly related to your policy objectives, you can objectively evaluate policy alternatives and make informed recommendations.
+
+
+
+
+
+
+
+
+
+
+
+% --------------------------------------------------------------------------------------------------
+% References
+% --------------------------------------------------------------------------------------------------
+\bibliography{references.bib}
+
+\end{document}

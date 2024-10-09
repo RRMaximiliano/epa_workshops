@@ -1,0 +1,168 @@
+---
+title: "<font style='font-size:1em;'>Workshop 03<br/>Evaluation criteria </font>"
+subtitle: "EPA PCE 2024"
+format: 
+  clean-api-revealjs:
+    self-contained: true
+    highlight-style: breeze
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
+    email: "rrodriguezramirez@g.harvard.edu<br/>https://calendly.com/rrmaximiliano/30min"
+    affiliations: "Harvard University"
+date: last-modified
+---
+
+## Introduction
+
+**Welcome to the Policy Analysis Workshop!**
+
+Today, we will focus on **Step 4** from Bardach and Patashnik’s _A Practical Guide for Policy Analysis_ (2020):
+
+4. **Select the Criteria**
+
+## Agenda
+
+**Step 4: Select the Criteria** 
+
+- Understanding Criteria
+- Types of Criteria
+- Selecting and Defining Criteria
+- Weighting Criteria
+
+# Step 4: Select the Criteria
+
+## Understanding Criteria
+
+- **Criteria:** Standards used to evaluate the potential outcomes of each alternative.
+- **Purpose:** Bridge analytic facts and evaluative judgments.
+
+> *"Criteria are evaluative standards used to judge the goodness of the projected policy outcomes."*  
+> — Bardach & Patashnik, 2020, p. 53
+
+
+## Types of Criteria
+
+1. **Evaluative Criteria:**
+   - Standards to assess desirability (e.g., efficiency, equity).
+
+2. **Practical Criteria:**
+   - Considerations related to implementation (e.g., legality, political acceptability).
+
+## Common Evaluative Criteria
+
+- **Efficiency:** Maximizing resources to achieve goals.
+- **Effectiveness:** Degree to which objectives are met.
+- **Equity:** Fairness in distribution of benefits and burdens.
+- **Political Acceptability:** Support from stakeholders and policymakers.
+
+
+## Example: Criteria for Reducing Achievement Gaps
+
+1. **Primary Criterion:**
+   - **Effectiveness:** Significant reduction in achievement gaps.
+
+2. **Secondary Criteria:**
+   - **Cost-Effectiveness:** Optimal use of budget resources.
+   - **Equity:** Fair distribution of resources among all student demographics.
+   - **Political Feasibility:** Support from key stakeholders.
+
+
+# Selecting and Defining Criteria
+
+## Steps to Define Criteria
+
+1. **Primary Criterion:** Directly addresses the core problem.
+2. **Secondary Criteria:** Additional factors influencing desirability.
+
+### Define Metrics
+
+| **Criterion**   | **Metric**                                 |
+|-----------------|--------------------------------------------|
+| Efficiency      | Cost per student improvement               |
+| Effectiveness   | Percentage decrease in achievement gaps    |
+| Equity          | Distribution of resources across demographics |
+| Political Acceptability | Level of stakeholder support            |
+
+---
+
+## Avoiding Common Mistakes
+
+- **Do Not Confuse Alternatives with Criteria:**
+  - Alternatives are actions; criteria are standards for evaluation.
+
+> *"Alternatives are courses of action, whereas criteria are mental standards for evaluating the results of action."*  
+> — Bardach & Patashnik, 2020, p. 69
+
+
+## Weighting Criteria
+
+- **Relative Importance:** Assign weights based on policy goals.
+- **Balancing Values:** Prioritize criteria based on overarching values.
+
+### Approaches to Weighting
+
+1. **Political Process:**
+   - Let existing frameworks determine weights.
+
+2. **Analyst Imposition:**
+   - Adjust weights to reflect fairness and underrepresented interests.
+
+## Practical Application
+
+- **Group Separately:**
+  - Positive (benefit) criteria vs. Negative (cost) criteria.
+- **Specify Metrics:**
+  - Ensure clarity and measurability.
+- **Focus on Relevance:**
+  - Criteria should align with policy objectives.
+
+## Group Exercise:
+
+**Topic:** Selecting Evaluation Criteria
+
+**Task:**
+
+- **Scenario:** Evaluating alternatives to improve digital literacy in schools.
+- **In Groups:**
+
+  1. Identify and list potential criteria.
+  2. Define clear metrics for each criterion.
+  3. Assign relative weights to each criterion.
+
+**Share Your Findings:** Each group presents their criteria and metrics.
+
+
+## Conclusion
+
+- **Assembling Evidence:** 
+  - Critical for understanding and framing the problem.
+- **Constructing Alternatives:** 
+  - Generates viable policy options.
+- **Selecting Criteria:** 
+  - Ensures objective and value-driven evaluations.
+
+# Reminders
+
+## Reminders
+
+- **Share your Feedback**: [https://bit.ly/4dLGile](https://bit.ly/4dLGile)
+- Workshop #3 - 10/9 (Following Wed)
+  - Read Bardach Pg 147-155 (different levers) & Recap Pg 31 - 49
+  - Confirm your 3-5 alternatives
+  - Pre-select at least 3 distinct criteria to bring for discussion in workshop
+- **Next Assignment**: Education Sector Analysis, Problem Definition, Policy Alternatives & Evaluation Criteria (Group Assignment, Due 10/21 Noon) [Complete/Incomplete
+
+
+
+
+
+
+
+
+
+
+
+
