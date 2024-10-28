@@ -1,0 +1,62 @@
+---
+title: "Workshop #4: Project the Outcomes"
+format: html
+---
+
+```{r slides, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs, echo=FALSE, results="asis"}
+slide_buttons("../slides/workshop04")
+```
+
+<div class="container" style="position: relative; overflow: hidden; width: 100%; min-height:600px;">
+  <iframe src="../slides/workshop04.html" style="position:absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height:100%;"></iframe>
+</div>
+
+## Overview
+
+Welcome to Workshop #4, focusing on Step Five: Project the Outcomes in education policy analysis. In this session, we will delve into the critical process of forecasting the potential impacts of various policy alternatives. Understanding how to project outcomes effectively is essential for bridging the gap between theoretical policy options and their real-world implications, ensuring that your analysis remains grounded, realistic, and actionable.
+
+## What You'll Learn
+
+During this workshop, you will explore the key components of projecting outcomes, including:
+
+- **Developing Magnitude Estimates:** Learn how to quantify the expected impacts of policies with specific, measurable estimates to enhance clarity and prevent misinterpretation.
+- **Break-Even Analysis:** Understand how to determine whether the benefits of a policy justify its costs, ensuring financial viability and sustainability.
+- **Sensitivity Analysis:** Discover techniques to examine how changes in key assumptions can affect your projections, helping you identify and prioritize uncertainties.
+- **Scenario Writing:** Gain skills in creating realistic scenarios that anticipate different future conditions, enabling you to prepare for a range of possible outcomes.
+- **Anticipating Undesirable Side Effects:** Learn to identify and mitigate potential negative consequences of policies to design more effective and comprehensive interventions.
+- **Constructing an Outcomes Matrix:** Master the creation of a visual tool that compares policy alternatives against evaluative criteria, facilitating informed decision-making.
+
+## Key Components of Step Five
+
+Projecting outcomes involves several interrelated components that work together to provide a comprehensive forecast of policy impacts:
+
+- **Magnitude Estimates:** Clearly define the extent of expected impacts with numerical data. For example, instead of saying a policy will "improve student engagement," specify that it will "increase student participation in extracurricular activities by 15% over two years."
+  
+- **Break-Even Analysis:** Assess whether the anticipated benefits of a policy outweigh its costs. This involves calculating the point at which benefits equal costs and evaluating the feasibility of achieving this balance.
+  
+- **Sensitivity Analysis:** Identify which variables have the most significant impact on your outcomes and test how variations in these variables influence your projections. This helps prioritize areas that require more robust data or contingency planning.
+  
+- **Scenario Writing:** Develop multiple scenarios—best-case, worst-case, and most likely—to understand how different future conditions might affect policy outcomes. This encourages both creative and evidence-based thinking.
+  
+- **Outcomes Matrix:** Create a matrix that visually represents how each policy alternative performs against various criteria such as efficacy, cost-effectiveness, operational feasibility, economic impact, and political acceptability. This tool aids in comparing and contrasting the potential outcomes of each option.
+
+## Education-Focused Outcomes Matrix Example
+
+| **Policy Scenario**                         | **% Improvement from Baseline (Efficacy)** | **Cost per Student Improved ($)** | **Operational Feasibility (O)** | **Economic Impact (E)** | **Political Acceptability (P)** |
+|---------------------------------------------|--------------------------------------------|-------------------------------------|----------------------------------|--------------------------|---------------------------------|
+| **Existing Programs**                       |                                            |                                     |                                  |                          |                                 |
+| Mentorship Programs                         | 5% to 7%                                   | \$200                                | High                             | Medium                   | High                            |
+| **New Initiatives**                         |                                            |                                     |                                  |                          |                                 |
+| Expanded Financial Aid                      | 10% to 12%                                 | \$500                                | Medium                           | High                     | Medium                          |
+| Enhanced Curricula                          | 7% to 9%                                   | \$300                                | High                             | High                     | High                            |
+| Standardized Testing                        | 3% to 4%                                   | \$150                                | Low                              | Low                      | Low                             |
+| **Innovative Approaches**                   |                                            |                                     |                                  |                          |                                 |
+| Technology Integration                      | 8% to 10%                                  | \$250                                | Medium                           | High                     | Medium                          |
+| Early Childhood Education Expansion         | 12% to 15%                                 | \$400                                | Medium                           | High                     | High                            |
+
+
+Projecting outcomes is a pivotal step in education policy analysis. By meticulously estimating the potential impacts of each policy alternative, maintaining a balance between realism and optimism, and anticipating uncertainties and side effects, you can provide a robust foundation for making informed and effective policy recommendations. Utilize both quantitative and qualitative methods, engage with stakeholders, and remain transparent in your projections to enhance the credibility and effectiveness of your analysis.

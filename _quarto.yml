@@ -40,7 +40,8 @@ website:
             href: workshop/w02.qmd
           - text: "Workshop 03: Criteria"
             href: workshop/w03.qmd
-
+          - text: "Workshop 04: Outcomes"
+            href: workshop/w04.qmd
 format:
   html:
     author: EPA Teaching Team

@@ -1,0 +1,232 @@
+---
+title: "<font style='font-size:1em;'>Workshop 04<br/>Step 5: Project the Outcomes</font>"
+subtitle: "EPA PCE 2024"
+format: 
+  clean-api-revealjs:
+    self-contained: true
+    highlight-style: breeze
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
+    email: "rrodriguezramirez@g.harvard.edu<br/>https://calendly.com/rrmaximiliano/30min"
+    affiliations: "Harvard University"
+date: last-modified
+---
+
+## Introduction
+
+- **Welcome to Workshop 04**
+- **Focus:** Step Five - Project the Outcomes
+- **Objective:** Learn how to forecast the potential impacts of education policy alternatives
+
+---
+
+## Step Five: Project the Outcome
+
+- **Definition:** Estimating the consequences of each policy alternative
+- **Importance:** Bridges theoretical options with real-world implications
+- **Challenge:** Inherent uncertainties in predicting the future
+
+---
+
+## Understanding the Challenges
+
+- Policy is About the Future
+  - **Forward-Looking Nature:** Policies require forecasting future conditions
+  - **Question:** How can we make educated guesses about future educational needs?
+- Balancing Realism and Optimism
+  - **Realism vs. Optimism:** Avoid overly optimistic projections
+  - **Question:** What are the risks of being too optimistic in policy projections?
+- Avoiding the 51-49 Principle
+  - **Definition:** Treating a slightly more likely outcome as a certainty
+  - **Question:** How can we acknowledge uncertainties without undermining our analysis?
+
+---
+
+## Leveraging Social Science
+
+### Using Models and Evidence
+
+- **Role of Models:** Diagnose problems, map trends, assess practices
+- **Example:** Using statistical models to predict the impact of mentorship programs on graduation rates (this could come from other research studies)
+
+### Considering Initial Conditions
+
+- **Current Facts:** Understand existing conditions in the education system
+- **Question:** How do current educational disparities influence our projections?
+
+---
+
+## Developing Magnitude Estimates
+
+- **Specificity:** Define the extent of expected impacts
+- **Clarity:** Use numerical estimates to prevent misinterpretation
+- **Trend Data:** Use past trends cautiously to inform future projections
+
+### Example in Education Policy
+
+- **Vague Projection:** "Improve student engagement."
+- **Specific Projection:** "Increase student participation in extracurricular activities by 15% over two years."
+
+---
+
+## Break-Even Analysis
+
+### Concept and Steps
+
+1. **Identify Costs and Benefits:** List all associated with the policy
+2. **Determine the Break-Even Point:** When benefits equal costs
+3. **Assess Feasibility:** Are the benefits achievable?
+
+## Sensitivity Analysis
+
+- **Purpose:** Examine how changes in key assumptions affect projections
+- **Steps:**
+  1. **Identify Key Uncertainties:** Variables with significant impact
+  2. **Test Variations:** Adjust variables within plausible ranges
+  3. **Prioritize Focus Areas:** Concentrate on the most influential uncertainties
+
+- **Question:** Which uncertainties could most drastically alter our policy outcomes?
+
+---
+
+## Scenario Writing
+
+- **Create Realistic Scenarios:** Based on plausible future developments
+- **Consider Diverse Outcomes:** Best-case, worst-case, and most likely scenarios
+- **Balance Imagination and Evidence:** Ensure scenarios are both creative and grounded
+
+- **Question:** What are some realistic scenarios that could impact the success of our proposed policy?
+
+---
+
+## Anticipating Undesirable Side Effects
+
+### Common Side Effects in Education Policy
+
+- **Resource Misallocation:** Redirecting funds may cause shortages elsewhere
+- **Equity Concerns:** Improving one group's outcomes might disadvantage another
+- **Administrative Burdens:** New programs can increase workloads
+
+### Example: Implementing a Standardized Testing Policy
+
+- **Positive Outcome:** Improved student accountability and standardized assessment
+- **Undesirable Side Effect:** Teaching to the test, narrowing the curriculum
+
+- **Question:** How can we mitigate potential negative impacts of our chosen policy?
+
+---
+
+## Constructing an Outcomes Matrix
+
+### Creating the Matrix
+
+1. **List Alternatives:** Down the rows, include all policy options
+2. **Define Criteria:** Across the columns, list relevant evaluative criteria (e.g., cost, effectiveness, equity)
+3. **Populate the Matrix:** Estimate outcomes for each criterion per alternative
+
+## Education-Focused Outcomes Matrix Example
+
+| **Policy Scenario**                         | **% Improvement from Baseline (Efficacy)** | **Cost per Student Improved (\$)** | **Operational (O)** | **Economic (E)** | **Political (P)** |
+|---------------------------------------------|--------------------------------------------|-------------------------------------|----------------------------------|--------------------------|---------------------------------|
+| **Existing Programs**                       |                                            |                                     |                                  |                          |                                 |
+| Mentorship Programs                         | 5\% to 7\%                                 | \$200                                | High                             | Medium                   | High                            |
+| **New Initiatives**                         |                                            |                                     |                                  |                          |                                 |
+| Expanded Financial Aid                      | 10\% to 12\%                               | \$500                                | Medium                           | High                     | Medium                          |
+| Enhanced Curricula                          | 7\% to 9\%                                 | \$300                                | High                             | High                     | High                            |
+| Standardized Testing                        | 3\% to 4\%                                 | \$150                                | Low                              | Low                      | Low                             |
+| **Innovative Approaches**                   |                                            |                                     |                                  |                          |                                 |
+| Technology Integration                      | 8\% to 10\%                                | \$250                                | Medium                           | High                     | Medium                          |
+---
+
+## Example: Applying Criteria to Education Policy Alternatives
+
+**Policy Problem:**  
+Low graduation rates and high dropout rates in high schools.
+
+**Alternatives:**
+
+1. Implementing mentorship programs for at-risk students.
+2. Expanding financial aid and scholarship opportunities.
+3. Enhancing curricula to include more STEM and vocational training.
+4. Introducing standardized testing to monitor student performance.
+5. Integrating technology in classrooms to facilitate personalized learning.
+6. Expanding early childhood education programs.
+
+
+## Example: Applying Criteria to Education Policy Alternatives
+
+- **Selected Criteria and Metrics:**
+  - **Efficacy:** Percentage improvement in graduation rates.
+  - **Cost-Effectiveness:** Cost per student improved (\$).
+  - **Operational Feasibility (O):** Ease of implementing the policy (High, Medium, Low).
+  - **Economic Impact (E):** Broader economic benefits (High, Medium, Low).
+  - **Political Acceptability (P):** Level of support from stakeholders and policymakers (High, Medium, Low).
+
+- [Evaluate each alternative against these criteria to determine the most suitable policy option. For instance, while Expanded Financial Aid has high efficacy and economic impact, its high cost and medium political acceptability might pose challenges compared to Enhanced Curricula, which offers a balanced improvement with high feasibility and acceptability.]{.small}
+
+---
+
+## Constructing an Outcomes Matrix
+
+### Using the Matrix
+
+- **Analyze Balance:** Identify which policy offers the best balance of cost, effectiveness, and equity
+- **Visual Comparison:** Compare potential outcomes of each option
+- **Informed Decision-Making:** Facilitate more objective and comprehensive policy evaluations
+
+---
+
+## Practical Application
+
+### Be Realistic and Specific
+
+- **Avoid Vague Projections:** Clearly define outcomes with measurable estimates
+
+**Example in Education Policy:**
+
+- **Vague Projection:** "Improve student engagement."
+- **Specific Projection:** "Increase student participation in extracurricular activities by 15% over two years."
+
+## Practical Application
+
+### Use Multiple Methods
+
+- **Combine Quantitative and Qualitative:** Create comprehensive projections
+
+**Example: Implementing a Teacher Training Program:**
+
+- **Quantitative Estimate:** "Improve student test scores by an average of 8%."
+- **Qualitative Insight:** "Enhance teacher confidence and instructional methods, leading to a more supportive classroom environment."
+
+## Practical Application
+
+### Engage Stakeholders
+
+- **Consult Diverse Perspectives:** Enhance accuracy of projections
+
+**Example: Introducing Technology in Classrooms:**
+
+- **Stakeholder Input:** Teachers may express the need for professional development to effectively integrate technology.
+- **Incorporated Projection:** "Provide comprehensive training for 90% of teachers, leading to a 10% increase in technology usage in classrooms."
+
+---
+
+## Tips for Effective Outcome Projection
+
+- **Be Specific:** Clearly define each projected outcome with measurable indicators.
+- **Be Comprehensive:** Consider all relevant aspects that could influence the policy's success.
+- **Be Objective:** Use data-driven estimates to minimize bias in your projections.
+- **Be Transparent:** Document your assumptions and methodologies for projecting outcomes.
+- **Consult Stakeholders:** Engage with those affected by the policy to ensure projections are grounded in reality.
+
+---
+
+## Conclusion
+
+- **Pivotal Step:** Projecting outcomes is essential for robust education policy analysis.
+- **Key Actions:** Estimate potential impacts, maintain realism, anticipate uncertainties and side effects.
+- **Best Practices:** Utilize quantitative and qualitative methods, engage stakeholders, remain transparent.
+- **Final Thought:** Thoughtful outcome projection leads to informed and effective policy recommendations.
