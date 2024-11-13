@@ -42,6 +42,8 @@ website:
             href: workshop/w03.qmd
           - text: "Workshop 04: Outcomes"
             href: workshop/w04.qmd
+          - text: "Workshop 05: Trade-offs"
+            href: workshop/w05.qmd
 format:
   html:
     author: EPA Teaching Team

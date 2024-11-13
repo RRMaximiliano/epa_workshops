@@ -1,0 +1,167 @@
+---
+title: "<font style='font-size:1em;'>Workshop 05<br/>Step 6: Confront the Trade-offs, Address Uncertainty</font>"
+subtitle: "EPA PCE 2024"
+format: 
+  clean-api-revealjs:
+    self-contained: true
+    highlight-style: breeze
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
+    email: "rrodriguezramirez@g.harvard.edu<br/>https://calendly.com/rrmaximiliano/office_hours"
+    affiliations: "Harvard University"
+date: last-modified
+---
+
+
+## Introduction
+
+- **Workshop #6:** Confronting Trade-offs and Addressing Uncertainty in Education Policy
+- Explore the balance of competing alternatives in policy decisions
+- Develop skills for managing uncertainties in policy outcomes
+
+---
+
+## Understanding Trade-offs
+
+- **Trade-offs**: 
+  - Balancing criteria due to limited resources and diverse goals
+- Example: More funding for technology may reduce funds for arts programs
+- Recognize **dominance**: 
+  - When one policy performs better across all criteria, trade-offs aren’t necessary
+
+---
+
+## Focus on Outcomes
+
+- Avoid comparing **alternatives directly**—focus on **outcomes**
+- Example: Instead of “trade off tutoring hours vs. hiring teachers,” focus on:
+  - Expected improvements in academic achievement from tutoring vs. cost savings from fewer hires
+- Compare outcomes based on **criteria**: cost-effectiveness, efficacy, equity
+- Can you think of any issues regarding this approach?
+
+---
+
+## Example: Dominance in Education Policy
+
+- **Policy Alternatives** to improve graduation rates:
+  - **Alternative A1**: Mentorship for at-risk students
+  - **Alternative A2**: Expand financial aid
+- A1 = 10% increase for $200/student; 
+- A2 = 12% increase for $500/student
+
+What would be your conclusion here?
+
+. . .
+
+- A2 doesn’t dominate A1; trade-offs needed between cost and effectiveness
+
+---
+
+## Commensurability: Weighting Criteria
+
+- Compare alternatives by **weighting importance** of criteria
+- Use common units (e.g., dollars for cost-effectiveness) where possible
+- **Limitations of monetary metrics**:
+  - Not all outcomes are easily valued in dollar terms (e.g., privacy, well-being)
+
+---
+
+## Break-Even Analysis Revisited
+
+- **Break-even analysis**: Determine financial viability and set benchmarks
+- Helps solve commensurability issues
+- Example: Counseling program must reduce dropout rates enough to justify costs
+
+---
+
+## Constructing and Analyzing Trade-offs
+
+- **Outcomes Matrix**: Visualize trade-offs across criteria
+- Compare alternatives for:
+  - **Efficacy** (% improvement), 
+  - **Cost per Student Improved**, 
+  - **Operational Feasibility**, 
+  - **Economic Impact**, 
+  - **Political Acceptability**
+
+---
+
+### Example Outcomes Matrix for Education Policy Alternatives
+
+| Policy Scenario                     | Efficacy (%) | Cost per Student | Operational Feasibility | Economic Impact | Political Acceptability |
+|-------------------------------------|--------------|------------------|-------------------------|-----------------|-------------------------|
+| Mentorship Programs                 | 5-7%        | $200            | High                    | Medium          | High                    |
+| Expanded Financial Aid              | 10-12%      | $500            | Medium                  | High            | Medium                  |
+| Enhanced Curricula                  | 7-9%        | $300            | High                    | High            | High                    |
+| Technology Integration              | 8-10%       | $250            | Medium                  | High            | Medium                  |
+| Early Childhood Education Expansion | 12-15%      | $400            | Medium                  | High            | High                    |
+
+---
+
+## Rank-Ordering Alternatives
+
+- When quantifying is challenging, **rank-order policies** by overall desirability
+- Prioritize based on combined performance across criteria:
+  - **Efficacy**, **Cost-effectiveness**, **Political Acceptability**
+
+---
+
+## Addressing Uncertainty in Trade-offs
+
+- **Uncertainty** complicates trade-offs
+  - External factors like economy, politics may impact outcomes
+- Strategies:
+  - **Sensitivity Analysis**: Assess impact of key assumption changes
+  - **Scenario Planning**: Explore how different conditions affect outcomes
+  - **Robust Decision-Making**: Choose policies that perform well across scenarios
+
+---
+
+## Practical Strategies
+
+- **Convert Alternatives into Outcomes**: Measurable outcomes for comparison
+- **Common Metrics**: Use shared metrics for clarity
+- **Outcomes Matrix**: Compare alternatives systematically
+- **Break-Even & Sensitivity Analyses**: Assess viability and robustness
+- **Rank-Order Policies**: Prioritize effective and feasible options
+
+---
+
+## Group Exercise
+
+### Exploring Trade-offs and Uncertainty
+
+**Duration**: 20 minutes  
+**Format**: Group Discussion (PAP Groups)
+
+**Instructions**:  
+Use your matrix and analyze trade-offs. Identify uncertainties impacting success.
+
+---
+
+## Group Exercise
+
+**Guiding Questions**:
+
+- **Identify Trade-offs**: 
+  - What are the main benefits and costs? How do trade-offs impact different stakeholders?
+- **Assess Uncertainty**:
+  - What are key uncertainties? How could external changes influence effectiveness?
+- **Mitigation Strategies**:
+  - How can we reduce negative impacts? How to manage uncertainty effectively?
+- **Evaluation Metrics**:
+  - Which metrics will assess success? How do these metrics help in balancing trade-offs?
+
+**Outcome**: Summarize your analysis, highlighting key trade-offs, uncertainties, and mitigation strategies.
+
+---
+
+## Conclusion
+
+- **Confronting trade-offs** is key in policy analysis
+- Systematic evaluation and managing uncertainty improve recommendations
+- Using tools like outcomes matrices, break-even, and sensitivity analysis supports credible and balanced decisions
+- Effective trade-off analysis leads to **robust, sustainable education policies**
