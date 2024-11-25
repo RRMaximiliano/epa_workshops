@@ -1,0 +1,15 @@
+{
+  "hash": "de47cddb297b312838d5d44229050a16",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Workshop #6: Individual Memo\"\nformat: html\n---\n\n\n\n<p class=\"text-center buttons\"><a class=\"btn btn-danger\" target=\"_blank\" href=\"../slides/workshop06.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> View all slides in new window</a> <a class=\"btn btn-danger\" target=\"_blank\" href=\"../slides/workshop06.pdf\" role=\"button\"><i class=\"fa-solid fa-file-pdf\"></i> Download PDF of all slides</a></p>\n\n\n\n\n<div class=\"container\" style=\"position: relative; overflow: hidden; width: 100%; min-height:600px;\">\n  <iframe src=\"../slides/workshop06.html\" style=\"position:absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height:100%;\"></iframe>\n</div>\n\n## Workshop Overview\n\nIn this final workshop, we focus on crafting Individual Memos, an essential skill for effective policy analysis. The memo provides actionable recommendations, supported by analysis and evidence, in a concise and clear format tailored to the needs of your client.\n\n## Objectives\n\n- Analyze and critique sample memos to identify strengths and areas for improvement.\n- Develop concise writing strategies to create impactful, focused memos.\n- Learn tools for structuring arguments, addressing counterarguments, and aligning recommendations with client priorities.\n\n## Activities\n\n- Memo Analysis: Review and critique sample memos to understand best practices.\n- Interactive Exercise: Roleplay as an analyst, summarizing findings and making recommendations.\n- Grandma Bessie Test: Craft and refine a 1-minute elevator pitch for your memo.\n\n## Key Takeaways\n\n- Clarity is crucial: Place the recommendation upfront, use simple language, and structure the memo for readability.\n- Brevity matters: Stay within the word count by prioritizing essential ideas.\n- Anticipate client needs: Align every argument with what matters most to the client.\n- Use visual aids: Simplify complex arguments and comparisons with tables, graphs, or matrices.\n- Practice storytelling: Frame the memo as a narrative—problem, options, recommendation, and evidence.\n\nPrepare to leave this workshop equipped with tools to create effective, polished policy memos that make a lasting impact!\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

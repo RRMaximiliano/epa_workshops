@@ -1,0 +1,151 @@
+---
+title: "<font style='font-size:1em;'>Workshop 06<br/>Individual Memo</font>"
+subtitle: "EPA PCE 2024"
+format: 
+  clean-api-revealjs:
+    self-contained: true
+    highlight-style: breeze
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Rony Rodrigo Maximiliano Rodriguez-Ramirez
+    email: "rrodriguezramirez@g.harvard.edu<br/>https://calendly.com/rrmaximiliano/office_hours"
+    affiliations: "Harvard University"
+date: last-modified
+---
+
+## Workshop Objectives
+
+- Understand the structure and purpose of an **Individual Memo**.
+- Analyze and critique sample memos from a **client’s perspective**.
+- Learn strategies for crafting concise, impactful memos tailored to policymaker needs.
+- Discuss responsible use of **AI tools** in memo writing.
+- Practice framing a memo as a **story**: problem, options, recommendation, and evidence.
+
+---
+
+## Key Elements of a Policy Memo
+
+- **Purpose**: Provide clear, actionable recommendations for your client.
+- **Components**:
+  - **Recommendation**: What should the client do?
+  - **Analysis**: Why is this the best option?
+  - **Evidence**: Support your claims with relevant data.
+  - **Clarity**: Write so your client can use your memo to convince others.
+- **Length**: 400–600 words (excluding tables, figures, and references).
+
+---
+
+## First Activity: Memo Critique (20 minutes)
+
+Out of the 4 memos listed on Canvas:
+
+- Pick one between Example 3 and 4. 
+- In the first 5-10 minutes, read the memo. 
+- Remaining minutes discuss the questions in the following slide with the whole group.
+
+---
+
+## You will judge which memo is the "strong"/"weak" one
+
+:::: {.columns}
+::: {.column width="50%"}
+### Option 1: Analyze a Strong Memo
+- Review a 2022 memo sample (700–800 words).
+- Imagine you are the client listed as the recipient.
+- **Questions**:
+  - What do you like about this memo?
+  - What makes the recommendation clear and convincing?
+  - How does it balance brevity with depth?
+:::
+
+::: {.column width="50%"}
+### Option 2: Improve a Weak Memo
+- Review a less effective memo.
+- Identify weaknesses:
+  - Is the recommendation clear?
+  - Are the arguments focused and evidence-based?
+  - Does it meet the client’s needs?
+- Propose revisions to improve clarity and impact.
+:::
+
+::::
+
+---
+
+## Memo as a Story: Problem-Solving Framework (10 minutes)
+
+From the examples you just read:
+
+- **Problem**: What issue needs solving?
+- **Options**: What alternatives are available?
+- **Recommendation**: What is the best course of action?
+- **Evidence**: Why is this recommendation effective?
+
+Discuss the consequences of:
+
+1. **Action**: What will improve or change if the recommendation is adopted?
+2. **Inaction**: What happens if the client does nothing?
+
+---
+
+## Writing Strategies: **Eric Taylor’s Guide**
+
+- **Know Your Audience**:
+  - Understand their needs, prior beliefs, and decision-making scope. Tailor your recommendations to align with their priorities.
+
+- **Write Simply**:
+  - Use clear, concise language; avoid jargon unless necessary. Active voice and first-person perspective make writing more direct.
+
+- **Organize Strategically**:
+  - Place the **bottom line at the top**—state your recommendation and main argument upfront. Integrate relevant background information into the narrative.
+  - Use meaningful section titles to convey your argument clearly.
+
+- **Practice Brevity**:
+  - Include only the most essential ideas and arguments.
+  
+---
+
+## Writing Strategies: **Eric Taylor’s Guide**
+
+- **Use Visual Aids Effectively**:
+  - Include **graphs, diagrams, and tables** to simplify complex data.
+
+- **Reason, Then Communicate**:
+  - Every claim must have supporting evidence and reasoning. Anticipate and address the **best counterarguments** to your recommendation.
+
+- **Check for Robustness**:
+  - Explicitly state assumptions and test whether changes to those assumptions affect your recommendation.
+
+- **Final Tip**:
+  - Tie every point back to what your client cares about most—whether it's cost-efficiency, political feasibility, or another priority.
+
+---
+
+## AI in Memo Writing
+
+- **HGSE AI Policy**: Guidelines for ethical and responsible AI use.
+- [Check it here!](https://www.gse.harvard.edu/sites/default/files/2024-10/HGSE-Student-Handbook-2024-2025-Final.pdf)
+- How can AI enhance your work while maintaining originality and analytical rigor?
+  - Shall we use AI?
+
+## Final Exercise: Elevator Pitch using your PAP
+
+- **Activity**:
+  - Write a **1-minute pitch** summarizing your memo.
+  - Pair up and exchange feedback.
+- **Tips**:
+  - Start with the recommendation.
+  - Explain the problem and why your solution is best.
+  - Tie back to client priorities (e.g., cost, political feasibility).
+  - **Peter Wilcoxen** Tip's are excellent, you should use them!! [Link](https://wilcoxen.maxwell.insightworks.com/pages/275.html)
+
+## Takeaways
+
+- A well-written memo is concise, focused, and actionable.
+- Tailor the content to the client’s priorities and context.
+- Approach the memo as a story: 
+  - problem, options, recommendation, and evidence.
+
+**Final Note**: It was great meeting you all. I'm always around. Don't hesitate to contact me, anytime :)

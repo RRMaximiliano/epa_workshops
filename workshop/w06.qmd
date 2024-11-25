@@ -1,0 +1,43 @@
+---
+title: "Workshop #6: Individual Memo"
+format: html
+---
+
+```{r slides, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+```{r show-slide-tabs, echo=FALSE, results="asis"}
+slide_buttons("../slides/workshop06")
+```
+
+<div class="container" style="position: relative; overflow: hidden; width: 100%; min-height:600px;">
+  <iframe src="../slides/workshop06.html" style="position:absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height:100%;"></iframe>
+</div>
+
+## Workshop Overview
+
+In this final workshop, we focus on crafting Individual Memos, an essential skill for effective policy analysis. The memo provides actionable recommendations, supported by analysis and evidence, in a concise and clear format tailored to the needs of your client.
+
+## Objectives
+
+- Analyze and critique sample memos to identify strengths and areas for improvement.
+- Develop concise writing strategies to create impactful, focused memos.
+- Learn tools for structuring arguments, addressing counterarguments, and aligning recommendations with client priorities.
+
+## Activities
+
+- Memo Analysis: Review and critique sample memos to understand best practices.
+- Interactive Exercise: Roleplay as an analyst, summarizing findings and making recommendations.
+- Grandma Bessie Test: Craft and refine a 1-minute elevator pitch for your memo.
+
+## Key Takeaways
+
+- Clarity is crucial: Place the recommendation upfront, use simple language, and structure the memo for readability.
+- Brevity matters: Stay within the word count by prioritizing essential ideas.
+- Anticipate client needs: Align every argument with what matters most to the client.
+- Use visual aids: Simplify complex arguments and comparisons with tables, graphs, or matrices.
+- Practice storytelling: Frame the memo as a narrative—problem, options, recommendation, and evidence.
+
+Prepare to leave this workshop equipped with tools to create effective, polished policy memos that make a lasting impact!
+

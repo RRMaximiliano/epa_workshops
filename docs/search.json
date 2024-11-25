@@ -1,329 +1,663 @@
 [
   {
-    "objectID": "workshop/w05.html",
-    "href": "workshop/w05.html",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "objectID": "workshop/w06.html",
+    "href": "workshop/w06.html",
+    "title": "Workshop #6: Individual Memo",
     "section": "",
     "text": "View all slides in new window  Download PDF of all slides",
     "crumbs": [
       "Workshops",
-      "Workshop 05: Trade-offs"
+      "Workshop 06: Individual Memo"
     ]
   },
   {
-    "objectID": "workshop/w05.html#workshop-overview",
-    "href": "workshop/w05.html#workshop-overview",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "objectID": "workshop/w06.html#workshop-overview",
+    "href": "workshop/w06.html#workshop-overview",
+    "title": "Workshop #6: Individual Memo",
     "section": "Workshop Overview",
-    "text": "Workshop Overview\nThis workshop, Confronting Trade-offs and Addressing Uncertainty in Education Policy, builds on prior steps in policy analysis by focusing on how to evaluate and balance competing policy alternatives. Effective education policies require weighing benefits, costs, and risks to address the complex challenges within education systems. This session will cover practical tools and strategies for managing trade-offs and uncertainty, equipping you with essential skills to make informed policy recommendations.",
+    "text": "Workshop Overview\nIn this final workshop, we focus on crafting Individual Memos, an essential skill for effective policy analysis. The memo provides actionable recommendations, supported by analysis and evidence, in a concise and clear format tailored to the needs of your client.",
     "crumbs": [
       "Workshops",
-      "Workshop 05: Trade-offs"
+      "Workshop 06: Individual Memo"
     ]
   },
   {
-    "objectID": "workshop/w05.html#objectives",
-    "href": "workshop/w05.html#objectives",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "objectID": "workshop/w06.html#objectives",
+    "href": "workshop/w06.html#objectives",
+    "title": "Workshop #6: Individual Memo",
     "section": "Objectives",
-    "text": "Objectives\n\nUnderstand trade-offs: Learn how to identify and assess trade-offs in policy alternatives, focusing on outcomes rather than alternatives themselves.\nManage uncertainty: Explore strategies for addressing uncertainties that can impact policy outcomes, including sensitivity analysis and scenario planning.\nApply tools for evaluation: Use tools such as outcomes matrices, break-even analysis, and rank-ordering to facilitate decision-making in complex policy contexts.",
+    "text": "Objectives\n\nAnalyze and critique sample memos to identify strengths and areas for improvement.\nDevelop concise writing strategies to create impactful, focused memos.\nLearn tools for structuring arguments, addressing counterarguments, and aligning recommendations with client priorities.",
     "crumbs": [
       "Workshops",
-      "Workshop 05: Trade-offs"
+      "Workshop 06: Individual Memo"
     ]
   },
   {
-    "objectID": "workshop/w05.html#guiding-questions",
-    "href": "workshop/w05.html#guiding-questions",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
-    "section": "Guiding Questions",
-    "text": "Guiding Questions\nTo frame our discussion and activities, consider the following questions:\n\nHow do we effectively compare policy alternatives when they vary across key criteria (e.g., cost, efficacy, equity)?\nWhat are the main sources of uncertainty in education policy analysis, and how can we manage them?\nIn what ways can tools like break-even analysis and sensitivity analysis help in evaluating the viability of policy options?\nHow do we prioritize or rank-order policies when resource constraints limit our ability to pursue all desirable options?",
+    "objectID": "workshop/w06.html#activities",
+    "href": "workshop/w06.html#activities",
+    "title": "Workshop #6: Individual Memo",
+    "section": "Activities",
+    "text": "Activities\n\nMemo Analysis: Review and critique sample memos to understand best practices.\nInteractive Exercise: Roleplay as an analyst, summarizing findings and making recommendations.\nGrandma Bessie Test: Craft and refine a 1-minute elevator pitch for your memo.",
     "crumbs": [
       "Workshops",
-      "Workshop 05: Trade-offs"
+      "Workshop 06: Individual Memo"
     ]
   },
   {
-    "objectID": "workshop/w05.html#key-concepts-and-tools",
-    "href": "workshop/w05.html#key-concepts-and-tools",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
-    "section": "Key Concepts and Tools",
-    "text": "Key Concepts and Tools\n\nUnderstanding Trade-offs\nIn policy analysis, trade-offs arise when competing criteria make it impossible for one policy to satisfy all objectives equally. Rather than comparing alternatives directly, we focus on the outcomes each alternative can achieve across criteria like cost-effectiveness, efficacy, and equity.\n\n\nCommensurability and Weighting Criteria\nTo effectively compare alternatives, we often need a common metric to assess diverse outcomes (e.g., cost per student outcome). While monetary values can help, it is essential to acknowledge the limitations when intangible benefits are involved (e.g., student well-being). Break-even analysis can assist in determining whether expected outcomes justify costs, creating a clear threshold for decision-making.\n\n\nAddressing Uncertainty\nPolicy outcomes are seldom guaranteed, and uncertainties, like economic fluctuations or shifts in political support, can affect outcomes. Sensitivity analysis allows us to test how changes in assumptions impact results, while scenario planning can prepare us for varied future conditions. These tools help ensure policy recommendations remain robust across multiple possible scenarios.\n\n\nConstructing and Analyzing Trade-offs\nAn outcomes matrix provides a structured comparison across criteria, facilitating transparent evaluation of each policy alternative. By systematically assessing efficacy, cost, feasibility, and acceptability, analysts can clarify which options provide the most balanced benefits. Ranking alternatives based on their overall impact further refines the decision-making process.",
+    "objectID": "workshop/w06.html#key-takeaways",
+    "href": "workshop/w06.html#key-takeaways",
+    "title": "Workshop #6: Individual Memo",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nClarity is crucial: Place the recommendation upfront, use simple language, and structure the memo for readability.\nBrevity matters: Stay within the word count by prioritizing essential ideas.\nAnticipate client needs: Align every argument with what matters most to the client.\nUse visual aids: Simplify complex arguments and comparisons with tables, graphs, or matrices.\nPractice storytelling: Frame the memo as a narrative—problem, options, recommendation, and evidence.\n\nPrepare to leave this workshop equipped with tools to create effective, polished policy memos that make a lasting impact!",
     "crumbs": [
       "Workshops",
-      "Workshop 05: Trade-offs"
+      "Workshop 06: Individual Memo"
     ]
   },
   {
-    "objectID": "workshop/w05.html#interactive-exercise",
-    "href": "workshop/w05.html#interactive-exercise",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
-    "section": "Interactive Exercise",
-    "text": "Interactive Exercise\nDuring the workshop, we will engage in a group exercise that applies these concepts to a real-world scenario:\n\nGroup Task: In your PAP (Policy Analysis Project) groups, select one education policy alternative from an outcomes matrix. Assess the trade-offs associated with your chosen policy and discuss key uncertainties that could affect its success.\nGuiding Questions for Group Analysis:\n\nWhat are the major benefits and drawbacks of this policy?\nHow does the policy impact different stakeholders (e.g., students, educators)?\nWhat external factors could alter the effectiveness of this policy?\nHow can we mitigate the negative aspects or manage uncertainty?\n\n\nThis exercise encourages critical thinking and collaborative problem-solving, simulating the complexities of real-world education policy analysis.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 05: Trade-offs"
-    ]
-  },
-  {
-    "objectID": "workshop/w05.html#takeaways",
-    "href": "workshop/w05.html#takeaways",
-    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
-    "section": "Takeaways",
-    "text": "Takeaways\n\nBalanced Evaluation: Assessing trade-offs requires balancing multiple criteria and considering the diverse needs of stakeholders.\nPreparedness for Uncertainty: Addressing uncertainty is a proactive step in ensuring policy recommendations remain viable under various conditions.\nDecision-Making Tools: Tools such as outcomes matrices, break-even analysis, and sensitivity analysis are crucial for transparent, informed evaluations.\nStructured Comparison: Use rank-ordering and common metrics where possible to streamline the selection of effective policy alternatives.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 05: Trade-offs"
-    ]
-  },
-  {
-    "objectID": "workshop/w03.html",
-    "href": "workshop/w03.html",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w04.html",
+    "href": "workshop/w04.html",
+    "title": "Workshop #4: Project the Outcomes",
     "section": "",
     "text": "View all slides in new window  Download PDF of all slides",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 04: Outcomes"
     ]
   },
   {
-    "objectID": "workshop/w03.html#understanding-criteria",
-    "href": "workshop/w03.html#understanding-criteria",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w04.html#overview",
+    "href": "workshop/w04.html#overview",
+    "title": "Workshop #4: Project the Outcomes",
+    "section": "Overview",
+    "text": "Overview\nWelcome to Workshop #4, focusing on Step Five: Project the Outcomes in education policy analysis. In this session, we will delve into the critical process of forecasting the potential impacts of various policy alternatives. Understanding how to project outcomes effectively is essential for bridging the gap between theoretical policy options and their real-world implications, ensuring that your analysis remains grounded, realistic, and actionable.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 04: Outcomes"
+    ]
+  },
+  {
+    "objectID": "workshop/w04.html#what-youll-learn",
+    "href": "workshop/w04.html#what-youll-learn",
+    "title": "Workshop #4: Project the Outcomes",
+    "section": "What You’ll Learn",
+    "text": "What You’ll Learn\nDuring this workshop, you will explore the key components of projecting outcomes, including:\n\nDeveloping Magnitude Estimates: Learn how to quantify the expected impacts of policies with specific, measurable estimates to enhance clarity and prevent misinterpretation.\nBreak-Even Analysis: Understand how to determine whether the benefits of a policy justify its costs, ensuring financial viability and sustainability.\nSensitivity Analysis: Discover techniques to examine how changes in key assumptions can affect your projections, helping you identify and prioritize uncertainties.\nScenario Writing: Gain skills in creating realistic scenarios that anticipate different future conditions, enabling you to prepare for a range of possible outcomes.\nAnticipating Undesirable Side Effects: Learn to identify and mitigate potential negative consequences of policies to design more effective and comprehensive interventions.\nConstructing an Outcomes Matrix: Master the creation of a visual tool that compares policy alternatives against evaluative criteria, facilitating informed decision-making.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 04: Outcomes"
+    ]
+  },
+  {
+    "objectID": "workshop/w04.html#key-components-of-step-five",
+    "href": "workshop/w04.html#key-components-of-step-five",
+    "title": "Workshop #4: Project the Outcomes",
+    "section": "Key Components of Step Five",
+    "text": "Key Components of Step Five\nProjecting outcomes involves several interrelated components that work together to provide a comprehensive forecast of policy impacts:\n\nMagnitude Estimates: Clearly define the extent of expected impacts with numerical data. For example, instead of saying a policy will “improve student engagement,” specify that it will “increase student participation in extracurricular activities by 15% over two years.”\nBreak-Even Analysis: Assess whether the anticipated benefits of a policy outweigh its costs. This involves calculating the point at which benefits equal costs and evaluating the feasibility of achieving this balance.\nSensitivity Analysis: Identify which variables have the most significant impact on your outcomes and test how variations in these variables influence your projections. This helps prioritize areas that require more robust data or contingency planning.\nScenario Writing: Develop multiple scenarios—best-case, worst-case, and most likely—to understand how different future conditions might affect policy outcomes. This encourages both creative and evidence-based thinking.\nOutcomes Matrix: Create a matrix that visually represents how each policy alternative performs against various criteria such as efficacy, cost-effectiveness, operational feasibility, economic impact, and political acceptability. This tool aids in comparing and contrasting the potential outcomes of each option.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 04: Outcomes"
+    ]
+  },
+  {
+    "objectID": "workshop/w04.html#education-focused-outcomes-matrix-example",
+    "href": "workshop/w04.html#education-focused-outcomes-matrix-example",
+    "title": "Workshop #4: Project the Outcomes",
+    "section": "Education-Focused Outcomes Matrix Example",
+    "text": "Education-Focused Outcomes Matrix Example\n\n\n\n\n\n\n\n\n\n\n\nPolicy Scenario\n% Improvement from Baseline (Efficacy)\nCost per Student Improved ($)\nOperational Feasibility (O)\nEconomic Impact (E)\nPolitical Acceptability (P)\n\n\n\n\nExisting Programs\n\n\n\n\n\n\n\nMentorship Programs\n5% to 7%\n$200\nHigh\nMedium\nHigh\n\n\nNew Initiatives\n\n\n\n\n\n\n\nExpanded Financial Aid\n10% to 12%\n$500\nMedium\nHigh\nMedium\n\n\nEnhanced Curricula\n7% to 9%\n$300\nHigh\nHigh\nHigh\n\n\nStandardized Testing\n3% to 4%\n$150\nLow\nLow\nLow\n\n\nInnovative Approaches\n\n\n\n\n\n\n\nTechnology Integration\n8% to 10%\n$250\nMedium\nHigh\nMedium\n\n\nEarly Childhood Education Expansion\n12% to 15%\n$400\nMedium\nHigh\nHigh\n\n\n\nProjecting outcomes is a pivotal step in education policy analysis. By meticulously estimating the potential impacts of each policy alternative, maintaining a balance between realism and optimism, and anticipating uncertainties and side effects, you can provide a robust foundation for making informed and effective policy recommendations. Utilize both quantitative and qualitative methods, engage with stakeholders, and remain transparent in your projections to enhance the credibility and effectiveness of your analysis.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 04: Outcomes"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html",
+    "href": "workshop/w02.html",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "",
+    "text": "View all slides in new window  Download PDF of all slides",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#importance-of-evidence-in-policy-analysis",
+    "href": "workshop/w02.html#importance-of-evidence-in-policy-analysis",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Importance of Evidence in Policy Analysis",
+    "text": "Importance of Evidence in Policy Analysis\nAll time spent on policy analysis revolves around two activities: thinking and hustling data that can be transformed into evidence. Effective evidence collection is essential, especially given the real-world constraints like time pressure, which can jeopardize the quality of your analysis.\n\n“Evidence is information that affects the existing beliefs of important people (including yourself) about significant features of the problem you are studying and how it might be solved or mitigated.”\n— Bardach & Patashnik, 2020, p. 36",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#purposes-of-assembling-evidence",
+    "href": "workshop/w02.html#purposes-of-assembling-evidence",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Purposes of Assembling Evidence",
+    "text": "Purposes of Assembling Evidence\n\nAssessing the Problem: Understand the nature and extent of the problem you’re addressing.\nUnderstanding the Policy Context: Gain insights into specific features of the policy situation, such as agency workloads, budget figures, political ideologies, and demographic changes.\nEvaluating Existing Policies: Examine policies that have worked in similar situations elsewhere.\n\n\nExample\nSuppose you’re analyzing the issue of smoking prevalence in different countries. Differential smoking rates can provide evidence about varying levels of concern for personal health, informing potential policy interventions.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#efficient-data-collection",
+    "href": "workshop/w02.html#efficient-data-collection",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Efficient Data Collection",
+    "text": "Efficient Data Collection\n\nFocus on Relevance: Continuously ask yourself what information you need and why.\nAvoid Irrelevant Data: Collecting data that cannot be developed into meaningful evidence is a common mistake.\nValue vs. Cost: Weigh the cost of obtaining evidence against its potential value in improving policy decisions.\n\n\nTips for Data Collection\n\nStart Early: Coordinating with busy stakeholders requires time.\nReview Available Literature: Utilize online resources to access existing research.\nUse Analogies and Best Practices: Look for solutions that worked in different contexts or consider unconventional approaches.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#building-credibility-and-consensus",
+    "href": "workshop/w02.html#building-credibility-and-consensus",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Building Credibility and Consensus",
+    "text": "Building Credibility and Consensus\nEngage with potential critics to incorporate diverse perspectives, ensuring that your analysis is balanced and comprehensive.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#defining-alternatives",
+    "href": "workshop/w02.html#defining-alternatives",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Defining Alternatives",
+    "text": "Defining Alternatives\nAlternatives refer to different policy options or courses of action aimed at solving or mitigating the problem. These can range from single actions to combinations of strategies.\n\n“Policy analysts use the term alternative ambiguously: sometimes it means one choice that implies forgoing another, and sometimes it means simply one more policy action that might help to solve or mitigate a problem, perhaps in conjunction with other alternatives.”\n— Bardach & Patashnik, 2020, p. 42",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#comprehensive-vs.-focused-alternatives",
+    "href": "workshop/w02.html#comprehensive-vs.-focused-alternatives",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Comprehensive vs. Focused Alternatives",
+    "text": "Comprehensive vs. Focused Alternatives\n\nStart Comprehensive: Initially, list a wide range of potential alternatives.\nNarrow Down: Gradually eliminate less viable options to focus on the most promising ones.\n\n\nExample\nIf addressing heroin use reduction, you might consider: - Methadone Maintenance: Expanding access to treatment programs. - Law Enforcement Pressure: Increasing policing efforts to deter use. - Drug Education: Implementing widespread educational campaigns.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#sources-for-generating-alternatives",
+    "href": "workshop/w02.html#sources-for-generating-alternatives",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Sources for Generating Alternatives",
+    "text": "Sources for Generating Alternatives\n\nProposals from Political Actors: Identify what key stakeholders are already considering.\nGeneric Strategies: Refer to checklists like Appendix A, “Things Governments Do,” to inspire innovative solutions.\nUnconventional Solutions: Encourage creative thinking by considering out-of-the-box ideas.\n\n\nCreative Techniques\n\n“If cost were no object”: Imagine ideal solutions without budget constraints.\nAnalogous Contexts: Apply successful strategies from different fields or regions.\nChallenge Assumptions: Regularly ask “why not” to explore new possibilities.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#refining-alternatives",
+    "href": "workshop/w02.html#refining-alternatives",
+    "title": "Workshop #2: Construct the alternatives",
+    "section": "Refining Alternatives",
+    "text": "Refining Alternatives\n\nBehavioral Detail: Clearly define what actions each alternative entails.\nMultistage Analysis: Consider policies as part of a dynamic, ongoing process rather than one-off decisions.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 02: Alternatives"
+    ]
+  },
+  {
+    "objectID": "workshop/w02.html#understanding-criteria",
+    "href": "workshop/w02.html#understanding-criteria",
+    "title": "Workshop #2: Construct the alternatives",
     "section": "Understanding Criteria",
     "text": "Understanding Criteria\nCriteria are the standards used to evaluate the potential outcomes of each alternative. They bridge the gap between the analytic and evaluative aspects of policy analysis.\n\n“The most important step for introducing values and philosophy into the policy analysis, because some possible ‘criteria’ are evaluative standards used to judge the goodness of the projected policy outcomes that are associated with each of the alternatives.”\n— Bardach & Patashnik, 2020, p. 53",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 02: Alternatives"
     ]
   },
   {
-    "objectID": "workshop/w03.html#types-of-criteria",
-    "href": "workshop/w03.html#types-of-criteria",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w02.html#types-of-criteria",
+    "href": "workshop/w02.html#types-of-criteria",
+    "title": "Workshop #2: Construct the alternatives",
     "section": "Types of Criteria",
     "text": "Types of Criteria\n\nEvaluative Criteria: Standards used to assess the desirability of outcomes (e.g., efficiency, equity).\nPractical Criteria: Practical considerations related to policy implementation (e.g., legality, political acceptability).\n\n\nCommon Evaluative Criteria\n\nEfficiency: Maximizing aggregate welfare or public interest.\nEffectiveness: The degree to which the policy achieves its objectives.\nEquity: Fair distribution of benefits and burdens.\nPolitical Acceptability: The extent to which the policy is supported by stakeholders.\n\n\n\nExample\nFor a policy aimed at reducing homelessness: - Principal Criterion: Minimize the number of homeless families. - Secondary Criteria: Cost-effectiveness, political feasibility, and social equity.",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 02: Alternatives"
     ]
   },
   {
-    "objectID": "workshop/w03.html#selecting-and-defining-criteria",
-    "href": "workshop/w03.html#selecting-and-defining-criteria",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w02.html#selecting-and-defining-criteria",
+    "href": "workshop/w02.html#selecting-and-defining-criteria",
+    "title": "Workshop #2: Construct the alternatives",
     "section": "Selecting and Defining Criteria",
     "text": "Selecting and Defining Criteria\n\nPrimary Criterion: Directly related to solving the core problem.\nSecondary Criteria: Additional factors that influence the desirability of outcomes.\n\n\nSteps to Define Criteria\n\nMaximize/Minimize: Clearly state whether you aim to increase or decrease a particular value.\nOperationalize: Define metrics for each criterion to ensure clarity and measurability.\n\n\n\nCriterion\nMetric\n\n\n\n\nEfficiency\nCost per homeless family reduced\n\n\nEffectiveness\nPercentage decrease in homelessness\n\n\nEquity\nDistribution of benefits across demographics",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 02: Alternatives"
     ]
   },
   {
-    "objectID": "workshop/w03.html#avoiding-common-mistakes",
-    "href": "workshop/w03.html#avoiding-common-mistakes",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w02.html#avoiding-common-mistakes",
+    "href": "workshop/w02.html#avoiding-common-mistakes",
+    "title": "Workshop #2: Construct the alternatives",
     "section": "Avoiding Common Mistakes",
     "text": "Avoiding Common Mistakes\n\nDo Not Confuse Alternatives with Criteria: Alternatives are actions; criteria are standards for evaluation.\n\n“Alternatives are courses of action, whereas criteria are mental standards for evaluating the results of action.”\n— Bardach & Patashnik, 2020, p. 69",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 02: Alternatives"
     ]
   },
   {
-    "objectID": "workshop/w03.html#weighting-criteria",
-    "href": "workshop/w03.html#weighting-criteria",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w02.html#weighting-criteria",
+    "href": "workshop/w02.html#weighting-criteria",
+    "title": "Workshop #2: Construct the alternatives",
     "section": "Weighting Criteria",
     "text": "Weighting Criteria\n\nRelative Importance: Determine the weight of each criterion based on their importance to the policy goals.\nBalancing Values: Address conflicts between criteria by prioritizing based on overarching values or philosophical considerations.\n\n\nApproaches to Weighting\n\nPolitical Process: Let existing political frameworks determine weights.\nAnalyst Imposition: Adjust weights based on fairness and underrepresented interests.",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 02: Alternatives"
     ]
   },
   {
-    "objectID": "workshop/w03.html#practical-application",
-    "href": "workshop/w03.html#practical-application",
-    "title": "Workshop #3: Evaluation Criteria",
+    "objectID": "workshop/w02.html#practical-application",
+    "href": "workshop/w02.html#practical-application",
+    "title": "Workshop #2: Construct the alternatives",
     "section": "Practical Application",
     "text": "Practical Application\nWhen selecting criteria for your analysis: - Group Positive and Negative Criteria Separately: For clarity in evaluation. - Specify Metrics: Ensure each criterion has a clear, measurable indicator. - Focus on Clarity and Relevance: Criteria should be directly related to the policy objectives and practical considerations.",
     "crumbs": [
       "Workshops",
-      "Workshop 03: Criteria"
+      "Workshop 02: Alternatives"
     ]
   },
   {
-    "objectID": "workshop/w01.html",
-    "href": "workshop/w01.html",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "",
-    "text": "Welcome to the first workshop of the EPA Policy Analysis course. In this session, we will focus on defining your policy problem within the field of education policy and assembling the necessary evidence to support your analysis.\nView all slides in new window  Download PDF of all slides",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#welcome-to-the-workshop",
+    "href": "slides/workshop01.html#welcome-to-the-workshop",
+    "title": "Workshop 01Define the Problem",
+    "section": "Welcome to the Workshop",
+    "text": "Welcome to the Workshop\n\nTopic: Sector Analysis and Problem Definition\nObjective: Learn how to define policy problems effectively using Bardach and Patashnik (2020)’s Eightfold Path"
   },
   {
-    "objectID": "workshop/w01.html#objectives",
-    "href": "workshop/w01.html#objectives",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Objectives",
-    "text": "Objectives\n\nConduct a situational analysis in education policy.\nFrame a clear and concise policy question.\nEffectively define the problem you aim to address.\nBegin assembling evidence to support your problem statement.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#who-am-i",
+    "href": "slides/workshop01.html#who-am-i",
+    "title": "Workshop 01Define the Problem",
+    "section": "Who am I?",
+    "text": "Who am I?\n\n\nRony Rodriguez-Ramirez (G2)\n\n\n\n\nEd Policy (Economics of Education) Program\n\n\n\n\nPrevious exp: The World Bank (DIME; DECRG), IPA\n\n\n\n\nUkraine, Armenia, Rwanda, Liberia, Perú, Nicaragua\n\n\n\n\nLike ed policy!"
   },
   {
-    "objectID": "workshop/w01.html#situational-analysis",
-    "href": "workshop/w01.html#situational-analysis",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Situational Analysis",
-    "text": "Situational Analysis\nA situational analysis helps you understand the context and environment in which your policy problem exists. In education policy, this involves examining various factors that influence educational outcomes.\n\nSteps for Situational Analysis\n\nIdentify the Context\n\nDetermine the specific area of education you are focusing on (e.g., K-12, higher education, special education).\nUnderstand the geographical scope (local, state, national).\n\nGather Data\n\nCollect quantitative data: graduation rates, test scores, funding levels.\nCollect qualitative data: stakeholder interviews, case studies.\n\nAnalyze Policy Environment\n\nReview existing policies, regulations, and legislation.\nIdentify recent reforms or initiatives.\n\nStakeholder Analysis\n\nIdentify key stakeholders: students, parents, teachers, administrators, policymakers.\nUnderstand their interests, influence, and relationships.\n\nIdentify Challenges and Opportunities\n\nHighlight gaps in policy implementation.\nNote any emerging trends or issues.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#my-role",
+    "href": "slides/workshop01.html#my-role",
+    "title": "Workshop 01Define the Problem",
+    "section": "My role",
+    "text": "My role\nWhat should you expect from me?\n\n\nMy job is to help you feel confident in defining policy problems.\nI will guide you through the workshop activities and discussions.\nI’m here to answer your questions and provide support.\n\n\nBy the end of this workshop:\n\n\nYou should be prepared to advance in your policy analysis projects.\nHave a solid understanding of wht we are going to do before the workshops.\nFeel engaged and inspired to apply these concepts."
   },
   {
-    "objectID": "workshop/w01.html#framing-your-policy-question",
-    "href": "workshop/w01.html#framing-your-policy-question",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Framing Your Policy Question",
-    "text": "Framing Your Policy Question\nA well-framed policy question guides your analysis and sets the direction for your research.\n\nCharacteristics of a Good Policy Question\n\nSpecific: Clearly defines the issue without being too narrow.\nResearchable: Can be answered through analysis and evidence.\nRelevant: Addresses a significant problem affecting stakeholders.\nNeutral: Avoids bias and does not assume a solution.\n\n\n\nExample Policy Questions\n\n“How can state education agencies improve access to quality STEM education in underfunded schools?”\n“What policies can reduce the achievement gap between urban and rural students in standardized testing?”\n“In what ways can teacher retention rates be increased in low-income districts?”",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#who-are-you-and-your-groups",
+    "href": "slides/workshop01.html#who-are-you-and-your-groups",
+    "title": "Workshop 01Define the Problem",
+    "section": "Who are you? and your groups?",
+    "text": "Who are you? and your groups?\n\n\n\n\n\n\n\n\n\nGroup\nGroup Members\n\n\n\n\n2\nJiayuan Chen, Nancy Gacia Castillo, Ashley Lai, Merlyn Tejada, Yunyue Yuan\n\n\n10\nIbraheem, Isha Savant, Zidi Zhang\n\n\n14\nCathy Chen, Kelly Ho, Alyssa Jones, Anna Kurian, Ryotaro Suzuki\n\n\n15\nBudoor Alrahmah, Apoorva S, Sandli Thakur"
   },
   {
-    "objectID": "workshop/w01.html#defining-the-problem",
-    "href": "workshop/w01.html#defining-the-problem",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "objectID": "slides/workshop01.html#importance-of-policy-analysis",
+    "href": "slides/workshop01.html#importance-of-policy-analysis",
+    "title": "Workshop 01Define the Problem",
+    "section": "Importance of Policy Analysis",
+    "text": "Importance of Policy Analysis\n\n“Policy analysis is a social and political activity […] it concerns the lives and well-being of large numbers of their fellow citizens.”\n— Bardach and Patashnik (2020)\n\n\nGoes beyond personal decision-making\nInvolves collaboration with professionals and stakeholders\nAffects public welfare and resource allocation"
+  },
+  {
+    "objectID": "slides/workshop01.html#bardachs-eightfold-path",
+    "href": "slides/workshop01.html#bardachs-eightfold-path",
+    "title": "Workshop 01Define the Problem",
+    "section": "Bardach’s Eightfold Path",
+    "text": "Bardach’s Eightfold Path\n\nDefine the Problem\nAssemble Some Evidence\nConstruct the Alternatives\nSelect the Criteria\nProject the Outcomes\nConfront the Trade-offs\nStop, focus, narrow, deepen and decide\nTell Your Story\n\n\n\n\n\n\n\nToday\n\n\nFocus on Step One: Define the Problem"
+  },
+  {
+    "objectID": "slides/workshop01.html#defining-the-problem",
+    "href": "slides/workshop01.html#defining-the-problem",
+    "title": "Workshop 01Define the Problem",
     "section": "Defining the Problem",
-    "text": "Defining the Problem\nDefining the problem is a critical step that sets the foundation for your policy analysis.\n\nGuidelines for Problem Definition\n\nBe Clear and Concise\n\nArticulate the problem in a straightforward manner.\nKeep the statement focused on a single issue.\n\nUse Evidence\n\nSupport your problem definition with data and research.\nCite credible sources to substantiate the problem’s significance.\n\nFocus on the Root Cause\n\nDistinguish between symptoms and underlying causes.\nAim to address the root of the problem, not just its manifestations.\n\nConsider the Impact\n\nExplain who is affected and how.\nDiscuss the short-term and long-term consequences.\n\n\n\n\nProblem Definition Template\n\nProblem Statement: [Subject] is experiencing [problem], resulting in [consequences], due to [root cause].\n\n\n\nExample Problem Definition\n\n“Low-income high school students in urban areas are experiencing high dropout rates, resulting in reduced employment opportunities and perpetuating cycles of poverty, due to insufficient access to supportive educational resources and interventions.”",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "text": "Defining the Problem\n\nIdentify actors\nThink in Terms of Deficit and Excess\n\nUse words like too much, too little, too fast, too slow\n\nMake the Definition Evaluative\n\nIdentify why the situation is problematic\nConsider different perspectives and evaluative frameworks\n\nQuantify If Possible\n\nAttach magnitudes to deficits or excesses\nUse data to support your problem statement\nAvoid defining the solution into the problem!"
   },
   {
-    "objectID": "workshop/w01.html#assembling-evidence",
-    "href": "workshop/w01.html#assembling-evidence",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "objectID": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement",
+    "href": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement",
+    "title": "Workshop 01Define the Problem",
+    "section": "Which of the following is the strongest problem statement?",
+    "text": "Which of the following is the strongest problem statement?\n\nThere are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.\nMany teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates.\nThere are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.\n\nThere are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions."
+  },
+  {
+    "objectID": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement-1",
+    "href": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement-1",
+    "title": "Workshop 01Define the Problem",
+    "section": "Which of the following is the strongest problem statement?",
+    "text": "Which of the following is the strongest problem statement?\n\nThere are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.\nMany teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates.\nThere are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.\nThere are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions."
+  },
+  {
+    "objectID": "slides/workshop01.html#situation-analysis-in-policy-work",
+    "href": "slides/workshop01.html#situation-analysis-in-policy-work",
+    "title": "Workshop 01Define the Problem",
+    "section": "Situation Analysis in Policy Work",
+    "text": "Situation Analysis in Policy Work\n\nAssess the Particular Features of the Situation\n\nUnderstand the context and environment of the policy issue\nIdentify stakeholders, resources, constraints, and opportunities\n\nImportance in Education Policy\n\nEducation policies are influenced by social, economic, and political factors\nRequires understanding of institutional structures and target populations"
+  },
+  {
+    "objectID": "slides/workshop01.html#not-real-example-situation-analysis-in-education-policy",
+    "href": "slides/workshop01.html#not-real-example-situation-analysis-in-education-policy",
+    "title": "Workshop 01Define the Problem",
+    "section": "Not-real Example: Situation Analysis in Education Policy",
+    "text": "Not-real Example: Situation Analysis in Education Policy\n\nCase Study: High Teacher Turnover in Urban Schools in Country X.\n\nProblem Definition: “There is an excessive rate of teacher turnover in urban public schools, leading to decreased educational quality and student performance.”\n\nSituation Analysis:\n\nContext: Urban schools experiencing annual teacher turnover rates exceeding 25%\nStakeholders: Teachers, students, parents, school administrators, education departments\nConstraints: Low teacher salaries, challenging work environments, lack of resources\nOpportunities: Implement teacher retention programs, offer incentives, improve working conditions"
+  },
+  {
+    "objectID": "slides/workshop01.html#tips-for-creating-good-problem-statements",
+    "href": "slides/workshop01.html#tips-for-creating-good-problem-statements",
+    "title": "Workshop 01Define the Problem",
+    "section": "Tips for Creating Good Problem Statements",
+    "text": "Tips for Creating Good Problem Statements\n\nData – How Specific?\n\nBe precise with data usage\n\nDeficit and Excess\n\nUse phrases like “too many students…”\n\nOdds\n\nExpress likelihoods, e.g., “highly likely that…”\n\nQuantify\n\nInclude statistics like “3 out of 10…”"
+  },
+  {
+    "objectID": "slides/workshop01.html#tips-for-creating-good-problem-statements-1",
+    "href": "slides/workshop01.html#tips-for-creating-good-problem-statements-1",
+    "title": "Workshop 01Define the Problem",
+    "section": "Tips for Creating Good Problem Statements",
+    "text": "Tips for Creating Good Problem Statements\n\nWhy This Problem? Why Now?\n\nJustify the urgency and relevance\n\nLatent Opportunities\n\nIdentify what could improve\n\nTrends & Location\n\nExplain urgency through trends and specific locations\n\nIterate & Consider Naysayers\n\nBe open to feedback and different perspectives"
+  },
+  {
+    "objectID": "slides/workshop01.html#group-exercise-1-refining-problem-statements",
+    "href": "slides/workshop01.html#group-exercise-1-refining-problem-statements",
+    "title": "Workshop 01Define the Problem",
+    "section": "Group Exercise 1: Refining Problem Statements",
+    "text": "Group Exercise 1: Refining Problem Statements\n\nActivity (20 minutes):\n\nForm new groups by mixing members from different project teams\nExchange problem statements from your projects\nReview and provide feedback using Bardach’s guidelines:\n\n\nIs the problem framed in terms of deficit or excess?\nDoes it include an evaluative component?\nHave common pitfalls been avoided?\n\nDiscussion Points:\n\nHow can the problem statement be improved?\nAre there quantifiable elements that can be added?\nWhat alternative perspectives should be considered?"
+  },
+  {
+    "objectID": "slides/workshop01.html#example-situation-analysis-in-education-policy",
+    "href": "slides/workshop01.html#example-situation-analysis-in-education-policy",
+    "title": "Workshop 01Define the Problem",
+    "section": "Example: Situation Analysis in Education Policy",
+    "text": "Example: Situation Analysis in Education Policy\n\n\nCase Study: Florida’s Immigration Bill Impact on Undocumented Students\n\nProblem Definition: “There is a significant deficit in equitable access to Florida’s public higher education for undocumented students caused by recent restrictive immigration legislation.”\n\nSituation Analysis:\n\nContext: New legislation prohibiting funds for identification documents to undocumented immigrants\nStakeholders: Undocumented students, universities, state government, community organizations\nConstraints: Legal barriers, fear of data collection, reduced financial aid options\nOpportunities: Advocacy for policy change, community support programs"
+  },
+  {
+    "objectID": "slides/workshop01.html#common-pitfalls-to-avoid",
+    "href": "slides/workshop01.html#common-pitfalls-to-avoid",
+    "title": "Workshop 01Define the Problem",
+    "section": "Common Pitfalls to Avoid",
+    "text": "Common Pitfalls to Avoid\n\nDefining the Solution into the Problem\n\nAvoid implying a specific solution in your problem statement\nExample: Don’t say “There is too little shelter for homeless families”\nInstead, say “Too many families are homeless”\nToo little was use here in this example, why is it different from “think in terms of definit anc excess” from the last slide?\n\nAssuming Causality Without Evidence\n\nDon’t assume causes without proper analysis\nBase your problem definition on evidence, not assumptions"
+  },
+  {
+    "objectID": "slides/workshop01.html#group-exercise-2-applying-situation-analysis",
+    "href": "slides/workshop01.html#group-exercise-2-applying-situation-analysis",
+    "title": "Workshop 01Define the Problem",
+    "section": "Group Exercise 2: Applying Situation Analysis",
+    "text": "Group Exercise 2: Applying Situation Analysis\n\nActivity (20 minutes):\n\nReturn to your original project groups\nPerform a situation analysis for your policy issue:\n\n\nIdentify key stakeholders\nOutline the context and environment\nNote constraints and opportunities\n\n\nPrepare to share a brief summary with the larger group and changes you made"
+  },
+  {
+    "objectID": "slides/workshop01.html#assembling-evidence",
+    "href": "slides/workshop01.html#assembling-evidence",
+    "title": "Workshop 01Define the Problem",
     "section": "Assembling Evidence",
-    "text": "Assembling Evidence\nCollecting robust evidence is essential to support your problem statement and future policy recommendations.\n\nTypes of Evidence to Collect\n\nStatistical Data\n\nEnrollment and dropout rates.\nTest scores and academic performance metrics.\n\nResearch Studies\n\nAcademic articles analyzing similar problems.\nMeta-analyses and literature reviews.\n\nPolicy Documents\n\nExisting laws, regulations, and policy briefs.\nGovernment reports and white papers.\n\nStakeholder Perspectives\n\nInterviews or surveys with affected populations.\nTestimonies from educators and administrators.\n\n\n\n\nReliable Sources\n\nGovernment Agencies\n\nU.S. Department of Education\nNational Center for Education Statistics (NCES)\n\nInternational Organizations\n\nOrganisation for Economic Co-operation and Development (OECD)\nUnited Nations Educational, Scientific and Cultural Organization (UNESCO)\n\nAcademic Journals\n\nEducational Evaluation and Policy Analysis\nJournal of Education Policy\n\nThink Tanks and Research Institutes\n\nBrookings Institution\nRAND Corporation\nEducation Policy Institute\n\n\n\n\nOrganizing Your Evidence\n\nCreate an Evidence Matrix\n\nOrganize evidence by source, type, and relevance.\nNote the key findings and how they support your problem statement.\n\nEvaluate Source Credibility\n\nAssess the reliability and validity of your sources.\nPrioritize peer-reviewed and official publications.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "text": "Assembling Evidence\n\n“Think before you collect […] you can be a much more efficient collector of data if you think about what you need.”\n— Bardach and Patashnik (2020)\n\n\nPurpose of Evidence Gathering:\n\nAssess the nature and extent of the problem\nUnderstand the policy situation and context\n\nIn Education Policy:\n\nUse data on enrollment, demographics, funding, outcomes\nConsider qualitative information from stakeholders"
   },
   {
-    "objectID": "workshop/w01.html#action-items",
-    "href": "workshop/w01.html#action-items",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Action Items",
-    "text": "Action Items\nBy the end of this workshop, you should:\n\nDraft a Clear Problem Statement\n\nUse the guidelines provided to write your initial problem statement.\n\nBegin Your Situational Analysis\n\nCollect preliminary data and identify key stakeholders.\n\nCompile Initial Evidence\n\nGather at least 3-5 credible sources that support your problem definition.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#group-exercise-3-planning-evidence-collection",
+    "href": "slides/workshop01.html#group-exercise-3-planning-evidence-collection",
+    "title": "Workshop 01Define the Problem",
+    "section": "Group Exercise 3: Planning Evidence Collection",
+    "text": "Group Exercise 3: Planning Evidence Collection\n\nActivity (15 minutes):\n\nIn your project groups, outline a plan for assembling evidence:\n\n\nWhat data do you need to quantify your problem?\nWhere can you find this information?\nHow will you ensure the evidence is relevant and reliable?\n\n\nShare one key data source you plan to use"
   },
   {
-    "objectID": "workshop/w01.html#upcoming-deliverable",
-    "href": "workshop/w01.html#upcoming-deliverable",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Upcoming Deliverable",
-    "text": "Upcoming Deliverable\n\nDraft #1 Due on Sept. 18\n\nAssignment: Sector Analysis & Problem Definition\nRequirements:\n\nA concise problem statement.\nA situational analysis summarizing the context.\nA preliminary list of evidence.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#project-1-impact-of-floridas-immigration-bill-on-undocumented-students",
+    "href": "slides/workshop01.html#project-1-impact-of-floridas-immigration-bill-on-undocumented-students",
+    "title": "Workshop 01Define the Problem",
+    "section": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students",
+    "text": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students\n\nClarify the Problem Definition:\n\nFrame the problem as a deficit in equitable access to higher education\nUse evaluative language to highlight why this is problematic\n\nQuantify the Impact:\n\nInclude data on the number of students affected\nProvide statistics on enrollment declines or financial aid loss\n\nAvoid Pitfalls:\n\nDo not assume causes without evidence\n\nConsider Multiple Perspectives:\n\nAcknowledge different viewpoints on immigration policies"
   },
   {
-    "objectID": "workshop/w01.html#tips-for-success",
-    "href": "workshop/w01.html#tips-for-success",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Tips for Success",
-    "text": "Tips for Success\n\nStart Early\n\nGive yourself ample time to research and refine your problem statement.\n\nSeek Feedback\n\nDiscuss your ideas with peers or instructors to gain new perspectives.\n\nBe Open to Revisions\n\nYour problem definition may evolve as you gather more evidence.\n\nMaintain Academic Integrity\n\nCite all sources appropriately to avoid plagiarism.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#project-2-blended-financing-for-akanksha-schools-in-india",
+    "href": "slides/workshop01.html#project-2-blended-financing-for-akanksha-schools-in-india",
+    "title": "Workshop 01Define the Problem",
+    "section": "Project 2: Blended Financing for Akanksha Schools in India",
+    "text": "Project 2: Blended Financing for Akanksha Schools in India\n\nDefine the Deficit Explicitly:\n\nClearly state the shortage of blended financing as the core issue\n\nStrengthen the Evaluative Aspect:\n\nExplain why lack of funding is detrimental to educational equity\n\nAvoid Solution Bias:\n\nDo not assume private sector alignment is the only solution\n\nClarify Objectives:\n\nSpecify whether the goal is to propose policy changes or funding strategies"
   },
   {
-    "objectID": "workshop/w01.html#additional-resources",
-    "href": "workshop/w01.html#additional-resources",
-    "title": "Workshop #1: Define the Problem and Assemble Evidence",
-    "section": "Additional Resources",
-    "text": "Additional Resources\n\nPolicy Analysis Guides\n\nBardach, E., & Patashnik, E. M. (2019). A Practical Guide for Policy Analysis: The Eightfold Path to More Effective Problem Solving. CQ Press.\n\nEducation Policy Organizations\n\nEducation Week: www.edweek.org\nNational Education Policy Center: nepc.colorado.edu",
-    "crumbs": [
-      "Workshops",
-      "Workshop 01: Define"
-    ]
+    "objectID": "slides/workshop01.html#project-3-standardized-testing-and-equity-in-admissions-at-harvard",
+    "href": "slides/workshop01.html#project-3-standardized-testing-and-equity-in-admissions-at-harvard",
+    "title": "Workshop 01Define the Problem",
+    "section": "Project 3: Standardized Testing and Equity in Admissions at Harvard",
+    "text": "Project 3: Standardized Testing and Equity in Admissions at Harvard\n\nFrame the Problem as an Excess:\n\n“There is an excess reliance on standardized tests, potentially exacerbating inequalities.”\n\nEnhance Evaluative Language:\n\nHighlight how this affects diversity and fairness in admissions\n\nAvoid Assumptions:\n\nBase your analysis on evidence, not preconceived notions about testing\n\nNarrow the Scope if Necessary:\n\nConsider focusing on specific programs or levels (e.g., undergraduate)\n\nConsider Data Availability:\n\nEnsure you have access to relevant admissions data for analysis"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "slides/workshop01.html#project-4-financial-sustainability-for-education-to-employment-programs",
+    "href": "slides/workshop01.html#project-4-financial-sustainability-for-education-to-employment-programs",
+    "title": "Workshop 01Define the Problem",
+    "section": "Project 4: Financial Sustainability for Education-to-Employment Programs",
+    "text": "Project 4: Financial Sustainability for Education-to-Employment Programs\n\nExplicitly State the Deficit:\n\nIdentify the lack of financial sustainability and stakeholder engagement\n\nUse Evaluative Language:\n\nEmphasize how this threatens progress in gender equality and empowerment\n\nClarify the Problem Statement:\n\nBe concise and focus on the core issues affecting the program’s sustainability\n\nIdentify Stakeholders Clearly:\n\nInclude local communities, government entities, and international organizations"
+  },
+  {
+    "objectID": "slides/workshop01.html#wrap-up-and-next-steps",
+    "href": "slides/workshop01.html#wrap-up-and-next-steps",
+    "title": "Workshop 01Define the Problem",
+    "section": "Wrap-Up and Next Steps",
+    "text": "Wrap-Up and Next Steps\n\nKey Takeaways:\n\nEffective problem definition is crucial for policy analysis\nFrame problems in terms of deficit or excess with evaluative language\nAvoid common pitfalls like embedding solutions or unfounded assumptions\n\nAction Items:\n\nRevise your problem statements based on today’s exercise\nPrepare for the next workshop, where we’ll delve into assembling evidence\n\nQuestions, Feedback, and Exit ticket: https://bit.ly/4dLGile"
+  },
+  {
+    "objectID": "slides/workshop01.html#next-steps",
+    "href": "slides/workshop01.html#next-steps",
+    "title": "Workshop 01Define the Problem",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nCanvas Assignment - Draft #1: Education Sector Analysis & Problem Definition (Due 9/18 noon) [Complete/Incomplete]\n\nImprove problem statement based on feedback today\nNo set format/word count for now\n\nWorkshop #2 - 9/25 (Next Wed)\n\nRead Bardach Pg 14 - 49\nAssemble 3-4 policy alternatives\nSelect at least 3 distinct criteria\nSupport with evidence"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EPA PCE: Workshops",
     "section": "",
-    "text": "Workshop Schedule\nWelcome to the EPA101 Workshop Schedule page. This schedule outlines the key dates, workshops, and deliverables for the course. Some workshops are focused on collaborative learning and do not have associated deliverables, while others coincide with important assignment due dates. Use this schedule to manage your time effectively and ensure you’re prepared for each class.\nPlease note that not all workshops have deliverables due. Workshops without deliverables are designed to help you develop your project through collaborative discussions and activities. Make sure to attend each workshop prepared to engage with the material and your peers.\n\n\n\nEPA PCA Workshop Schedule\n\n\n\n\n\n\n\nDate\nActivity\nDeliverable\n\n\n\n\nSept. 16\nWorkshop #1:\nDefine the problem and assemble some evidence\nNo\n\n\nSept. 18\nDraft #1 due:\nSector Analysis & Problem Definition assignment\nYes\n\n\nSept. 25\nWorkshop #2:\nConstruct the alternatives\nNo\n\n\nOct. 9\nWorkshop #3:\nSelect the criteria\nNo\n\n\nOct. 21\nDraft #2 due:\nRevisions of Draft #1 + Policy Alternatives & Evaluation Criteria\nYes\n\n\nOct. 28\nWorkshop #4:\nProject the outcomes\nNo\n\n\nNov. 13\nWorkshop #5:\nConfront the trade-offs\nNo\n\n\nDec. 2\nDraft #3 due & Final Presentations:\nStop, focus, narrow, deepen and decide; Tell your story\nYes\n\n\nDec. 16\nFinal Policy Analysis Paper (PAP) due\nYes\n\n\n\n\n\n\n\nGood luck, and we look forward to your participation throughout the course!"
+    "text": "Welcome\nWelcome to the EPA PCA Policy Analysis Final Group Project Mini Website! This project is an opportunity for you to apply the policy analysis skills you have developed throughout the course. You will work in groups to analyze a policy problem, consider alternative solutions, evaluate them against specific criteria, and make a recommendation to a client.\nBelow is a table outlining the components of the Final Group Project and what you need to do for each part.\n\n\n\n\n\n\n\n\n\nComponent\nDescription\n\n\n\n\na) Problem Statement\ni) A clear, concise problem statement\n\nii) Discussion of evidence and reasoning supporting the problem statement you have chosen\n\n- Formulate a clear and concise statement of the policy problem you are addressing.\n- Provide evidence and reasoning supporting it.\n\n\nb) Alternatives\n- Identify 3-4 distinct policy alternatives, each of which plausibly addresses the stated problem.\n\n- Develop 3-4 viable policy alternatives that could potentially solve the problem you've identified.\n\n\nc) Criteria\ni) At least 3 distinct criteria to compare the policy alternatives\n\nii) Discussion of how to measure or evaluate each criterion\n\niii) How the criteria relate to broader objectives and values\n\n- Establish evaluation criteria and explain their relevance.\n\n\nd) Project the Outcomes\ni) Describe projected outcomes for each alternative on each criterion\n\nii) An analysis matrix (alternatives vs. criteria)\n\niii) Explain how you arrived at each projection\n\niv) Discuss key stakeholders and their potential responses\n\n\ne) Confront the Tradeoffs\ni) Describe tradeoffs between alternatives given your criteria and projected outcomes\n\nii) Explain the reasoning used to resolve those tradeoffs to reach your recommendation\n\n\nf) Uncertainty\ni) Describe important sources of uncertainty and assumptions made\n\nii) Discuss how changes in assumptions could affect your recommended alternative\n\n\ng) Recommendation\n- Recommend one of the alternatives evaluated and clearly state that recommendation in the memo’s first paragraph.\n\n- Make a clear and concise recommendation based on your analysis.\n\n\nh) Client\n- Identify a client: an organization, agency, or public official with an interest in the policy problem.\n\n*Note: It is not necessary to communicate or interact with the client for EPA101.*"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "slides/workshop04.html#introduction",
+    "href": "slides/workshop04.html#introduction",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Introduction",
+    "text": "Introduction\n\nWelcome to Workshop 04\nFocus: Step Five - Project the Outcomes\nObjective: Learn how to forecast the potential impacts of education policy alternatives"
   },
   {
-    "objectID": "workshop/index.html",
-    "href": "workshop/index.html",
-    "title": "Workshop Overview",
-    "section": "",
-    "text": "Here you will find information and resources related to each workshop throughout the course. These workshops are designed to guide you step-by-step through the policy analysis process, providing you with the tools and guidance needed to successfully complete your final project.",
-    "crumbs": [
-      "Workshops",
-      "Overview",
-      "🏠 Home"
-    ]
+    "objectID": "slides/workshop04.html#step-five-project-the-outcome",
+    "href": "slides/workshop04.html#step-five-project-the-outcome",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Step Five: Project the Outcome",
+    "text": "Step Five: Project the Outcome\n\nDefinition: Estimating the consequences of each policy alternative\nImportance: Bridges theoretical options with real-world implications\nChallenge: Inherent uncertainties in predicting the future"
   },
   {
-    "objectID": "workshop/index.html#what-you-will-find",
-    "href": "workshop/index.html#what-you-will-find",
-    "title": "Workshop Overview",
-    "section": "What You Will Find",
-    "text": "What You Will Find\nIn this section, each workshop page includes:\n\nObjectives: Clear goals for what you should achieve by the end of the workshop.\nKey Concepts: Important ideas and methodologies relevant to that stage of your policy analysis.\nActivities: Exercises and discussions to help you apply the concepts learned.\nResources: Additional materials, readings, and tools to support your work.",
-    "crumbs": [
-      "Workshops",
-      "Overview",
-      "🏠 Home"
-    ]
+    "objectID": "slides/workshop04.html#understanding-the-challenges",
+    "href": "slides/workshop04.html#understanding-the-challenges",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Understanding the Challenges",
+    "text": "Understanding the Challenges\n\nPolicy is About the Future\n\nForward-Looking Nature: Policies require forecasting future conditions\nQuestion: How can we make educated guesses about future educational needs?\n\nBalancing Realism and Optimism\n\nRealism vs. Optimism: Avoid overly optimistic projections\nQuestion: What are the risks of being too optimistic in policy projections?\n\nAvoiding the 51-49 Principle\n\nDefinition: Treating a slightly more likely outcome as a certainty\nQuestion: How can we acknowledge uncertainties without undermining our analysis?"
   },
   {
-    "objectID": "workshop/index.html#how-to-use-this-section",
-    "href": "workshop/index.html#how-to-use-this-section",
-    "title": "Workshop Overview",
-    "section": "How to Use This Section",
-    "text": "How to Use This Section\n\nNavigate through the workshops in sequential order to build upon your knowledge progressively.\nEngage with the content by completing the suggested activities and reflecting on the key concepts.\nRefer Back to previous workshops as needed to reinforce your understanding.",
-    "crumbs": [
-      "Workshops",
-      "Overview",
-      "🏠 Home"
-    ]
+    "objectID": "slides/workshop04.html#leveraging-social-science",
+    "href": "slides/workshop04.html#leveraging-social-science",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Leveraging Social Science",
+    "text": "Leveraging Social Science\nUsing Models and Evidence\n\nRole of Models: Diagnose problems, map trends, assess practices\nExample: Using statistical models to predict the impact of mentorship programs on graduation rates (this could come from other research studies)\n\nConsidering Initial Conditions\n\nCurrent Facts: Understand existing conditions in the education system\nQuestion: How do current educational disparities influence our projections?"
   },
   {
-    "objectID": "workshop/index.html#stay-connected",
-    "href": "workshop/index.html#stay-connected",
-    "title": "Workshop Overview",
-    "section": "Stay Connected",
-    "text": "Stay Connected\nIf you have any questions or need further assistance, please feel free to reach out to the teaching team. We are here to support you throughout your policy analysis journey.\nLet’s get started!",
-    "crumbs": [
-      "Workshops",
-      "Overview",
-      "🏠 Home"
-    ]
+    "objectID": "slides/workshop04.html#developing-magnitude-estimates",
+    "href": "slides/workshop04.html#developing-magnitude-estimates",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Developing Magnitude Estimates",
+    "text": "Developing Magnitude Estimates\n\nSpecificity: Define the extent of expected impacts\nClarity: Use numerical estimates to prevent misinterpretation\nTrend Data: Use past trends cautiously to inform future projections\n\nExample in Education Policy\n\nVague Projection: “Improve student engagement.”\nSpecific Projection: “Increase student participation in extracurricular activities by 15% over two years.”"
+  },
+  {
+    "objectID": "slides/workshop04.html#break-even-analysis",
+    "href": "slides/workshop04.html#break-even-analysis",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Break-Even Analysis",
+    "text": "Break-Even Analysis\nConcept and Steps\n\nIdentify Costs and Benefits: List all associated with the policy\nDetermine the Break-Even Point: When benefits equal costs\nAssess Feasibility: Are the benefits achievable?"
+  },
+  {
+    "objectID": "slides/workshop04.html#sensitivity-analysis",
+    "href": "slides/workshop04.html#sensitivity-analysis",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Sensitivity Analysis",
+    "text": "Sensitivity Analysis\n\nPurpose: Examine how changes in key assumptions affect projections\nSteps:\n\nIdentify Key Uncertainties: Variables with significant impact\nTest Variations: Adjust variables within plausible ranges\nPrioritize Focus Areas: Concentrate on the most influential uncertainties\n\nQuestion: Which uncertainties could most drastically alter our policy outcomes?"
+  },
+  {
+    "objectID": "slides/workshop04.html#scenario-writing",
+    "href": "slides/workshop04.html#scenario-writing",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Scenario Writing",
+    "text": "Scenario Writing\n\nCreate Realistic Scenarios: Based on plausible future developments\nConsider Diverse Outcomes: Best-case, worst-case, and most likely scenarios\nBalance Imagination and Evidence: Ensure scenarios are both creative and grounded\nQuestion: What are some realistic scenarios that could impact the success of our proposed policy?"
+  },
+  {
+    "objectID": "slides/workshop04.html#anticipating-undesirable-side-effects",
+    "href": "slides/workshop04.html#anticipating-undesirable-side-effects",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Anticipating Undesirable Side Effects",
+    "text": "Anticipating Undesirable Side Effects\nCommon Side Effects in Education Policy\n\nResource Misallocation: Redirecting funds may cause shortages elsewhere\nEquity Concerns: Improving one group’s outcomes might disadvantage another\nAdministrative Burdens: New programs can increase workloads\n\nExample: Implementing a Standardized Testing Policy\n\nPositive Outcome: Improved student accountability and standardized assessment\nUndesirable Side Effect: Teaching to the test, narrowing the curriculum\nQuestion: How can we mitigate potential negative impacts of our chosen policy?"
+  },
+  {
+    "objectID": "slides/workshop04.html#constructing-an-outcomes-matrix",
+    "href": "slides/workshop04.html#constructing-an-outcomes-matrix",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Constructing an Outcomes Matrix",
+    "text": "Constructing an Outcomes Matrix\nCreating the Matrix\n\nList Alternatives: Down the rows, include all policy options\nDefine Criteria: Across the columns, list relevant evaluative criteria (e.g., cost, effectiveness, equity)\nPopulate the Matrix: Estimate outcomes for each criterion per alternative"
+  },
+  {
+    "objectID": "slides/workshop04.html#education-focused-outcomes-matrix-example",
+    "href": "slides/workshop04.html#education-focused-outcomes-matrix-example",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Education-Focused Outcomes Matrix Example",
+    "text": "Education-Focused Outcomes Matrix Example\n\n\n\n\n\n\n\n\n\n\n\nPolicy Scenario\n% Improvement from Baseline (Efficacy)\nCost per Student Improved ($)\nOperational (O)\nEconomic (E)\nPolitical (P)\n\n\n\n\nExisting Programs\n\n\n\n\n\n\n\nMentorship Programs\n5% to 7%\n$200\nHigh\nMedium\nHigh\n\n\nNew Initiatives\n\n\n\n\n\n\n\nExpanded Financial Aid\n10% to 12%\n$500\nMedium\nHigh\nMedium\n\n\nEnhanced Curricula\n7% to 9%\n$300\nHigh\nHigh\nHigh\n\n\nStandardized Testing\n3% to 4%\n$150\nLow\nLow\nLow\n\n\nInnovative Approaches\n\n\n\n\n\n\n\nTechnology Integration\n8% to 10%\n$250\nMedium\nHigh\nMedium"
+  },
+  {
+    "objectID": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives",
+    "href": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Example: Applying Criteria to Education Policy Alternatives",
+    "text": "Example: Applying Criteria to Education Policy Alternatives\nPolicy Problem:\nLow graduation rates and high dropout rates in high schools.\nAlternatives:\n\nImplementing mentorship programs for at-risk students.\nExpanding financial aid and scholarship opportunities.\nEnhancing curricula to include more STEM and vocational training.\nIntroducing standardized testing to monitor student performance.\nIntegrating technology in classrooms to facilitate personalized learning.\nExpanding early childhood education programs."
+  },
+  {
+    "objectID": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives-1",
+    "href": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives-1",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Example: Applying Criteria to Education Policy Alternatives",
+    "text": "Example: Applying Criteria to Education Policy Alternatives\n\nSelected Criteria and Metrics:\n\nEfficacy: Percentage improvement in graduation rates.\nCost-Effectiveness: Cost per student improved ($).\nOperational Feasibility (O): Ease of implementing the policy (High, Medium, Low).\nEconomic Impact (E): Broader economic benefits (High, Medium, Low).\nPolitical Acceptability (P): Level of support from stakeholders and policymakers (High, Medium, Low).\n\nEvaluate each alternative against these criteria to determine the most suitable policy option. For instance, while Expanded Financial Aid has high efficacy and economic impact, its high cost and medium political acceptability might pose challenges compared to Enhanced Curricula, which offers a balanced improvement with high feasibility and acceptability."
+  },
+  {
+    "objectID": "slides/workshop04.html#constructing-an-outcomes-matrix-1",
+    "href": "slides/workshop04.html#constructing-an-outcomes-matrix-1",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Constructing an Outcomes Matrix",
+    "text": "Constructing an Outcomes Matrix\nUsing the Matrix\n\nAnalyze Balance: Identify which policy offers the best balance of cost, effectiveness, and equity\nVisual Comparison: Compare potential outcomes of each option\nInformed Decision-Making: Facilitate more objective and comprehensive policy evaluations"
+  },
+  {
+    "objectID": "slides/workshop04.html#practical-application",
+    "href": "slides/workshop04.html#practical-application",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Practical Application",
+    "text": "Practical Application\nBe Realistic and Specific\n\nAvoid Vague Projections: Clearly define outcomes with measurable estimates\n\nExample in Education Policy:\n\nVague Projection: “Improve student engagement.”\nSpecific Projection: “Increase student participation in extracurricular activities by 15% over two years.”"
+  },
+  {
+    "objectID": "slides/workshop04.html#practical-application-1",
+    "href": "slides/workshop04.html#practical-application-1",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Practical Application",
+    "text": "Practical Application\nUse Multiple Methods\n\nCombine Quantitative and Qualitative: Create comprehensive projections\n\nExample: Implementing a Teacher Training Program:\n\nQuantitative Estimate: “Improve student test scores by an average of 8%.”\nQualitative Insight: “Enhance teacher confidence and instructional methods, leading to a more supportive classroom environment.”"
+  },
+  {
+    "objectID": "slides/workshop04.html#practical-application-2",
+    "href": "slides/workshop04.html#practical-application-2",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Practical Application",
+    "text": "Practical Application\nEngage Stakeholders\n\nConsult Diverse Perspectives: Enhance accuracy of projections\n\nExample: Introducing Technology in Classrooms:\n\nStakeholder Input: Teachers may express the need for professional development to effectively integrate technology.\nIncorporated Projection: “Provide comprehensive training for 90% of teachers, leading to a 10% increase in technology usage in classrooms.”"
+  },
+  {
+    "objectID": "slides/workshop04.html#tips-for-effective-outcome-projection",
+    "href": "slides/workshop04.html#tips-for-effective-outcome-projection",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Tips for Effective Outcome Projection",
+    "text": "Tips for Effective Outcome Projection\n\nBe Specific: Clearly define each projected outcome with measurable indicators.\nBe Comprehensive: Consider all relevant aspects that could influence the policy’s success.\nBe Objective: Use data-driven estimates to minimize bias in your projections.\nBe Transparent: Document your assumptions and methodologies for projecting outcomes.\nConsult Stakeholders: Engage with those affected by the policy to ensure projections are grounded in reality."
+  },
+  {
+    "objectID": "slides/workshop04.html#conclusion",
+    "href": "slides/workshop04.html#conclusion",
+    "title": "Workshop 04Step 5: Project the Outcomes",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nPivotal Step: Projecting outcomes is essential for robust education policy analysis.\nKey Actions: Estimate potential impacts, maintain realism, anticipate uncertainties and side effects.\nBest Practices: Utilize quantitative and qualitative methods, engage stakeholders, remain transparent.\nFinal Thought: Thoughtful outcome projection leads to informed and effective policy recommendations."
+  },
+  {
+    "objectID": "slides/workshop06.html#workshop-objectives",
+    "href": "slides/workshop06.html#workshop-objectives",
+    "title": "Workshop 06Individual Memo",
+    "section": "Workshop Objectives",
+    "text": "Workshop Objectives\n\nUnderstand the structure and purpose of an Individual Memo.\nAnalyze and critique sample memos from a client’s perspective.\nLearn strategies for crafting concise, impactful memos tailored to policymaker needs.\nDiscuss responsible use of AI tools in memo writing.\nPractice framing a memo as a story: problem, options, recommendation, and evidence."
+  },
+  {
+    "objectID": "slides/workshop06.html#key-elements-of-a-policy-memo",
+    "href": "slides/workshop06.html#key-elements-of-a-policy-memo",
+    "title": "Workshop 06Individual Memo",
+    "section": "Key Elements of a Policy Memo",
+    "text": "Key Elements of a Policy Memo\n\nPurpose: Provide clear, actionable recommendations for your client.\nComponents:\n\nRecommendation: What should the client do?\nAnalysis: Why is this the best option?\nEvidence: Support your claims with relevant data.\nClarity: Write so your client can use your memo to convince others.\n\nLength: 400–600 words (excluding tables, figures, and references)."
+  },
+  {
+    "objectID": "slides/workshop06.html#first-activity-memo-critique-20-minutes",
+    "href": "slides/workshop06.html#first-activity-memo-critique-20-minutes",
+    "title": "Workshop 06Individual Memo",
+    "section": "First Activity: Memo Critique (20 minutes)",
+    "text": "First Activity: Memo Critique (20 minutes)\nOut of the 4 memos listed on Canvas:\n\nPick one between Example 3 and 4.\nIn the first 5-10 minutes, read the memo.\nRemaining minutes discuss the questions in the following slide with the whole group."
+  },
+  {
+    "objectID": "slides/workshop06.html#you-will-judge-which-memo-is-the-strongweak-one",
+    "href": "slides/workshop06.html#you-will-judge-which-memo-is-the-strongweak-one",
+    "title": "Workshop 06Individual Memo",
+    "section": "You will judge which memo is the “strong”/“weak” one",
+    "text": "You will judge which memo is the “strong”/“weak” one\n\n\nOption 1: Analyze a Strong Memo\n\nReview a 2022 memo sample (700–800 words).\nImagine you are the client listed as the recipient.\nQuestions:\n\nWhat do you like about this memo?\nWhat makes the recommendation clear and convincing?\nHow does it balance brevity with depth?\n\n\n\nOption 2: Improve a Weak Memo\n\nReview a less effective memo.\nIdentify weaknesses:\n\nIs the recommendation clear?\nAre the arguments focused and evidence-based?\nDoes it meet the client’s needs?\n\nPropose revisions to improve clarity and impact."
+  },
+  {
+    "objectID": "slides/workshop06.html#memo-as-a-story-problem-solving-framework-10-minutes",
+    "href": "slides/workshop06.html#memo-as-a-story-problem-solving-framework-10-minutes",
+    "title": "Workshop 06Individual Memo",
+    "section": "Memo as a Story: Problem-Solving Framework (10 minutes)",
+    "text": "Memo as a Story: Problem-Solving Framework (10 minutes)\nFrom the examples you just read:\n\nProblem: What issue needs solving?\nOptions: What alternatives are available?\nRecommendation: What is the best course of action?\nEvidence: Why is this recommendation effective?\n\nDiscuss the consequences of:\n\nAction: What will improve or change if the recommendation is adopted?\nInaction: What happens if the client does nothing?"
+  },
+  {
+    "objectID": "slides/workshop06.html#writing-strategies-eric-taylors-guide",
+    "href": "slides/workshop06.html#writing-strategies-eric-taylors-guide",
+    "title": "Workshop 06Individual Memo",
+    "section": "Writing Strategies: Eric Taylor’s Guide",
+    "text": "Writing Strategies: Eric Taylor’s Guide\n\nKnow Your Audience:\n\nUnderstand their needs, prior beliefs, and decision-making scope. Tailor your recommendations to align with their priorities.\n\nWrite Simply:\n\nUse clear, concise language; avoid jargon unless necessary. Active voice and first-person perspective make writing more direct.\n\nOrganize Strategically:\n\nPlace the bottom line at the top—state your recommendation and main argument upfront. Integrate relevant background information into the narrative.\nUse meaningful section titles to convey your argument clearly.\n\nPractice Brevity:\n\nInclude only the most essential ideas and arguments."
+  },
+  {
+    "objectID": "slides/workshop06.html#writing-strategies-eric-taylors-guide-1",
+    "href": "slides/workshop06.html#writing-strategies-eric-taylors-guide-1",
+    "title": "Workshop 06Individual Memo",
+    "section": "Writing Strategies: Eric Taylor’s Guide",
+    "text": "Writing Strategies: Eric Taylor’s Guide\n\nUse Visual Aids Effectively:\n\nInclude graphs, diagrams, and tables to simplify complex data.\n\nReason, Then Communicate:\n\nEvery claim must have supporting evidence and reasoning. Anticipate and address the best counterarguments to your recommendation.\n\nCheck for Robustness:\n\nExplicitly state assumptions and test whether changes to those assumptions affect your recommendation.\n\nFinal Tip:\n\nTie every point back to what your client cares about most—whether it’s cost-efficiency, political feasibility, or another priority."
+  },
+  {
+    "objectID": "slides/workshop06.html#ai-in-memo-writing",
+    "href": "slides/workshop06.html#ai-in-memo-writing",
+    "title": "Workshop 06Individual Memo",
+    "section": "AI in Memo Writing",
+    "text": "AI in Memo Writing\n\nHGSE AI Policy: Guidelines for ethical and responsible AI use.\nCheck it here!\nHow can AI enhance your work while maintaining originality and analytical rigor?\n\nShall we use AI?"
+  },
+  {
+    "objectID": "slides/workshop06.html#final-exercise-elevator-pitch-using-your-pap",
+    "href": "slides/workshop06.html#final-exercise-elevator-pitch-using-your-pap",
+    "title": "Workshop 06Individual Memo",
+    "section": "Final Exercise: Elevator Pitch using your PAP",
+    "text": "Final Exercise: Elevator Pitch using your PAP\n\nActivity:\n\nWrite a 1-minute pitch summarizing your memo.\nPair up and exchange feedback.\n\nTips:\n\nStart with the recommendation.\nExplain the problem and why your solution is best.\nTie back to client priorities (e.g., cost, political feasibility).\nPeter Wilcoxen Tip’s are excellent, you should use them!! Link"
+  },
+  {
+    "objectID": "slides/workshop06.html#takeaways",
+    "href": "slides/workshop06.html#takeaways",
+    "title": "Workshop 06Individual Memo",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nA well-written memo is concise, focused, and actionable.\nTailor the content to the client’s priorities and context.\nApproach the memo as a story:\n\nproblem, options, recommendation, and evidence.\n\n\nFinal Note: It was great meeting you all. I’m always around. Don’t hesitate to contact me, anytime :)"
   },
   {
     "objectID": "slides/workshop03.html#introduction",
@@ -711,538 +1045,329 @@
     "text": "Conclusion\n\nConfronting trade-offs is key in policy analysis\nSystematic evaluation and managing uncertainty improve recommendations\nUsing tools like outcomes matrices, break-even, and sensitivity analysis supports credible and balanced decisions\nEffective trade-off analysis leads to robust, sustainable education policies"
   },
   {
-    "objectID": "slides/workshop04.html#introduction",
-    "href": "slides/workshop04.html#introduction",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Introduction",
-    "text": "Introduction\n\nWelcome to Workshop 04\nFocus: Step Five - Project the Outcomes\nObjective: Learn how to forecast the potential impacts of education policy alternatives"
-  },
-  {
-    "objectID": "slides/workshop04.html#step-five-project-the-outcome",
-    "href": "slides/workshop04.html#step-five-project-the-outcome",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Step Five: Project the Outcome",
-    "text": "Step Five: Project the Outcome\n\nDefinition: Estimating the consequences of each policy alternative\nImportance: Bridges theoretical options with real-world implications\nChallenge: Inherent uncertainties in predicting the future"
-  },
-  {
-    "objectID": "slides/workshop04.html#understanding-the-challenges",
-    "href": "slides/workshop04.html#understanding-the-challenges",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Understanding the Challenges",
-    "text": "Understanding the Challenges\n\nPolicy is About the Future\n\nForward-Looking Nature: Policies require forecasting future conditions\nQuestion: How can we make educated guesses about future educational needs?\n\nBalancing Realism and Optimism\n\nRealism vs. Optimism: Avoid overly optimistic projections\nQuestion: What are the risks of being too optimistic in policy projections?\n\nAvoiding the 51-49 Principle\n\nDefinition: Treating a slightly more likely outcome as a certainty\nQuestion: How can we acknowledge uncertainties without undermining our analysis?"
-  },
-  {
-    "objectID": "slides/workshop04.html#leveraging-social-science",
-    "href": "slides/workshop04.html#leveraging-social-science",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Leveraging Social Science",
-    "text": "Leveraging Social Science\nUsing Models and Evidence\n\nRole of Models: Diagnose problems, map trends, assess practices\nExample: Using statistical models to predict the impact of mentorship programs on graduation rates (this could come from other research studies)\n\nConsidering Initial Conditions\n\nCurrent Facts: Understand existing conditions in the education system\nQuestion: How do current educational disparities influence our projections?"
-  },
-  {
-    "objectID": "slides/workshop04.html#developing-magnitude-estimates",
-    "href": "slides/workshop04.html#developing-magnitude-estimates",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Developing Magnitude Estimates",
-    "text": "Developing Magnitude Estimates\n\nSpecificity: Define the extent of expected impacts\nClarity: Use numerical estimates to prevent misinterpretation\nTrend Data: Use past trends cautiously to inform future projections\n\nExample in Education Policy\n\nVague Projection: “Improve student engagement.”\nSpecific Projection: “Increase student participation in extracurricular activities by 15% over two years.”"
-  },
-  {
-    "objectID": "slides/workshop04.html#break-even-analysis",
-    "href": "slides/workshop04.html#break-even-analysis",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Break-Even Analysis",
-    "text": "Break-Even Analysis\nConcept and Steps\n\nIdentify Costs and Benefits: List all associated with the policy\nDetermine the Break-Even Point: When benefits equal costs\nAssess Feasibility: Are the benefits achievable?"
-  },
-  {
-    "objectID": "slides/workshop04.html#sensitivity-analysis",
-    "href": "slides/workshop04.html#sensitivity-analysis",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Sensitivity Analysis",
-    "text": "Sensitivity Analysis\n\nPurpose: Examine how changes in key assumptions affect projections\nSteps:\n\nIdentify Key Uncertainties: Variables with significant impact\nTest Variations: Adjust variables within plausible ranges\nPrioritize Focus Areas: Concentrate on the most influential uncertainties\n\nQuestion: Which uncertainties could most drastically alter our policy outcomes?"
-  },
-  {
-    "objectID": "slides/workshop04.html#scenario-writing",
-    "href": "slides/workshop04.html#scenario-writing",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Scenario Writing",
-    "text": "Scenario Writing\n\nCreate Realistic Scenarios: Based on plausible future developments\nConsider Diverse Outcomes: Best-case, worst-case, and most likely scenarios\nBalance Imagination and Evidence: Ensure scenarios are both creative and grounded\nQuestion: What are some realistic scenarios that could impact the success of our proposed policy?"
-  },
-  {
-    "objectID": "slides/workshop04.html#anticipating-undesirable-side-effects",
-    "href": "slides/workshop04.html#anticipating-undesirable-side-effects",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Anticipating Undesirable Side Effects",
-    "text": "Anticipating Undesirable Side Effects\nCommon Side Effects in Education Policy\n\nResource Misallocation: Redirecting funds may cause shortages elsewhere\nEquity Concerns: Improving one group’s outcomes might disadvantage another\nAdministrative Burdens: New programs can increase workloads\n\nExample: Implementing a Standardized Testing Policy\n\nPositive Outcome: Improved student accountability and standardized assessment\nUndesirable Side Effect: Teaching to the test, narrowing the curriculum\nQuestion: How can we mitigate potential negative impacts of our chosen policy?"
-  },
-  {
-    "objectID": "slides/workshop04.html#constructing-an-outcomes-matrix",
-    "href": "slides/workshop04.html#constructing-an-outcomes-matrix",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Constructing an Outcomes Matrix",
-    "text": "Constructing an Outcomes Matrix\nCreating the Matrix\n\nList Alternatives: Down the rows, include all policy options\nDefine Criteria: Across the columns, list relevant evaluative criteria (e.g., cost, effectiveness, equity)\nPopulate the Matrix: Estimate outcomes for each criterion per alternative"
-  },
-  {
-    "objectID": "slides/workshop04.html#education-focused-outcomes-matrix-example",
-    "href": "slides/workshop04.html#education-focused-outcomes-matrix-example",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Education-Focused Outcomes Matrix Example",
-    "text": "Education-Focused Outcomes Matrix Example\n\n\n\n\n\n\n\n\n\n\n\nPolicy Scenario\n% Improvement from Baseline (Efficacy)\nCost per Student Improved ($)\nOperational (O)\nEconomic (E)\nPolitical (P)\n\n\n\n\nExisting Programs\n\n\n\n\n\n\n\nMentorship Programs\n5% to 7%\n$200\nHigh\nMedium\nHigh\n\n\nNew Initiatives\n\n\n\n\n\n\n\nExpanded Financial Aid\n10% to 12%\n$500\nMedium\nHigh\nMedium\n\n\nEnhanced Curricula\n7% to 9%\n$300\nHigh\nHigh\nHigh\n\n\nStandardized Testing\n3% to 4%\n$150\nLow\nLow\nLow\n\n\nInnovative Approaches\n\n\n\n\n\n\n\nTechnology Integration\n8% to 10%\n$250\nMedium\nHigh\nMedium"
-  },
-  {
-    "objectID": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives",
-    "href": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Example: Applying Criteria to Education Policy Alternatives",
-    "text": "Example: Applying Criteria to Education Policy Alternatives\nPolicy Problem:\nLow graduation rates and high dropout rates in high schools.\nAlternatives:\n\nImplementing mentorship programs for at-risk students.\nExpanding financial aid and scholarship opportunities.\nEnhancing curricula to include more STEM and vocational training.\nIntroducing standardized testing to monitor student performance.\nIntegrating technology in classrooms to facilitate personalized learning.\nExpanding early childhood education programs."
-  },
-  {
-    "objectID": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives-1",
-    "href": "slides/workshop04.html#example-applying-criteria-to-education-policy-alternatives-1",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Example: Applying Criteria to Education Policy Alternatives",
-    "text": "Example: Applying Criteria to Education Policy Alternatives\n\nSelected Criteria and Metrics:\n\nEfficacy: Percentage improvement in graduation rates.\nCost-Effectiveness: Cost per student improved ($).\nOperational Feasibility (O): Ease of implementing the policy (High, Medium, Low).\nEconomic Impact (E): Broader economic benefits (High, Medium, Low).\nPolitical Acceptability (P): Level of support from stakeholders and policymakers (High, Medium, Low).\n\nEvaluate each alternative against these criteria to determine the most suitable policy option. For instance, while Expanded Financial Aid has high efficacy and economic impact, its high cost and medium political acceptability might pose challenges compared to Enhanced Curricula, which offers a balanced improvement with high feasibility and acceptability."
-  },
-  {
-    "objectID": "slides/workshop04.html#constructing-an-outcomes-matrix-1",
-    "href": "slides/workshop04.html#constructing-an-outcomes-matrix-1",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Constructing an Outcomes Matrix",
-    "text": "Constructing an Outcomes Matrix\nUsing the Matrix\n\nAnalyze Balance: Identify which policy offers the best balance of cost, effectiveness, and equity\nVisual Comparison: Compare potential outcomes of each option\nInformed Decision-Making: Facilitate more objective and comprehensive policy evaluations"
-  },
-  {
-    "objectID": "slides/workshop04.html#practical-application",
-    "href": "slides/workshop04.html#practical-application",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Practical Application",
-    "text": "Practical Application\nBe Realistic and Specific\n\nAvoid Vague Projections: Clearly define outcomes with measurable estimates\n\nExample in Education Policy:\n\nVague Projection: “Improve student engagement.”\nSpecific Projection: “Increase student participation in extracurricular activities by 15% over two years.”"
-  },
-  {
-    "objectID": "slides/workshop04.html#practical-application-1",
-    "href": "slides/workshop04.html#practical-application-1",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Practical Application",
-    "text": "Practical Application\nUse Multiple Methods\n\nCombine Quantitative and Qualitative: Create comprehensive projections\n\nExample: Implementing a Teacher Training Program:\n\nQuantitative Estimate: “Improve student test scores by an average of 8%.”\nQualitative Insight: “Enhance teacher confidence and instructional methods, leading to a more supportive classroom environment.”"
-  },
-  {
-    "objectID": "slides/workshop04.html#practical-application-2",
-    "href": "slides/workshop04.html#practical-application-2",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Practical Application",
-    "text": "Practical Application\nEngage Stakeholders\n\nConsult Diverse Perspectives: Enhance accuracy of projections\n\nExample: Introducing Technology in Classrooms:\n\nStakeholder Input: Teachers may express the need for professional development to effectively integrate technology.\nIncorporated Projection: “Provide comprehensive training for 90% of teachers, leading to a 10% increase in technology usage in classrooms.”"
-  },
-  {
-    "objectID": "slides/workshop04.html#tips-for-effective-outcome-projection",
-    "href": "slides/workshop04.html#tips-for-effective-outcome-projection",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Tips for Effective Outcome Projection",
-    "text": "Tips for Effective Outcome Projection\n\nBe Specific: Clearly define each projected outcome with measurable indicators.\nBe Comprehensive: Consider all relevant aspects that could influence the policy’s success.\nBe Objective: Use data-driven estimates to minimize bias in your projections.\nBe Transparent: Document your assumptions and methodologies for projecting outcomes.\nConsult Stakeholders: Engage with those affected by the policy to ensure projections are grounded in reality."
-  },
-  {
-    "objectID": "slides/workshop04.html#conclusion",
-    "href": "slides/workshop04.html#conclusion",
-    "title": "Workshop 04Step 5: Project the Outcomes",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nPivotal Step: Projecting outcomes is essential for robust education policy analysis.\nKey Actions: Estimate potential impacts, maintain realism, anticipate uncertainties and side effects.\nBest Practices: Utilize quantitative and qualitative methods, engage stakeholders, remain transparent.\nFinal Thought: Thoughtful outcome projection leads to informed and effective policy recommendations."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EPA PCE: Workshops",
+    "objectID": "workshop/index.html",
+    "href": "workshop/index.html",
+    "title": "Workshop Overview",
     "section": "",
-    "text": "Welcome\nWelcome to the EPA PCA Policy Analysis Final Group Project Mini Website! This project is an opportunity for you to apply the policy analysis skills you have developed throughout the course. You will work in groups to analyze a policy problem, consider alternative solutions, evaluate them against specific criteria, and make a recommendation to a client.\nBelow is a table outlining the components of the Final Group Project and what you need to do for each part.\n\n\n\n\n\n\n\n\n\nComponent\nDescription\n\n\n\n\na) Problem Statement\ni) A clear, concise problem statement\n\nii) Discussion of evidence and reasoning supporting the problem statement you have chosen\n\n- Formulate a clear and concise statement of the policy problem you are addressing.\n- Provide evidence and reasoning supporting it.\n\n\nb) Alternatives\n- Identify 3-4 distinct policy alternatives, each of which plausibly addresses the stated problem.\n\n- Develop 3-4 viable policy alternatives that could potentially solve the problem you've identified.\n\n\nc) Criteria\ni) At least 3 distinct criteria to compare the policy alternatives\n\nii) Discussion of how to measure or evaluate each criterion\n\niii) How the criteria relate to broader objectives and values\n\n- Establish evaluation criteria and explain their relevance.\n\n\nd) Project the Outcomes\ni) Describe projected outcomes for each alternative on each criterion\n\nii) An analysis matrix (alternatives vs. criteria)\n\niii) Explain how you arrived at each projection\n\niv) Discuss key stakeholders and their potential responses\n\n\ne) Confront the Tradeoffs\ni) Describe tradeoffs between alternatives given your criteria and projected outcomes\n\nii) Explain the reasoning used to resolve those tradeoffs to reach your recommendation\n\n\nf) Uncertainty\ni) Describe important sources of uncertainty and assumptions made\n\nii) Discuss how changes in assumptions could affect your recommended alternative\n\n\ng) Recommendation\n- Recommend one of the alternatives evaluated and clearly state that recommendation in the memo’s first paragraph.\n\n- Make a clear and concise recommendation based on your analysis.\n\n\nh) Client\n- Identify a client: an organization, agency, or public official with an interest in the policy problem.\n\n*Note: It is not necessary to communicate or interact with the client for EPA101.*"
+    "text": "Here you will find information and resources related to each workshop throughout the course. These workshops are designed to guide you step-by-step through the policy analysis process, providing you with the tools and guidance needed to successfully complete your final project.",
+    "crumbs": [
+      "Workshops",
+      "Overview",
+      "🏠 Home"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#welcome-to-the-workshop",
-    "href": "slides/workshop01.html#welcome-to-the-workshop",
-    "title": "Workshop 01Define the Problem",
-    "section": "Welcome to the Workshop",
-    "text": "Welcome to the Workshop\n\nTopic: Sector Analysis and Problem Definition\nObjective: Learn how to define policy problems effectively using Bardach and Patashnik (2020)’s Eightfold Path"
+    "objectID": "workshop/index.html#what-you-will-find",
+    "href": "workshop/index.html#what-you-will-find",
+    "title": "Workshop Overview",
+    "section": "What You Will Find",
+    "text": "What You Will Find\nIn this section, each workshop page includes:\n\nObjectives: Clear goals for what you should achieve by the end of the workshop.\nKey Concepts: Important ideas and methodologies relevant to that stage of your policy analysis.\nActivities: Exercises and discussions to help you apply the concepts learned.\nResources: Additional materials, readings, and tools to support your work.",
+    "crumbs": [
+      "Workshops",
+      "Overview",
+      "🏠 Home"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#who-am-i",
-    "href": "slides/workshop01.html#who-am-i",
-    "title": "Workshop 01Define the Problem",
-    "section": "Who am I?",
-    "text": "Who am I?\n\n\nRony Rodriguez-Ramirez (G2)\n\n\n\n\nEd Policy (Economics of Education) Program\n\n\n\n\nPrevious exp: The World Bank (DIME; DECRG), IPA\n\n\n\n\nUkraine, Armenia, Rwanda, Liberia, Perú, Nicaragua\n\n\n\n\nLike ed policy!"
+    "objectID": "workshop/index.html#how-to-use-this-section",
+    "href": "workshop/index.html#how-to-use-this-section",
+    "title": "Workshop Overview",
+    "section": "How to Use This Section",
+    "text": "How to Use This Section\n\nNavigate through the workshops in sequential order to build upon your knowledge progressively.\nEngage with the content by completing the suggested activities and reflecting on the key concepts.\nRefer Back to previous workshops as needed to reinforce your understanding.",
+    "crumbs": [
+      "Workshops",
+      "Overview",
+      "🏠 Home"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#my-role",
-    "href": "slides/workshop01.html#my-role",
-    "title": "Workshop 01Define the Problem",
-    "section": "My role",
-    "text": "My role\nWhat should you expect from me?\n\n\nMy job is to help you feel confident in defining policy problems.\nI will guide you through the workshop activities and discussions.\nI’m here to answer your questions and provide support.\n\n\nBy the end of this workshop:\n\n\nYou should be prepared to advance in your policy analysis projects.\nHave a solid understanding of wht we are going to do before the workshops.\nFeel engaged and inspired to apply these concepts."
+    "objectID": "workshop/index.html#stay-connected",
+    "href": "workshop/index.html#stay-connected",
+    "title": "Workshop Overview",
+    "section": "Stay Connected",
+    "text": "Stay Connected\nIf you have any questions or need further assistance, please feel free to reach out to the teaching team. We are here to support you throughout your policy analysis journey.\nLet’s get started!",
+    "crumbs": [
+      "Workshops",
+      "Overview",
+      "🏠 Home"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#who-are-you-and-your-groups",
-    "href": "slides/workshop01.html#who-are-you-and-your-groups",
-    "title": "Workshop 01Define the Problem",
-    "section": "Who are you? and your groups?",
-    "text": "Who are you? and your groups?\n\n\n\n\n\n\n\n\n\nGroup\nGroup Members\n\n\n\n\n2\nJiayuan Chen, Nancy Gacia Castillo, Ashley Lai, Merlyn Tejada, Yunyue Yuan\n\n\n10\nIbraheem, Isha Savant, Zidi Zhang\n\n\n14\nCathy Chen, Kelly Ho, Alyssa Jones, Anna Kurian, Ryotaro Suzuki\n\n\n15\nBudoor Alrahmah, Apoorva S, Sandli Thakur"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "slides/workshop01.html#importance-of-policy-analysis",
-    "href": "slides/workshop01.html#importance-of-policy-analysis",
-    "title": "Workshop 01Define the Problem",
-    "section": "Importance of Policy Analysis",
-    "text": "Importance of Policy Analysis\n\n“Policy analysis is a social and political activity […] it concerns the lives and well-being of large numbers of their fellow citizens.”\n— Bardach and Patashnik (2020)\n\n\nGoes beyond personal decision-making\nInvolves collaboration with professionals and stakeholders\nAffects public welfare and resource allocation"
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Workshop Schedule\nWelcome to the EPA101 Workshop Schedule page. This schedule outlines the key dates, workshops, and deliverables for the course. Some workshops are focused on collaborative learning and do not have associated deliverables, while others coincide with important assignment due dates. Use this schedule to manage your time effectively and ensure you’re prepared for each class.\nPlease note that not all workshops have deliverables due. Workshops without deliverables are designed to help you develop your project through collaborative discussions and activities. Make sure to attend each workshop prepared to engage with the material and your peers.\n\n\n\nEPA PCA Workshop Schedule\n\n\n\n\n\n\n\nDate\nActivity\nDeliverable\n\n\n\n\nSept. 16\nWorkshop #1:\nDefine the problem and assemble some evidence\nNo\n\n\nSept. 18\nDraft #1 due:\nSector Analysis & Problem Definition assignment\nYes\n\n\nSept. 25\nWorkshop #2:\nConstruct the alternatives\nNo\n\n\nOct. 9\nWorkshop #3:\nSelect the criteria\nNo\n\n\nOct. 21\nDraft #2 due:\nRevisions of Draft #1 + Policy Alternatives & Evaluation Criteria\nYes\n\n\nOct. 28\nWorkshop #4:\nProject the outcomes\nNo\n\n\nNov. 13\nWorkshop #5:\nConfront the trade-offs\nNo\n\n\nDec. 2\nDraft #3 due & Final Presentations:\nStop, focus, narrow, deepen and decide; Tell your story\nYes\n\n\nDec. 16\nFinal Policy Analysis Paper (PAP) due\nYes\n\n\n\n\n\n\n\nGood luck, and we look forward to your participation throughout the course!"
   },
   {
-    "objectID": "slides/workshop01.html#bardachs-eightfold-path",
-    "href": "slides/workshop01.html#bardachs-eightfold-path",
-    "title": "Workshop 01Define the Problem",
-    "section": "Bardach’s Eightfold Path",
-    "text": "Bardach’s Eightfold Path\n\nDefine the Problem\nAssemble Some Evidence\nConstruct the Alternatives\nSelect the Criteria\nProject the Outcomes\nConfront the Trade-offs\nStop, focus, narrow, deepen and decide\nTell Your Story\n\n\n\n\n\n\n\nToday\n\n\nFocus on Step One: Define the Problem"
+    "objectID": "workshop/w01.html",
+    "href": "workshop/w01.html",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "",
+    "text": "Welcome to the first workshop of the EPA Policy Analysis course. In this session, we will focus on defining your policy problem within the field of education policy and assembling the necessary evidence to support your analysis.\nView all slides in new window  Download PDF of all slides",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#defining-the-problem",
-    "href": "slides/workshop01.html#defining-the-problem",
-    "title": "Workshop 01Define the Problem",
+    "objectID": "workshop/w01.html#objectives",
+    "href": "workshop/w01.html#objectives",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Objectives",
+    "text": "Objectives\n\nConduct a situational analysis in education policy.\nFrame a clear and concise policy question.\nEffectively define the problem you aim to address.\nBegin assembling evidence to support your problem statement.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
+  },
+  {
+    "objectID": "workshop/w01.html#situational-analysis",
+    "href": "workshop/w01.html#situational-analysis",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Situational Analysis",
+    "text": "Situational Analysis\nA situational analysis helps you understand the context and environment in which your policy problem exists. In education policy, this involves examining various factors that influence educational outcomes.\n\nSteps for Situational Analysis\n\nIdentify the Context\n\nDetermine the specific area of education you are focusing on (e.g., K-12, higher education, special education).\nUnderstand the geographical scope (local, state, national).\n\nGather Data\n\nCollect quantitative data: graduation rates, test scores, funding levels.\nCollect qualitative data: stakeholder interviews, case studies.\n\nAnalyze Policy Environment\n\nReview existing policies, regulations, and legislation.\nIdentify recent reforms or initiatives.\n\nStakeholder Analysis\n\nIdentify key stakeholders: students, parents, teachers, administrators, policymakers.\nUnderstand their interests, influence, and relationships.\n\nIdentify Challenges and Opportunities\n\nHighlight gaps in policy implementation.\nNote any emerging trends or issues.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
+  },
+  {
+    "objectID": "workshop/w01.html#framing-your-policy-question",
+    "href": "workshop/w01.html#framing-your-policy-question",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Framing Your Policy Question",
+    "text": "Framing Your Policy Question\nA well-framed policy question guides your analysis and sets the direction for your research.\n\nCharacteristics of a Good Policy Question\n\nSpecific: Clearly defines the issue without being too narrow.\nResearchable: Can be answered through analysis and evidence.\nRelevant: Addresses a significant problem affecting stakeholders.\nNeutral: Avoids bias and does not assume a solution.\n\n\n\nExample Policy Questions\n\n“How can state education agencies improve access to quality STEM education in underfunded schools?”\n“What policies can reduce the achievement gap between urban and rural students in standardized testing?”\n“In what ways can teacher retention rates be increased in low-income districts?”",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
+  },
+  {
+    "objectID": "workshop/w01.html#defining-the-problem",
+    "href": "workshop/w01.html#defining-the-problem",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
     "section": "Defining the Problem",
-    "text": "Defining the Problem\n\nIdentify actors\nThink in Terms of Deficit and Excess\n\nUse words like too much, too little, too fast, too slow\n\nMake the Definition Evaluative\n\nIdentify why the situation is problematic\nConsider different perspectives and evaluative frameworks\n\nQuantify If Possible\n\nAttach magnitudes to deficits or excesses\nUse data to support your problem statement\nAvoid defining the solution into the problem!"
+    "text": "Defining the Problem\nDefining the problem is a critical step that sets the foundation for your policy analysis.\n\nGuidelines for Problem Definition\n\nBe Clear and Concise\n\nArticulate the problem in a straightforward manner.\nKeep the statement focused on a single issue.\n\nUse Evidence\n\nSupport your problem definition with data and research.\nCite credible sources to substantiate the problem’s significance.\n\nFocus on the Root Cause\n\nDistinguish between symptoms and underlying causes.\nAim to address the root of the problem, not just its manifestations.\n\nConsider the Impact\n\nExplain who is affected and how.\nDiscuss the short-term and long-term consequences.\n\n\n\n\nProblem Definition Template\n\nProblem Statement: [Subject] is experiencing [problem], resulting in [consequences], due to [root cause].\n\n\n\nExample Problem Definition\n\n“Low-income high school students in urban areas are experiencing high dropout rates, resulting in reduced employment opportunities and perpetuating cycles of poverty, due to insufficient access to supportive educational resources and interventions.”",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement",
-    "href": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement",
-    "title": "Workshop 01Define the Problem",
-    "section": "Which of the following is the strongest problem statement?",
-    "text": "Which of the following is the strongest problem statement?\n\nThere are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.\nMany teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates.\nThere are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.\n\nThere are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions."
-  },
-  {
-    "objectID": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement-1",
-    "href": "slides/workshop01.html#which-of-the-following-is-the-strongest-problem-statement-1",
-    "title": "Workshop 01Define the Problem",
-    "section": "Which of the following is the strongest problem statement?",
-    "text": "Which of the following is the strongest problem statement?\n\nThere are not enough qualified teachers entering the workforce, so policymakers should consider raising salaries, improving working conditions, and reducing classroom size.\nMany teachers enter the workforce without the proper qualifications, so policymakers need to increase teacher salaries to attract more qualified candidates.\nThere are too few qualified teachers entering the workforce, resulting in overcrowded classrooms with unqualified teachers.\nThere are too few qualified teachers entering the workforce due to lack of adequate pay and poor working conditions."
-  },
-  {
-    "objectID": "slides/workshop01.html#situation-analysis-in-policy-work",
-    "href": "slides/workshop01.html#situation-analysis-in-policy-work",
-    "title": "Workshop 01Define the Problem",
-    "section": "Situation Analysis in Policy Work",
-    "text": "Situation Analysis in Policy Work\n\nAssess the Particular Features of the Situation\n\nUnderstand the context and environment of the policy issue\nIdentify stakeholders, resources, constraints, and opportunities\n\nImportance in Education Policy\n\nEducation policies are influenced by social, economic, and political factors\nRequires understanding of institutional structures and target populations"
-  },
-  {
-    "objectID": "slides/workshop01.html#not-real-example-situation-analysis-in-education-policy",
-    "href": "slides/workshop01.html#not-real-example-situation-analysis-in-education-policy",
-    "title": "Workshop 01Define the Problem",
-    "section": "Not-real Example: Situation Analysis in Education Policy",
-    "text": "Not-real Example: Situation Analysis in Education Policy\n\nCase Study: High Teacher Turnover in Urban Schools in Country X.\n\nProblem Definition: “There is an excessive rate of teacher turnover in urban public schools, leading to decreased educational quality and student performance.”\n\nSituation Analysis:\n\nContext: Urban schools experiencing annual teacher turnover rates exceeding 25%\nStakeholders: Teachers, students, parents, school administrators, education departments\nConstraints: Low teacher salaries, challenging work environments, lack of resources\nOpportunities: Implement teacher retention programs, offer incentives, improve working conditions"
-  },
-  {
-    "objectID": "slides/workshop01.html#tips-for-creating-good-problem-statements",
-    "href": "slides/workshop01.html#tips-for-creating-good-problem-statements",
-    "title": "Workshop 01Define the Problem",
-    "section": "Tips for Creating Good Problem Statements",
-    "text": "Tips for Creating Good Problem Statements\n\nData – How Specific?\n\nBe precise with data usage\n\nDeficit and Excess\n\nUse phrases like “too many students…”\n\nOdds\n\nExpress likelihoods, e.g., “highly likely that…”\n\nQuantify\n\nInclude statistics like “3 out of 10…”"
-  },
-  {
-    "objectID": "slides/workshop01.html#tips-for-creating-good-problem-statements-1",
-    "href": "slides/workshop01.html#tips-for-creating-good-problem-statements-1",
-    "title": "Workshop 01Define the Problem",
-    "section": "Tips for Creating Good Problem Statements",
-    "text": "Tips for Creating Good Problem Statements\n\nWhy This Problem? Why Now?\n\nJustify the urgency and relevance\n\nLatent Opportunities\n\nIdentify what could improve\n\nTrends & Location\n\nExplain urgency through trends and specific locations\n\nIterate & Consider Naysayers\n\nBe open to feedback and different perspectives"
-  },
-  {
-    "objectID": "slides/workshop01.html#group-exercise-1-refining-problem-statements",
-    "href": "slides/workshop01.html#group-exercise-1-refining-problem-statements",
-    "title": "Workshop 01Define the Problem",
-    "section": "Group Exercise 1: Refining Problem Statements",
-    "text": "Group Exercise 1: Refining Problem Statements\n\nActivity (20 minutes):\n\nForm new groups by mixing members from different project teams\nExchange problem statements from your projects\nReview and provide feedback using Bardach’s guidelines:\n\n\nIs the problem framed in terms of deficit or excess?\nDoes it include an evaluative component?\nHave common pitfalls been avoided?\n\nDiscussion Points:\n\nHow can the problem statement be improved?\nAre there quantifiable elements that can be added?\nWhat alternative perspectives should be considered?"
-  },
-  {
-    "objectID": "slides/workshop01.html#example-situation-analysis-in-education-policy",
-    "href": "slides/workshop01.html#example-situation-analysis-in-education-policy",
-    "title": "Workshop 01Define the Problem",
-    "section": "Example: Situation Analysis in Education Policy",
-    "text": "Example: Situation Analysis in Education Policy\n\n\nCase Study: Florida’s Immigration Bill Impact on Undocumented Students\n\nProblem Definition: “There is a significant deficit in equitable access to Florida’s public higher education for undocumented students caused by recent restrictive immigration legislation.”\n\nSituation Analysis:\n\nContext: New legislation prohibiting funds for identification documents to undocumented immigrants\nStakeholders: Undocumented students, universities, state government, community organizations\nConstraints: Legal barriers, fear of data collection, reduced financial aid options\nOpportunities: Advocacy for policy change, community support programs"
-  },
-  {
-    "objectID": "slides/workshop01.html#common-pitfalls-to-avoid",
-    "href": "slides/workshop01.html#common-pitfalls-to-avoid",
-    "title": "Workshop 01Define the Problem",
-    "section": "Common Pitfalls to Avoid",
-    "text": "Common Pitfalls to Avoid\n\nDefining the Solution into the Problem\n\nAvoid implying a specific solution in your problem statement\nExample: Don’t say “There is too little shelter for homeless families”\nInstead, say “Too many families are homeless”\nToo little was use here in this example, why is it different from “think in terms of definit anc excess” from the last slide?\n\nAssuming Causality Without Evidence\n\nDon’t assume causes without proper analysis\nBase your problem definition on evidence, not assumptions"
-  },
-  {
-    "objectID": "slides/workshop01.html#group-exercise-2-applying-situation-analysis",
-    "href": "slides/workshop01.html#group-exercise-2-applying-situation-analysis",
-    "title": "Workshop 01Define the Problem",
-    "section": "Group Exercise 2: Applying Situation Analysis",
-    "text": "Group Exercise 2: Applying Situation Analysis\n\nActivity (20 minutes):\n\nReturn to your original project groups\nPerform a situation analysis for your policy issue:\n\n\nIdentify key stakeholders\nOutline the context and environment\nNote constraints and opportunities\n\n\nPrepare to share a brief summary with the larger group and changes you made"
-  },
-  {
-    "objectID": "slides/workshop01.html#assembling-evidence",
-    "href": "slides/workshop01.html#assembling-evidence",
-    "title": "Workshop 01Define the Problem",
+    "objectID": "workshop/w01.html#assembling-evidence",
+    "href": "workshop/w01.html#assembling-evidence",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
     "section": "Assembling Evidence",
-    "text": "Assembling Evidence\n\n“Think before you collect […] you can be a much more efficient collector of data if you think about what you need.”\n— Bardach and Patashnik (2020)\n\n\nPurpose of Evidence Gathering:\n\nAssess the nature and extent of the problem\nUnderstand the policy situation and context\n\nIn Education Policy:\n\nUse data on enrollment, demographics, funding, outcomes\nConsider qualitative information from stakeholders"
+    "text": "Assembling Evidence\nCollecting robust evidence is essential to support your problem statement and future policy recommendations.\n\nTypes of Evidence to Collect\n\nStatistical Data\n\nEnrollment and dropout rates.\nTest scores and academic performance metrics.\n\nResearch Studies\n\nAcademic articles analyzing similar problems.\nMeta-analyses and literature reviews.\n\nPolicy Documents\n\nExisting laws, regulations, and policy briefs.\nGovernment reports and white papers.\n\nStakeholder Perspectives\n\nInterviews or surveys with affected populations.\nTestimonies from educators and administrators.\n\n\n\n\nReliable Sources\n\nGovernment Agencies\n\nU.S. Department of Education\nNational Center for Education Statistics (NCES)\n\nInternational Organizations\n\nOrganisation for Economic Co-operation and Development (OECD)\nUnited Nations Educational, Scientific and Cultural Organization (UNESCO)\n\nAcademic Journals\n\nEducational Evaluation and Policy Analysis\nJournal of Education Policy\n\nThink Tanks and Research Institutes\n\nBrookings Institution\nRAND Corporation\nEducation Policy Institute\n\n\n\n\nOrganizing Your Evidence\n\nCreate an Evidence Matrix\n\nOrganize evidence by source, type, and relevance.\nNote the key findings and how they support your problem statement.\n\nEvaluate Source Credibility\n\nAssess the reliability and validity of your sources.\nPrioritize peer-reviewed and official publications.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#group-exercise-3-planning-evidence-collection",
-    "href": "slides/workshop01.html#group-exercise-3-planning-evidence-collection",
-    "title": "Workshop 01Define the Problem",
-    "section": "Group Exercise 3: Planning Evidence Collection",
-    "text": "Group Exercise 3: Planning Evidence Collection\n\nActivity (15 minutes):\n\nIn your project groups, outline a plan for assembling evidence:\n\n\nWhat data do you need to quantify your problem?\nWhere can you find this information?\nHow will you ensure the evidence is relevant and reliable?\n\n\nShare one key data source you plan to use"
+    "objectID": "workshop/w01.html#action-items",
+    "href": "workshop/w01.html#action-items",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Action Items",
+    "text": "Action Items\nBy the end of this workshop, you should:\n\nDraft a Clear Problem Statement\n\nUse the guidelines provided to write your initial problem statement.\n\nBegin Your Situational Analysis\n\nCollect preliminary data and identify key stakeholders.\n\nCompile Initial Evidence\n\nGather at least 3-5 credible sources that support your problem definition.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#project-1-impact-of-floridas-immigration-bill-on-undocumented-students",
-    "href": "slides/workshop01.html#project-1-impact-of-floridas-immigration-bill-on-undocumented-students",
-    "title": "Workshop 01Define the Problem",
-    "section": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students",
-    "text": "Project 1: Impact of Florida’s Immigration Bill on Undocumented Students\n\nClarify the Problem Definition:\n\nFrame the problem as a deficit in equitable access to higher education\nUse evaluative language to highlight why this is problematic\n\nQuantify the Impact:\n\nInclude data on the number of students affected\nProvide statistics on enrollment declines or financial aid loss\n\nAvoid Pitfalls:\n\nDo not assume causes without evidence\n\nConsider Multiple Perspectives:\n\nAcknowledge different viewpoints on immigration policies"
+    "objectID": "workshop/w01.html#upcoming-deliverable",
+    "href": "workshop/w01.html#upcoming-deliverable",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Upcoming Deliverable",
+    "text": "Upcoming Deliverable\n\nDraft #1 Due on Sept. 18\n\nAssignment: Sector Analysis & Problem Definition\nRequirements:\n\nA concise problem statement.\nA situational analysis summarizing the context.\nA preliminary list of evidence.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#project-2-blended-financing-for-akanksha-schools-in-india",
-    "href": "slides/workshop01.html#project-2-blended-financing-for-akanksha-schools-in-india",
-    "title": "Workshop 01Define the Problem",
-    "section": "Project 2: Blended Financing for Akanksha Schools in India",
-    "text": "Project 2: Blended Financing for Akanksha Schools in India\n\nDefine the Deficit Explicitly:\n\nClearly state the shortage of blended financing as the core issue\n\nStrengthen the Evaluative Aspect:\n\nExplain why lack of funding is detrimental to educational equity\n\nAvoid Solution Bias:\n\nDo not assume private sector alignment is the only solution\n\nClarify Objectives:\n\nSpecify whether the goal is to propose policy changes or funding strategies"
+    "objectID": "workshop/w01.html#tips-for-success",
+    "href": "workshop/w01.html#tips-for-success",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Tips for Success",
+    "text": "Tips for Success\n\nStart Early\n\nGive yourself ample time to research and refine your problem statement.\n\nSeek Feedback\n\nDiscuss your ideas with peers or instructors to gain new perspectives.\n\nBe Open to Revisions\n\nYour problem definition may evolve as you gather more evidence.\n\nMaintain Academic Integrity\n\nCite all sources appropriately to avoid plagiarism.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#project-3-standardized-testing-and-equity-in-admissions-at-harvard",
-    "href": "slides/workshop01.html#project-3-standardized-testing-and-equity-in-admissions-at-harvard",
-    "title": "Workshop 01Define the Problem",
-    "section": "Project 3: Standardized Testing and Equity in Admissions at Harvard",
-    "text": "Project 3: Standardized Testing and Equity in Admissions at Harvard\n\nFrame the Problem as an Excess:\n\n“There is an excess reliance on standardized tests, potentially exacerbating inequalities.”\n\nEnhance Evaluative Language:\n\nHighlight how this affects diversity and fairness in admissions\n\nAvoid Assumptions:\n\nBase your analysis on evidence, not preconceived notions about testing\n\nNarrow the Scope if Necessary:\n\nConsider focusing on specific programs or levels (e.g., undergraduate)\n\nConsider Data Availability:\n\nEnsure you have access to relevant admissions data for analysis"
+    "objectID": "workshop/w01.html#additional-resources",
+    "href": "workshop/w01.html#additional-resources",
+    "title": "Workshop #1: Define the Problem and Assemble Evidence",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nPolicy Analysis Guides\n\nBardach, E., & Patashnik, E. M. (2019). A Practical Guide for Policy Analysis: The Eightfold Path to More Effective Problem Solving. CQ Press.\n\nEducation Policy Organizations\n\nEducation Week: www.edweek.org\nNational Education Policy Center: nepc.colorado.edu",
+    "crumbs": [
+      "Workshops",
+      "Workshop 01: Define"
+    ]
   },
   {
-    "objectID": "slides/workshop01.html#project-4-financial-sustainability-for-education-to-employment-programs",
-    "href": "slides/workshop01.html#project-4-financial-sustainability-for-education-to-employment-programs",
-    "title": "Workshop 01Define the Problem",
-    "section": "Project 4: Financial Sustainability for Education-to-Employment Programs",
-    "text": "Project 4: Financial Sustainability for Education-to-Employment Programs\n\nExplicitly State the Deficit:\n\nIdentify the lack of financial sustainability and stakeholder engagement\n\nUse Evaluative Language:\n\nEmphasize how this threatens progress in gender equality and empowerment\n\nClarify the Problem Statement:\n\nBe concise and focus on the core issues affecting the program’s sustainability\n\nIdentify Stakeholders Clearly:\n\nInclude local communities, government entities, and international organizations"
-  },
-  {
-    "objectID": "slides/workshop01.html#wrap-up-and-next-steps",
-    "href": "slides/workshop01.html#wrap-up-and-next-steps",
-    "title": "Workshop 01Define the Problem",
-    "section": "Wrap-Up and Next Steps",
-    "text": "Wrap-Up and Next Steps\n\nKey Takeaways:\n\nEffective problem definition is crucial for policy analysis\nFrame problems in terms of deficit or excess with evaluative language\nAvoid common pitfalls like embedding solutions or unfounded assumptions\n\nAction Items:\n\nRevise your problem statements based on today’s exercise\nPrepare for the next workshop, where we’ll delve into assembling evidence\n\nQuestions, Feedback, and Exit ticket: https://bit.ly/4dLGile"
-  },
-  {
-    "objectID": "slides/workshop01.html#next-steps",
-    "href": "slides/workshop01.html#next-steps",
-    "title": "Workshop 01Define the Problem",
-    "section": "Next Steps",
-    "text": "Next Steps\n\nCanvas Assignment - Draft #1: Education Sector Analysis & Problem Definition (Due 9/18 noon) [Complete/Incomplete]\n\nImprove problem statement based on feedback today\nNo set format/word count for now\n\nWorkshop #2 - 9/25 (Next Wed)\n\nRead Bardach Pg 14 - 49\nAssemble 3-4 policy alternatives\nSelect at least 3 distinct criteria\nSupport with evidence"
-  },
-  {
-    "objectID": "workshop/w02.html",
-    "href": "workshop/w02.html",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html",
+    "href": "workshop/w03.html",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "",
     "text": "View all slides in new window  Download PDF of all slides",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w02.html#importance-of-evidence-in-policy-analysis",
-    "href": "workshop/w02.html#importance-of-evidence-in-policy-analysis",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Importance of Evidence in Policy Analysis",
-    "text": "Importance of Evidence in Policy Analysis\nAll time spent on policy analysis revolves around two activities: thinking and hustling data that can be transformed into evidence. Effective evidence collection is essential, especially given the real-world constraints like time pressure, which can jeopardize the quality of your analysis.\n\n“Evidence is information that affects the existing beliefs of important people (including yourself) about significant features of the problem you are studying and how it might be solved or mitigated.”\n— Bardach & Patashnik, 2020, p. 36",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#purposes-of-assembling-evidence",
-    "href": "workshop/w02.html#purposes-of-assembling-evidence",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Purposes of Assembling Evidence",
-    "text": "Purposes of Assembling Evidence\n\nAssessing the Problem: Understand the nature and extent of the problem you’re addressing.\nUnderstanding the Policy Context: Gain insights into specific features of the policy situation, such as agency workloads, budget figures, political ideologies, and demographic changes.\nEvaluating Existing Policies: Examine policies that have worked in similar situations elsewhere.\n\n\nExample\nSuppose you’re analyzing the issue of smoking prevalence in different countries. Differential smoking rates can provide evidence about varying levels of concern for personal health, informing potential policy interventions.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#efficient-data-collection",
-    "href": "workshop/w02.html#efficient-data-collection",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Efficient Data Collection",
-    "text": "Efficient Data Collection\n\nFocus on Relevance: Continuously ask yourself what information you need and why.\nAvoid Irrelevant Data: Collecting data that cannot be developed into meaningful evidence is a common mistake.\nValue vs. Cost: Weigh the cost of obtaining evidence against its potential value in improving policy decisions.\n\n\nTips for Data Collection\n\nStart Early: Coordinating with busy stakeholders requires time.\nReview Available Literature: Utilize online resources to access existing research.\nUse Analogies and Best Practices: Look for solutions that worked in different contexts or consider unconventional approaches.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#building-credibility-and-consensus",
-    "href": "workshop/w02.html#building-credibility-and-consensus",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Building Credibility and Consensus",
-    "text": "Building Credibility and Consensus\nEngage with potential critics to incorporate diverse perspectives, ensuring that your analysis is balanced and comprehensive.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#defining-alternatives",
-    "href": "workshop/w02.html#defining-alternatives",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Defining Alternatives",
-    "text": "Defining Alternatives\nAlternatives refer to different policy options or courses of action aimed at solving or mitigating the problem. These can range from single actions to combinations of strategies.\n\n“Policy analysts use the term alternative ambiguously: sometimes it means one choice that implies forgoing another, and sometimes it means simply one more policy action that might help to solve or mitigate a problem, perhaps in conjunction with other alternatives.”\n— Bardach & Patashnik, 2020, p. 42",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#comprehensive-vs.-focused-alternatives",
-    "href": "workshop/w02.html#comprehensive-vs.-focused-alternatives",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Comprehensive vs. Focused Alternatives",
-    "text": "Comprehensive vs. Focused Alternatives\n\nStart Comprehensive: Initially, list a wide range of potential alternatives.\nNarrow Down: Gradually eliminate less viable options to focus on the most promising ones.\n\n\nExample\nIf addressing heroin use reduction, you might consider: - Methadone Maintenance: Expanding access to treatment programs. - Law Enforcement Pressure: Increasing policing efforts to deter use. - Drug Education: Implementing widespread educational campaigns.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#sources-for-generating-alternatives",
-    "href": "workshop/w02.html#sources-for-generating-alternatives",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Sources for Generating Alternatives",
-    "text": "Sources for Generating Alternatives\n\nProposals from Political Actors: Identify what key stakeholders are already considering.\nGeneric Strategies: Refer to checklists like Appendix A, “Things Governments Do,” to inspire innovative solutions.\nUnconventional Solutions: Encourage creative thinking by considering out-of-the-box ideas.\n\n\nCreative Techniques\n\n“If cost were no object”: Imagine ideal solutions without budget constraints.\nAnalogous Contexts: Apply successful strategies from different fields or regions.\nChallenge Assumptions: Regularly ask “why not” to explore new possibilities.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#refining-alternatives",
-    "href": "workshop/w02.html#refining-alternatives",
-    "title": "Workshop #2: Construct the alternatives",
-    "section": "Refining Alternatives",
-    "text": "Refining Alternatives\n\nBehavioral Detail: Clearly define what actions each alternative entails.\nMultistage Analysis: Consider policies as part of a dynamic, ongoing process rather than one-off decisions.",
-    "crumbs": [
-      "Workshops",
-      "Workshop 02: Alternatives"
-    ]
-  },
-  {
-    "objectID": "workshop/w02.html#understanding-criteria",
-    "href": "workshop/w02.html#understanding-criteria",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html#understanding-criteria",
+    "href": "workshop/w03.html#understanding-criteria",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "Understanding Criteria",
     "text": "Understanding Criteria\nCriteria are the standards used to evaluate the potential outcomes of each alternative. They bridge the gap between the analytic and evaluative aspects of policy analysis.\n\n“The most important step for introducing values and philosophy into the policy analysis, because some possible ‘criteria’ are evaluative standards used to judge the goodness of the projected policy outcomes that are associated with each of the alternatives.”\n— Bardach & Patashnik, 2020, p. 53",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w02.html#types-of-criteria",
-    "href": "workshop/w02.html#types-of-criteria",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html#types-of-criteria",
+    "href": "workshop/w03.html#types-of-criteria",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "Types of Criteria",
     "text": "Types of Criteria\n\nEvaluative Criteria: Standards used to assess the desirability of outcomes (e.g., efficiency, equity).\nPractical Criteria: Practical considerations related to policy implementation (e.g., legality, political acceptability).\n\n\nCommon Evaluative Criteria\n\nEfficiency: Maximizing aggregate welfare or public interest.\nEffectiveness: The degree to which the policy achieves its objectives.\nEquity: Fair distribution of benefits and burdens.\nPolitical Acceptability: The extent to which the policy is supported by stakeholders.\n\n\n\nExample\nFor a policy aimed at reducing homelessness: - Principal Criterion: Minimize the number of homeless families. - Secondary Criteria: Cost-effectiveness, political feasibility, and social equity.",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w02.html#selecting-and-defining-criteria",
-    "href": "workshop/w02.html#selecting-and-defining-criteria",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html#selecting-and-defining-criteria",
+    "href": "workshop/w03.html#selecting-and-defining-criteria",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "Selecting and Defining Criteria",
     "text": "Selecting and Defining Criteria\n\nPrimary Criterion: Directly related to solving the core problem.\nSecondary Criteria: Additional factors that influence the desirability of outcomes.\n\n\nSteps to Define Criteria\n\nMaximize/Minimize: Clearly state whether you aim to increase or decrease a particular value.\nOperationalize: Define metrics for each criterion to ensure clarity and measurability.\n\n\n\nCriterion\nMetric\n\n\n\n\nEfficiency\nCost per homeless family reduced\n\n\nEffectiveness\nPercentage decrease in homelessness\n\n\nEquity\nDistribution of benefits across demographics",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w02.html#avoiding-common-mistakes",
-    "href": "workshop/w02.html#avoiding-common-mistakes",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html#avoiding-common-mistakes",
+    "href": "workshop/w03.html#avoiding-common-mistakes",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "Avoiding Common Mistakes",
     "text": "Avoiding Common Mistakes\n\nDo Not Confuse Alternatives with Criteria: Alternatives are actions; criteria are standards for evaluation.\n\n“Alternatives are courses of action, whereas criteria are mental standards for evaluating the results of action.”\n— Bardach & Patashnik, 2020, p. 69",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w02.html#weighting-criteria",
-    "href": "workshop/w02.html#weighting-criteria",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html#weighting-criteria",
+    "href": "workshop/w03.html#weighting-criteria",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "Weighting Criteria",
     "text": "Weighting Criteria\n\nRelative Importance: Determine the weight of each criterion based on their importance to the policy goals.\nBalancing Values: Address conflicts between criteria by prioritizing based on overarching values or philosophical considerations.\n\n\nApproaches to Weighting\n\nPolitical Process: Let existing political frameworks determine weights.\nAnalyst Imposition: Adjust weights based on fairness and underrepresented interests.",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w02.html#practical-application",
-    "href": "workshop/w02.html#practical-application",
-    "title": "Workshop #2: Construct the alternatives",
+    "objectID": "workshop/w03.html#practical-application",
+    "href": "workshop/w03.html#practical-application",
+    "title": "Workshop #3: Evaluation Criteria",
     "section": "Practical Application",
     "text": "Practical Application\nWhen selecting criteria for your analysis: - Group Positive and Negative Criteria Separately: For clarity in evaluation. - Specify Metrics: Ensure each criterion has a clear, measurable indicator. - Focus on Clarity and Relevance: Criteria should be directly related to the policy objectives and practical considerations.",
     "crumbs": [
       "Workshops",
-      "Workshop 02: Alternatives"
+      "Workshop 03: Criteria"
     ]
   },
   {
-    "objectID": "workshop/w04.html",
-    "href": "workshop/w04.html",
-    "title": "Workshop #4: Project the Outcomes",
+    "objectID": "workshop/w05.html",
+    "href": "workshop/w05.html",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
     "section": "",
     "text": "View all slides in new window  Download PDF of all slides",
     "crumbs": [
       "Workshops",
-      "Workshop 04: Outcomes"
+      "Workshop 05: Trade-offs"
     ]
   },
   {
-    "objectID": "workshop/w04.html#overview",
-    "href": "workshop/w04.html#overview",
-    "title": "Workshop #4: Project the Outcomes",
-    "section": "Overview",
-    "text": "Overview\nWelcome to Workshop #4, focusing on Step Five: Project the Outcomes in education policy analysis. In this session, we will delve into the critical process of forecasting the potential impacts of various policy alternatives. Understanding how to project outcomes effectively is essential for bridging the gap between theoretical policy options and their real-world implications, ensuring that your analysis remains grounded, realistic, and actionable.",
+    "objectID": "workshop/w05.html#workshop-overview",
+    "href": "workshop/w05.html#workshop-overview",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "section": "Workshop Overview",
+    "text": "Workshop Overview\nThis workshop, Confronting Trade-offs and Addressing Uncertainty in Education Policy, builds on prior steps in policy analysis by focusing on how to evaluate and balance competing policy alternatives. Effective education policies require weighing benefits, costs, and risks to address the complex challenges within education systems. This session will cover practical tools and strategies for managing trade-offs and uncertainty, equipping you with essential skills to make informed policy recommendations.",
     "crumbs": [
       "Workshops",
-      "Workshop 04: Outcomes"
+      "Workshop 05: Trade-offs"
     ]
   },
   {
-    "objectID": "workshop/w04.html#what-youll-learn",
-    "href": "workshop/w04.html#what-youll-learn",
-    "title": "Workshop #4: Project the Outcomes",
-    "section": "What You’ll Learn",
-    "text": "What You’ll Learn\nDuring this workshop, you will explore the key components of projecting outcomes, including:\n\nDeveloping Magnitude Estimates: Learn how to quantify the expected impacts of policies with specific, measurable estimates to enhance clarity and prevent misinterpretation.\nBreak-Even Analysis: Understand how to determine whether the benefits of a policy justify its costs, ensuring financial viability and sustainability.\nSensitivity Analysis: Discover techniques to examine how changes in key assumptions can affect your projections, helping you identify and prioritize uncertainties.\nScenario Writing: Gain skills in creating realistic scenarios that anticipate different future conditions, enabling you to prepare for a range of possible outcomes.\nAnticipating Undesirable Side Effects: Learn to identify and mitigate potential negative consequences of policies to design more effective and comprehensive interventions.\nConstructing an Outcomes Matrix: Master the creation of a visual tool that compares policy alternatives against evaluative criteria, facilitating informed decision-making.",
+    "objectID": "workshop/w05.html#objectives",
+    "href": "workshop/w05.html#objectives",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand trade-offs: Learn how to identify and assess trade-offs in policy alternatives, focusing on outcomes rather than alternatives themselves.\nManage uncertainty: Explore strategies for addressing uncertainties that can impact policy outcomes, including sensitivity analysis and scenario planning.\nApply tools for evaluation: Use tools such as outcomes matrices, break-even analysis, and rank-ordering to facilitate decision-making in complex policy contexts.",
     "crumbs": [
       "Workshops",
-      "Workshop 04: Outcomes"
+      "Workshop 05: Trade-offs"
     ]
   },
   {
-    "objectID": "workshop/w04.html#key-components-of-step-five",
-    "href": "workshop/w04.html#key-components-of-step-five",
-    "title": "Workshop #4: Project the Outcomes",
-    "section": "Key Components of Step Five",
-    "text": "Key Components of Step Five\nProjecting outcomes involves several interrelated components that work together to provide a comprehensive forecast of policy impacts:\n\nMagnitude Estimates: Clearly define the extent of expected impacts with numerical data. For example, instead of saying a policy will “improve student engagement,” specify that it will “increase student participation in extracurricular activities by 15% over two years.”\nBreak-Even Analysis: Assess whether the anticipated benefits of a policy outweigh its costs. This involves calculating the point at which benefits equal costs and evaluating the feasibility of achieving this balance.\nSensitivity Analysis: Identify which variables have the most significant impact on your outcomes and test how variations in these variables influence your projections. This helps prioritize areas that require more robust data or contingency planning.\nScenario Writing: Develop multiple scenarios—best-case, worst-case, and most likely—to understand how different future conditions might affect policy outcomes. This encourages both creative and evidence-based thinking.\nOutcomes Matrix: Create a matrix that visually represents how each policy alternative performs against various criteria such as efficacy, cost-effectiveness, operational feasibility, economic impact, and political acceptability. This tool aids in comparing and contrasting the potential outcomes of each option.",
+    "objectID": "workshop/w05.html#guiding-questions",
+    "href": "workshop/w05.html#guiding-questions",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "section": "Guiding Questions",
+    "text": "Guiding Questions\nTo frame our discussion and activities, consider the following questions:\n\nHow do we effectively compare policy alternatives when they vary across key criteria (e.g., cost, efficacy, equity)?\nWhat are the main sources of uncertainty in education policy analysis, and how can we manage them?\nIn what ways can tools like break-even analysis and sensitivity analysis help in evaluating the viability of policy options?\nHow do we prioritize or rank-order policies when resource constraints limit our ability to pursue all desirable options?",
     "crumbs": [
       "Workshops",
-      "Workshop 04: Outcomes"
+      "Workshop 05: Trade-offs"
     ]
   },
   {
-    "objectID": "workshop/w04.html#education-focused-outcomes-matrix-example",
-    "href": "workshop/w04.html#education-focused-outcomes-matrix-example",
-    "title": "Workshop #4: Project the Outcomes",
-    "section": "Education-Focused Outcomes Matrix Example",
-    "text": "Education-Focused Outcomes Matrix Example\n\n\n\n\n\n\n\n\n\n\n\nPolicy Scenario\n% Improvement from Baseline (Efficacy)\nCost per Student Improved ($)\nOperational Feasibility (O)\nEconomic Impact (E)\nPolitical Acceptability (P)\n\n\n\n\nExisting Programs\n\n\n\n\n\n\n\nMentorship Programs\n5% to 7%\n$200\nHigh\nMedium\nHigh\n\n\nNew Initiatives\n\n\n\n\n\n\n\nExpanded Financial Aid\n10% to 12%\n$500\nMedium\nHigh\nMedium\n\n\nEnhanced Curricula\n7% to 9%\n$300\nHigh\nHigh\nHigh\n\n\nStandardized Testing\n3% to 4%\n$150\nLow\nLow\nLow\n\n\nInnovative Approaches\n\n\n\n\n\n\n\nTechnology Integration\n8% to 10%\n$250\nMedium\nHigh\nMedium\n\n\nEarly Childhood Education Expansion\n12% to 15%\n$400\nMedium\nHigh\nHigh\n\n\n\nProjecting outcomes is a pivotal step in education policy analysis. By meticulously estimating the potential impacts of each policy alternative, maintaining a balance between realism and optimism, and anticipating uncertainties and side effects, you can provide a robust foundation for making informed and effective policy recommendations. Utilize both quantitative and qualitative methods, engage with stakeholders, and remain transparent in your projections to enhance the credibility and effectiveness of your analysis.",
+    "objectID": "workshop/w05.html#key-concepts-and-tools",
+    "href": "workshop/w05.html#key-concepts-and-tools",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "section": "Key Concepts and Tools",
+    "text": "Key Concepts and Tools\n\nUnderstanding Trade-offs\nIn policy analysis, trade-offs arise when competing criteria make it impossible for one policy to satisfy all objectives equally. Rather than comparing alternatives directly, we focus on the outcomes each alternative can achieve across criteria like cost-effectiveness, efficacy, and equity.\n\n\nCommensurability and Weighting Criteria\nTo effectively compare alternatives, we often need a common metric to assess diverse outcomes (e.g., cost per student outcome). While monetary values can help, it is essential to acknowledge the limitations when intangible benefits are involved (e.g., student well-being). Break-even analysis can assist in determining whether expected outcomes justify costs, creating a clear threshold for decision-making.\n\n\nAddressing Uncertainty\nPolicy outcomes are seldom guaranteed, and uncertainties, like economic fluctuations or shifts in political support, can affect outcomes. Sensitivity analysis allows us to test how changes in assumptions impact results, while scenario planning can prepare us for varied future conditions. These tools help ensure policy recommendations remain robust across multiple possible scenarios.\n\n\nConstructing and Analyzing Trade-offs\nAn outcomes matrix provides a structured comparison across criteria, facilitating transparent evaluation of each policy alternative. By systematically assessing efficacy, cost, feasibility, and acceptability, analysts can clarify which options provide the most balanced benefits. Ranking alternatives based on their overall impact further refines the decision-making process.",
     "crumbs": [
       "Workshops",
-      "Workshop 04: Outcomes"
+      "Workshop 05: Trade-offs"
+    ]
+  },
+  {
+    "objectID": "workshop/w05.html#interactive-exercise",
+    "href": "workshop/w05.html#interactive-exercise",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "section": "Interactive Exercise",
+    "text": "Interactive Exercise\nDuring the workshop, we will engage in a group exercise that applies these concepts to a real-world scenario:\n\nGroup Task: In your PAP (Policy Analysis Project) groups, select one education policy alternative from an outcomes matrix. Assess the trade-offs associated with your chosen policy and discuss key uncertainties that could affect its success.\nGuiding Questions for Group Analysis:\n\nWhat are the major benefits and drawbacks of this policy?\nHow does the policy impact different stakeholders (e.g., students, educators)?\nWhat external factors could alter the effectiveness of this policy?\nHow can we mitigate the negative aspects or manage uncertainty?\n\n\nThis exercise encourages critical thinking and collaborative problem-solving, simulating the complexities of real-world education policy analysis.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 05: Trade-offs"
+    ]
+  },
+  {
+    "objectID": "workshop/w05.html#takeaways",
+    "href": "workshop/w05.html#takeaways",
+    "title": "Workshop #5: Confront the tradeoffs,address uncertainty",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nBalanced Evaluation: Assessing trade-offs requires balancing multiple criteria and considering the diverse needs of stakeholders.\nPreparedness for Uncertainty: Addressing uncertainty is a proactive step in ensuring policy recommendations remain viable under various conditions.\nDecision-Making Tools: Tools such as outcomes matrices, break-even analysis, and sensitivity analysis are crucial for transparent, informed evaluations.\nStructured Comparison: Use rank-ordering and common metrics where possible to streamline the selection of effective policy alternatives.",
+    "crumbs": [
+      "Workshops",
+      "Workshop 05: Trade-offs"
     ]
   }
 ]
